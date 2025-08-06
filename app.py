@@ -5,6 +5,7 @@ from deepseek_api import call_openai
 from progress import load_progress, save_progress
 from dynamic_quiz_generator import generate_dynamic_quiz
 from completed_tracker import load_completed, mark_completed, unmark_completed
+from vector_utils import build_lesson_vectors, search_lessons
 
 # Markdown cleaning function
 def clean_markdown(md_text: str) -> str:
@@ -27,6 +28,7 @@ def load_template():
         return f.read()
 
 lessons = load_lessons()
+lesson_vectors = build_lesson_vectors(lessons)
 template = load_template()
 
 if "current_index" not in st.session_state:
@@ -151,10 +153,12 @@ if st.button("Submit Question"):
     if question.strip() == "":
         st.warning("Please enter a question.")
     else:
+        related = search_lessons(question, lessons, lesson_vectors)
+        context = "\n\n".join(l["Content"] for l in related) or lesson["Content"]
         qa_prompt = f"""Lesson content:
-{lesson['Content']}
+{context}
 
-Please answer the student's question based on the lesson above:
+Please answer the student's question based on the lesson content above:
 Question: {question}
 """
         messages = [
@@ -164,6 +168,10 @@ Question: {question}
         with st.spinner("Thinking..."):
             answer = call_openai(messages)
             st.markdown(f"📘 Answer:\n\n{answer}")
+        if related:
+            st.markdown("### 🔍 Related Lessons")
+            for l in related:
+                st.markdown(f"- {l['No']}: {l['Title']}")
 
 # Quiz generation
 if f"quiz_{idx}" not in st.session_state:
