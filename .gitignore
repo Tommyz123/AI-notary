@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+.env
+config.py
+__pycache__/
+*.pyc
+=======
 # Environment variables and secrets
 .env
 .env.local
@@ -63,3 +69,4 @@ Thumbs.db
 *.tmp
 *.temp
 .cache/
+>>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)

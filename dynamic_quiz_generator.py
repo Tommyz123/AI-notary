@@ -1,7 +1,17 @@
+<<<<<<< HEAD
+import requests
+import json
+import random
+from config import OPENAI_API_KEY, OPENAI_API_URL, OPENAI_MODEL
+
+API_URL = OPENAI_API_URL
+
+=======
 import json
 import random
 from config import config
 from ai_api import call_deepseek
+>>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 
 SYSTEM_PROMPT_TEMPLATE = """
 You are a professional exam question generator.
@@ -65,6 +75,51 @@ def generate_dynamic_quiz(lesson_title, lesson_content, num_questions=None):
         current_batch_size = min(batch_size, num_questions - batch_start)
 
         system_prompt = SYSTEM_PROMPT_TEMPLATE.format(n=current_batch_size)
+<<<<<<< HEAD
+        payload = {
+            "model": OPENAI_MODEL,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": f"Lesson Title: {lesson_title}\n\nLesson Content:\n{lesson_content}"}
+            ],
+            "temperature": 0.3
+        }
+
+        headers = {
+            "Authorization": f"Bearer {OPENAI_API_KEY}",
+            "Content-Type": "application/json"
+        }
+
+        try:
+            response = requests.post(API_URL, json=payload, headers=headers)
+
+            if response.status_code == 200:
+                content = response.json()["choices"][0]["message"]["content"]
+
+                if "```json" in content:
+                    content = content.split("```json")[1].split("```")[0].strip()
+                elif "```" in content:
+                    content = content.split("```")[1].strip()
+
+                try:
+                    data = json.loads(content)
+                except json.JSONDecodeError as e:
+                    print("❌ JSON decode error:", e)
+                    print("🔍 Raw content:", content)
+                    return MOCK_QUIZZES
+
+                if isinstance(data, dict) and "quizzes" in data:
+                    total_quizzes.extend(data["quizzes"])
+                elif isinstance(data, list):
+                    total_quizzes.extend(data)
+                else:
+                    print("⚠️ Unexpected format:", data)
+                    return MOCK_QUIZZES
+
+            else:
+                print("❌ API Error:", response.status_code)
+                print(response.text)
+=======
         messages = [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": f"Lesson Title: {lesson_title}\n\nLesson Content:\n{lesson_content}"}
@@ -93,6 +148,7 @@ def generate_dynamic_quiz(lesson_title, lesson_content, num_questions=None):
                 total_quizzes.extend(data)
             else:
                 print("⚠️ Unexpected format:", data)
+>>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
                 return MOCK_QUIZZES
 
         except Exception as e:
