@@ -36,6 +36,8 @@ MANIFEST
 *.db
 *.sqlite
 *.sqlite3
+database_backups/
+data_exports/
 
 # User data
 progress.json
