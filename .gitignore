@@ -63,8 +63,3 @@ Thumbs.db
 *.tmp
 *.temp
 .cache/
-
-# Data processing intermediate files
-lessons_fixed_encoding.csv
-lessons_expanded.csv
-lessons_to_expand.csv
