@@ -72,6 +72,24 @@ For each certificate of official character issued, with seal attached, by any co
 ","The county clerk of a county in whose office any notary public has qualified or has filed his autograph signature and a certificate of his official character, shall, when so requested and upon payment of a fee of $3 affix to any certificate of proof or acknowledgment or oath signed by such notary anywhere in the State of New York, a certificate under his hand and seal, stating that a commission or a certificate of his official character with his autograph signature has been filed in his office, and that he was at the time of taking such proof or acknowledgment or oath duly authorized to take the same; that he is well acquainted with the handwriting of such notary public or has compared the signature on the certificate of proof or acknowledgment or oath with the autograph signature deposited in his office by such notary public and believes that the signature is genuine.
 
 An instrument with such certificate of authentication of the county clerk affixed thereto shall be entitled to be read in evidence or to be recorded in any of the counties of this State in respect to which a certificate of a county clerk may be necessary for either purpose.
+
+
+---
+
+**实际应用场景**:
+
+公证员的签名和印章认证对于跨州或跨国使用文件至关重要。例如，纽约公证员为一份授权书做公证后，该文件需要在佛罗里达州使用。佛罗里达州机构如何确认这是合法的纽约公证？通过§133规定的认证流程。
+
+**正确流程**:
+1. 公证员完成公证行为（acknowledgment or jurat）
+2. 文件提交给纽约县书记官办公室
+3. 县书记官核查公证员在其办公室的登记记录
+4. 县书记官签发证书，认证公证员的签名和印章真实
+5. 如需要，州务卿可以进一步认证县书记官的签名
+
+**常见错误**: 公证员未在县书记官处及时更新记录（地址变更、印章更换），导致认证被拒绝。
+
+**重要提醒**: 公证员应确保在县书记官办公室的记录始终准确和最新，包括签名样本、印章样本、地址、委任状态等。
 "
 006,"§140. Executive Law.
 
@@ -92,16 +110,112 @@ An instrument with such certificate of authentication of the county clerk affixe
 
 "
 011,Sheriffs.,*** Sheriffs shall hold no other office. *** (§13(a) of Article XIII of the Constitution of the State of New York.)
-012,Notary public?disqualifications.,"Though a person may be eligible to hold the office of notary the person may be disqualified to act in certain cases by reason of having an interest in the case. To state the rule broadly: if the notary is a party to or directly and pecuniarily interested in the transaction, the person is not capable of acting in that case. For example, a notary who is a grantee or mortgagee in a conveyance or mortgage is disqualified to take the acknowledgment of the grantor or mortgagor; likewise a notary who is a trustee in a deed of trust; and, of course, a notary who is the grantor could not take his own acknowledgment. A notary beneficially interested in the conveyance by way of being secured thereby is not competent to take the acknowledgment of the instrument. In New York the courts have held an acknowledgment taken by a person financially or beneficially interested in a party to conveyance or instrument of which it is a part to be a nullity; and that the acknowledgment of an assignment of a mortgage before one of the assignees is a nullity; and that an acknowledgment by one of the incorporators of the other incorporators who signed a certificate was of no legal effect."
-013,§134. Signature and seal of county clerk.,"The signature and seal of a county clerk, upon a certificate of official character of a notary public or the signature of a county clerk upon a certificate of authentication of the signature and acts of a notary public or commissioner of deeds, may be a facsimile, printed, stamped, photographed or engraved thereon."
+012,Notary public?disqualifications.,"Though a person may be eligible to hold the office of notary the person may be disqualified to act in certain cases by reason of having an interest in the case. To state the rule broadly: if the notary is a party to or directly and pecuniarily interested in the transaction, the person is not capable of acting in that case. For example, a notary who is a grantee or mortgagee in a conveyance or mortgage is disqualified to take the acknowledgment of the grantor or mortgagor; likewise a notary who is a trustee in a deed of trust; and, of course, a notary who is the grantor could not take his own acknowledgment. A notary beneficially interested in the conveyance by way of being secured thereby is not competent to take the acknowledgment of the instrument. In New York the courts have held an acknowledgment taken by a person financially or beneficially interested in a party to conveyance or instrument of which it is a part to be a nullity; and that the acknowledgment of an assignment of a mortgage before one of the assignees is a nullity; and that an acknowledgment by one of the incorporators of the other incorporators who signed a certificate was of no legal effect.
+
+---
+
+**实际应用场景**:
+
+**场景1: 家庭成员的文件**
+张女士是公证员。她的女儿要购买房产，需要公证抵押文件。张女士能为女儿公证吗？
+
+**正确做法**:
+- 张女士必须拒绝，因为女儿是直系亲属
+- 建议女儿找另一位公证员
+- 记录拒绝的原因，保护自己
+
+**错误示例**: 为配偶、子女、父母等直系亲属公证文件。这种公证在法律上无效，且公证员可能面临纪律处分或吊销执照。
+
+**场景2: 担任公司董事的公证员**
+李先生既是ABC公司的董事，又是公证员。公司CEO需要签署公司贷款文件并需要公证。
+
+**正确做法**:
+- 李先生可以为CEO的签名做公证（§138允许）
+- 但李先生不能作为签署人同时担任公证员
+- 必须确保自己不是文件的当事方
+
+**重要提醒**: 利益冲突是公证员最常见的违规原因。原则是：如果你在交易中有任何财务或个人利益，必须回避。疑义时应咨询法律顾问。
+"
+013,§134. Signature and seal of county clerk.,"The signature and seal of a county clerk, upon a certificate of official character of a notary public or the signature of a county clerk upon a certificate of authentication of the signature and acts of a notary public or commissioner of deeds, may be a facsimile, printed, stamped, photographed or engraved thereon.
+
+---
+
+**实际应用场景**:
+
+县书记官的签名和印章在认证公证员资格时起关键作用。当公证文件需要在外州使用时，这个认证链条确保文件的可信度。
+
+**实例**:
+商人王先生在纽约签署商业合同，需在德州使用。流程如下：
+1. 纽约公证员为王先生的签名做公证
+2. 将公证后的合同提交给纽约县书记官
+3. 县书记官核查公证员记录，签发认证证书
+4. 县书记官使用§134规定的签名和印章
+5. 德州机构接受这个认证链条
+
+**重要性**:
+- 县书记官的签名和印章必须符合法定形式
+- 这是州际和国际文件认可的基础
+- 公证员的资格认证依赖县书记官的记录系统
+
+**注意事项**: 如果公证员的印章模糊不清或县书记官的签名难以辨认，可能导致认证被拒绝或延误。
+"
 014,§135. Powers and duties; in general; of notaries public who are attorneys at law.,"Every notary public duly qualified is hereby authorized and empowered within and throughout the State to administer oaths and affirmations, to take affidavits and depositions, to receive and certify acknowledgments or proof of deeds, mortgages and powers of attorney and other instruments in writing; to demand acceptance or payment of foreign and inland bills of exchange, promissory notes and obligations in writing, and to protest the same for non-acceptance or non-payment, as the case may require, and, for use in another jurisdiction, to exercise such other powers and duties as by the laws of nations and according to commercial usage, or by the laws of any other government or country may be exercised and performed by notaries public, provided that when exercising such powers he shall set forth the name of such other jurisdiction.
 
 A notary public who is an attorney at law regularly admitted to practice in this State may, in his discretion, administer an oath or affirmation to or take the affidavit or acknowledgment of his client in respect of any matter, claim, action or proceeding.
 
-For any misconduct by a notary public in the performance of any of his powers such notary public shall be liable to the parties injured for all damages sustained by them. A notary public shall not, directly or indirectly, demand or receive for the protest for the non-payment of any note, or for the non-acceptance or non-payment of any bill of exchange, check or draft and giving the requisite notices and certificates of such protest, including his notarial seal, if affixed thereto, any greater fee or reward than 75 cents for such protest, and 10 cents for each notice, not exceeding five, on any bill or note. Every notary public having a seal shall, except as otherwise provided, and when requested, affix his seal to such protest free of expense."
+For any misconduct by a notary public in the performance of any of his powers such notary public shall be liable to the parties injured for all damages sustained by them. A notary public shall not, directly or indirectly, demand or receive for the protest for the non-payment of any note, or for the non-acceptance or non-payment of any bill of exchange, check or draft and giving the requisite notices and certificates of such protest, including his notarial seal, if affixed thereto, any greater fee or reward than 75 cents for such protest, and 10 cents for each notice, not exceeding five, on any bill or note. Every notary public having a seal shall, except as otherwise provided, and when requested, affix his seal to such protest free of expense.
+
+---
+
+**实际应用场景**:
+
+**场景: 管理宣誓的正确方式**
+客户李女士需要签署宣誓书（affidavit），支持其申请家庭成员移民签证。
+
+**正确流程**:
+1. 公证员阅读宣誓书，确认是jurat类型（需要宣誓）
+2. 公证员核查李女士身份（驾照）
+3. 公证员问：""您是否庄严宣誓，此宣誓书中的陈述是真实正确的？""
+4. 李女士明确口头回答""是""或""我宣誓""
+5. 李女士在公证员面前签署宣誓书
+6. 公证员完成jurat证书，签字盖章
+
+**错误做法**:
+- ❌ 让李女士先签字，然后才管理宣誓
+- ❌ 通过电话或视频会议管理宣誓（除非是合法的远程公证）
+- ❌ 假设李女士已理解宣誓，不明确询问
+
+**重要提醒**: Acknowledgment和Jurat是不同的：
+- Acknowledgment: 签署人确认""这是我的签名""
+- Jurat: 签署人宣誓""内容是真实的""，必须当面宣誓和签署
+"
 015,§135-a. Notary public or commissioner of deeds; acting without appointment; fraud in office.,"1. Any person who holds himself out to the public as being entitled to act as a notary public or commissioner of deeds, or who assumes, uses or advertises the title of notary public or commissioner of deeds, or equivalent terms in any language, in such a manner as to convey the impression that he is a notary public or commissioner of deeds without having first been appointed as notary public or commissioner of deeds, or
 
-2. A notary public or commissioner of deeds, who in the exercise of the powers, or in the performance of the duties of such office shall practice any fraud or deceit, the punishment for which is not otherwise provided for by this act, shall be guilty of a misdemeanor."
+2. A notary public or commissioner of deeds, who in the exercise of the powers, or in the performance of the duties of such office shall practice any fraud or deceit, the punishment for which is not otherwise provided for by this act, shall be guilty of a misdemeanor.
+
+---
+
+**实际应用场景**:
+
+**场景: 未获委任而公证的后果**
+约翰刚通过公证员考试，但尚未收到州务卿的正式委任证书。朋友请他帮忙公证一份紧急文件。
+
+**错误做法**: 约翰使用临时印章为朋友公证文件。
+
+**后果**:
+- 该公证完全无效
+- 约翰可能被控misdemeanor（轻罪）
+- 罚款最高$1,000
+- 可能被永久禁止成为公证员
+- 受损害方（依赖该公证的人）可能起诉索赔
+
+**正确做法**:
+- 礼貌解释尚未正式委任
+- 建议朋友找已委任的公证员
+- 等待收到正式委任后再开始公证业务
+
+**真实后果**: 纽约州法律对无证公证非常严格。即使是善意的错误，也可能导致刑事指控。公证员必须确保：(1)委任有效，(2)在委任的县内工作，(3)委任未过期。
+"
 016,"§135-b. Advertising by notaries public.
 
 ","1. The provisions of this section shall not apply to attorneys-at-law, admitted to practice in the state of New York.
@@ -117,6 +231,34 @@ For any misconduct by a notary public in the performance of any of his powers su
 
 6. The secretary may promulgate rules and regulations governing the provisions of this section, including the size and type of statements that a notary public is required by this section to post.
 
+
+
+---
+
+**实际应用场景**:
+
+**场景: 虚假广告的法律后果**
+公证员陈先生会说中文，在广告中使用""Notario Público""（西班牙语的公证员），希望吸引西语客户。
+
+**问题**: 在许多拉丁美洲国家，""Notario""是lawyer（律师）的意思，具有比美国notary更高的权威。移民可能误以为陈先生是律师。
+
+**违法行为**: §135-b明确禁止公证员（除非是律师）使用外语术语误导公众：
+- Notario / Notario Público  
+- Notario Publico
+- Corredor Publico
+- Escribano
+等等
+
+**后果**:
+- 第一次违规：最高$1,000罚款
+- 重复违规：吊销公证员执照
+- 民事诉讼：受欺骗客户可能起诉索赔
+- 刑事指控：可能构成欺诈
+
+**正确做法**: 
+- 仅使用""Notary Public""或""公证员""（中文）
+- 如广告使用外语，必须明确注明美国公证员的权限有限
+- 不得暗示自己是律师或具有法律建议权
 "
 017,§135-c. Electronic notarization,"1. Definitions.
 (a) ""Communication technology"" means an electronic device or process
@@ -358,7 +500,38 @@ nor shall a notary public protest any negotiable instruments owned or held for c
 
 All such acknowledgments or proofs of deeds, mortgages or other written instruments, relating to real property heretofore taken before any of the officers aforesaid are confirmed.
 
-This act shall not affect any action or legal proceeding now pending."
+This act shall not affect any action or legal proceeding now pending.
+
+---
+
+**实际应用场景**:
+
+**场景1: 公证员能做什么**
+客户向公证员咨询：""这份合同对我有利吗？我应该签字吗？""
+
+**公证员的回答**:
+""我不能提供法律建议。作为公证员，我的职责是：
+1. 核实您的身份
+2. 确认您理解这是什么文件（但不解释条款）
+3. 确认您是自愿签署
+4. 见证您的签名并盖章
+
+如果您对合同内容有疑问，建议您咨询律师。""
+
+**场景2: 超越权限的危险**
+公证员王女士是会计师，客户请她在公证遗嘱时提供税务建议。
+
+**错误做法**: 王女士作为公证员身份时提供税务建议。
+
+**正确做法**:
+- 作为公证员，仅执行公证职能
+- 如要提供会计建议，必须明确区分两种角色
+- 但对遗嘱，公证员应完全拒绝公证（遗嘱需要witnesses attestation，不是notarization）
+
+**权限界限**:
+- ✓ 可以做: 核实身份、管理宣誓、见证签名、保存记录
+- ❌ 不能做: 法律建议、选择文件类型、填写法律表格、作为一方当事人的代理
+"
 021,"§142-a. Validity of acts of notaries public and commissioners of deeds notwithstanding certain defects.
 ","Except as provided in subdivision three of this section, the official certificates and other acts heretofore or hereafter made or performed of notaries public and commissioners of deeds heretofore or hereafter and prior to the time of their acts appointed or commissioned as such shall not be deemed invalid, impaired or in any manner defective, so far as they may be affected, impaired or questioned by reason of defects described in subdivision two of this section.
 
@@ -379,7 +552,31 @@ This section does not relieve any notary public or commissioner of deeds from cr
 "
 022,§290. Definitions; effect of article.,"3. The term ?conveyance? includes every written instrument, by which any estate or interest in real property is created, transferred, mortgaged or assigned, or by which the title to any real property may be affected, including an instrument in execution of power, although the power be one of revocation only, and an instrument postponing or subordinating a mortgage lien;
 
-except a will, a lease for a term not exceeding three years, an executory contract for the sale or purchase of lands, and an instrument containing a power to convey real property as the agent or attorney for the owner of such property."
+except a will, a lease for a term not exceeding three years, an executory contract for the sale or purchase of lands, and an instrument containing a power to convey real property as the agent or attorney for the owner of such property.
+
+---
+
+**实际应用场景**:
+
+§290条款定义了acknowledgment和proof的关键概念，这些定义影响所有后续的公证行为。
+
+**Acknowledgment实例**:
+卖家史密斯女士签署房产契约，前往公证员处。公证员：
+1. 核实史密斯女士的身份
+2. 询问：""您是否承认这是您的签名，并且是自愿签署的？""
+3. 史密斯女士确认
+4. 公证员完成acknowledgment证书
+
+关键点：史密斯女士可以在任何时候签署文件（甚至几天前），只要她向公证员""承认""(acknowledge)这是她的签名。
+
+**Proof实例**:
+签署人琼斯先生已故。他的遗嘱需要认证，但琼斯先生无法亲自acknowledgment。见证人（当时在场看到琼斯先生签署）前往公证员处，作proof：宣誓证明确实看到琼斯先生签署。
+
+**区别的重要性**:
+- Acknowledgment: 签署人亲自向公证员确认
+- Proof: 通过subscribing witness证明（签署人无法到场时）
+- 使用错误类型的证书会导致文件被拒绝
+"
 023,"§298. Acknowledgments and proofs within the state.
 ","The acknowledgment or proof, within this state, of a conveyance of real property situate in this State may be made:
 
@@ -400,10 +597,63 @@ except a will, a lease for a term not exceeding three years, an executory contra
 
 "
 024,"§302. Acknowledgments and proofs by married women.
-","The acknowledgment or proof of a conveyance of real property, within the state, or of any other written instrument, may be made by a married woman the same as if unmarried."
+","The acknowledgment or proof of a conveyance of real property, within the state, or of any other written instrument, may be made by a married woman the same as if unmarried.
+
+---
+
+**实际应用场景**:
+
+**历史背景**: §302条款是历史遗留，当时已婚妇女的法律地位受限，需要特殊规定。现代法律已废除这些限制。
+
+**现代应用**:
+今天，已婚妇女享有与任何其他成年人相同的签署和公证权利。公证员不需要：
+- 丈夫的同意
+- 单独询问（除非怀疑胁迫）
+- 特殊表格
+
+**但仍需警惕的情况**:
+如果公证员怀疑已婚妇女受到配偶胁迫：
+1. 可以要求私下单独对话
+2. 询问是否自愿签署
+3. 如有确凿证据表明胁迫，拒绝公证
+4. 建议当事人寻求法律援助或家庭暴力资源
+
+**实例**:
+张女士与丈夫一起到公证员处签署房屋出售契约。丈夫一直站在旁边，不断催促。公证员礼貌地说：""我需要单独与每位签署人确认。请先生在外面等候几分钟。""然后私下询问张女士是否真心希望出售，是否受到任何压力。
+
+**重要提醒**: 虽然法律已现代化，但公证员仍应对潜在的胁迫保持警觉，无论签署人性别如何。
+"
 025,"§303. Requisites of acknowledgments.
 ","An acknowledgment must not be taken by any officer unless he knows or has satisfactory evidence, that the person making it is the person described in and who executed such instrument.
 
+
+
+---
+
+**实际应用场景**:
+
+**Acknowledgment的必要要素**（§303规定）:
+
+**场景: 正确的Acknowledgment**
+李先生购买商业地产，签署购买协议。
+
+**公证员的职责**:
+1. **本人出现**: 李先生必须亲自到公证员面前（不能电话、不能代理人）
+2. **身份核查**: 公证员查看李先生的驾照，确认身份
+3. **知悉内容**: 公证员询问：""您是否理解这是什么文件？""李先生确认是商业地产购买协议
+4. **自愿确认**: 公证员问：""您是自愿签署的吗？""李先生确认
+5. **签名确认**: ""这是您的签名吗？""李先生确认
+6. 公证员完成acknowledgment证书
+
+**缺少任何一个要素，acknowledgment无效**:
+
+**无效示例1**: 李先生派助手带着已签署的文件和驾照复印件来公证。❌ 本人未出现
+
+**无效示例2**: 公证员接受陌生人，只凭其口头声称身份。❌ 未充分核查身份
+
+**无效示例3**: 李先生明显困惑，不知道文件内容。❌ 未知悉内容
+
+**重要提醒**: §303的要求是强制性的，不是建议。公证员必须确保每个要素都满足，否则承担法律责任。
 "
 026,"§304. Proof by subscribing witness.
 ","When the execution of a conveyance is proved by a subscribing witness, such witness must state his own place of residence, and if his place of residence is in a city, the street and street number, if any thereof, and that he knew the person described in and who executed the conveyance. The proof must not be taken unless the officer is personally acquainted with such witness, or has satisfactory evidence that he is the same person, who was a subscribing witness to the conveyance."
