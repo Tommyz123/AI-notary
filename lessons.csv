@@ -33,7 +33,49 @@ A notary public is cautioned not to execute an acknowledgment of the execution o
 "
 002,§130. Appointment of notaries public,"1. The Secretary of State may appoint and commission as many notaries public for the State of New York as in his or her judgment may be deemed best, whose jurisdiction shall be co-extensive with the boundaries of the state. The appointment of a notary public shall be for a term of 4 years. An application for an appointment as notary public shall be in form and set forth such matters as the Secretary of State shall prescribe. Every person appointed as notary public must, at the time of his or her appointment, be a resident of the State of New York or have an office or place of business in New York State. A notary public who is a resident of the State and who moves out of the state but still maintains a place of business or an office in New York State does not vacate his or her office as a notary public. A notary public who is a nonresident and who ceases to have an office or place of business in this state, vacates his or her office as a notary public. A notary public who is a resident of New York State and moves out of the state and who does not retain an office or place of business in this State shall vacate his or her office as a notary public. A non-resident who accepts the office of notary public in this State thereby appoints the Secretary of State as the person upon whom process can be served on his or her behalf. Before issuing to any applicant a commission as notary public, unless he or she be an attorney and counselor at law duly admitted to practice in this state or a court clerk of the Unified Court System who has been appointed to such position after taking a Civil Service promotional examination in the court clerk series of titles, the Secretary of State shall satisfy himself or herself that the applicant is of good moral character, has the equivalent of a common school education and is familiar with the duties and responsibilities of a notary public; provided, however, that where a notary public applies, before the expiration of his or her term, for reappointment with the county clerk or where a person whose term as notary public shall have expired applies within 6 months thereafter for reappointment as a notary public with the county clerk, such qualifying requirements may be waived by the Secretary of State, and further, where an application for reappointment is filed with the county clerk after the expiration of the aforementioned renewal period by a person who failed or was unable to re-apply by reason of his or her induction or enlistment in the armed forces of the United States, such qualifying requirements may also be waived by the Secretary of State, provided such application for reappointment is made within a period of 1 year after the military discharge of the applicant under conditions other than dishonorable. In any case, the appointment or reappointment of any applicant is in the discretion of the Secretary of State. The Secretary of State may suspend or remove from office, for misconduct, any notary public appointed by him or her but no such removal shall be made unless the person who is sought to be removed shall have been served with a copy of the charges against him or her and have an opportunity of being heard. No person shall be appointed as a notary public under this article who has been convicted, in this State or any other state or territory, of a crime, unless the secretary makes a finding in conformance with all applicable statutory requirements, including those contained in article twenty-three-A of the correction law, that such convictions do not constitute a bar to appointment.
 
-2. A person regularly admitted to practice as an attorney and counselor in the courts of record of this state, whose office for the practice of law is within the State, may be appointed a notary public and retain his office as such notary public although he resides in or removes to an adjoining state. For the purpose of this and the following sections of this article such person shall be deemed a resident of the county where he maintains such office."
+2. A person regularly admitted to practice as an attorney and counselor in the courts of record of this state, whose office for the practice of law is within the State, may be appointed a notary public and retain his office as such notary public although he resides in or removes to an adjoining state. For the purpose of this and the following sections of this article such person shall be deemed a resident of the county where he maintains such office.
+
+---
+
+**实际应用场景**:
+
+**场景1: 首次申请公证员**
+王先生是纽约州居民，想申请成为公证员为社区服务。他不是律师，也不是法院书记员。
+
+**正确做法**:
+- 确认自己是纽约州居民或在纽约有办公场所
+- 准备申请表（Secretary of State规定格式）
+- 参加并通过公证员资格考试（证明熟悉职责）
+- 准备宣誓书并在授权人员面前宣誓
+- 提交申请和宣誓书到Secretary of State
+- 证明良好品行和至少有相当于普通学校的教育水平
+- 获批后，任期为4年
+
+**场景2: 搬家后的状态变化**
+李女士是纽约居民，已担任公证员2年。现在她要搬到新泽西州居住。
+
+**正确做法**:
+- 如果李女士在纽约保留办公场所或营业地点 → 公证员身份仍然有效
+- 如果李女士完全搬离纽约且不保留任何办公场所 → 公证员身份自动失效(vacate office)
+
+**错误示例**: 
+- ❌ 搬离纽约后不保留办公场所，仍继续以公证员身份工作（违法）
+- ❌ 不是纽约居民，也没有纽约办公场所，却申请纽约公证员（不符合资格）
+
+**场景3: 续期时间点**
+张先生的公证员任期将在3个月后到期。
+
+**正确做法**:
+- 在任期届满前向县书记员(county clerk)申请续期 → 可免除重新考试
+- 任期届满后6个月内申请续期 → 仍可免除重新考试
+- 如果因服兵役未能及时续期 → 退伍后1年内申请可免除重新考试（需非不光彩退伍）
+- 超过上述期限 → 需要重新参加考试
+
+**重要提醒**: 
+- 所有任命和续期都由Secretary of State自行决定，不是自动权利
+- 如果曾被定罪，Secretary of State需根据矫正法第23-A条进行评估
+- 被免职的公证员永久不得再次任命
+- 非居民公证员自动指定Secretary of State作为接收法律文件的代理人"
 003,§131. Procedure of appointment; fees and commissions,"1. Applicants for a notary public commission shall submit to the Secretary of State with their application the oath of office, duly executed before any person authorized to administer an oath, together with their signature.
 
 2. Upon being satisfied of the competency and good character of applicants for appointment as notaries public, the Secretary of State shall issue a commission to such persons; and the official signature of the applicants and the oath of office filed with such applications shall take effect.
@@ -59,7 +101,55 @@ A notary public is cautioned not to execute an acknowledgment of the execution o
 12. Except for changes made in an application for reappointment, the Secretary of State shall receive a non-refundable fee of $10 for changing the name or address of a notary public.
 
 13. The Secretary of State may issue a duplicate identification card to a notary public for one lost, destroyed or damaged upon application therefor on a form prescribed by the Secretary of State and upon payment of a non-refundable fee of $10. Each such duplicate identification card shall have the word ?duplicate? stamped across the face thereof, and shall bear the same number as the one it replaces.
-"
+
+
+---
+
+**实际应用场景**:
+
+**场景1: 首次申请的完整流程**
+陈女士刚通过公证员考试，准备提交申请。
+
+**正确做法**（按顺序）:
+1. **填写申请表**: 使用Secretary of State规定的格式
+2. **宣誓**: 在有权管理宣誓的人员面前执行宣誓书(oath of office)
+3. **签名**: 在申请表上签署自己的官方签名
+4. **提交**: 将申请表、宣誓书和签名一起提交给Secretary of State
+5. **缴费**: 支付$60申请费
+6. **等待审核**: Secretary of State审核申请人的资格和品行
+7. **获得委任状**: 审核通过后，Secretary of State签发委任状(commission)
+8. **向县书记员备案**: 申请人必须在委任后，将宣誓书和签名备案到任命县的县书记员处
+9. **正式生效**: 备案后公证员身份正式生效，可以开始履职
+
+**场景2: 签名备案错误**
+刘先生获得了公证员委任状，但忘记向县书记员备案签名，直接开始公证文件。
+
+**错误后果**:
+- 刘先生公证的文件可能被视为无效
+- 其他县无法验证刘先生的官方身份
+- 可能面临Secretary of State的纪律处分
+
+**正确做法**:
+- 必须先向委任县的县书记员备案宣誓书和签名
+- 可以选择向其他县的县书记员和登记处(register's office)备案签名，方便跨县工作
+- 备案后才能开始履行公证职责
+
+**场景3: 跨县工作的公证员**
+马先生在Albany County被任命为公证员，但经常在Westchester County工作。
+
+**正确做法**:
+1. 首先向Albany County书记员备案（必须，这是任命县）
+2. 向Westchester County书记员备案签名（可选但推荐）
+3. 向Westchester County登记处备案（如有，可选）
+4. 备案后，Westchester County书记员就可以出具马先生的官方身份证明
+5. 这样马先生在Westchester County公证的文件更容易被验证
+
+**重要提醒**: 
+- 申请费$60不可退还
+- 宣誓书和签名备案是公证员生效的必要条件，不是可选项
+- 公证员的权限覆盖整个纽约州，但必须先在任命县备案
+- 可以在多个县备案签名，便于异地验证官方身份
+- County clerk可以出具公证员官方身份证明(certificate of official character)"
 004,§132. Certificates of official character of notaries public,"The Secretary of State or the county clerk of the county in which the commission of a notary public is filed may certify to the official character of such notary public and any notary public may file his autograph signature and a certificate of official character in the office of any county clerk of any county in the State and in any register?s office in any county having a register and thereafter such county clerk may certify as to the official character of such notary public.
 
 The Secretary of State shall collect for each certificate of official character issued by him the sum of one dollar.
@@ -67,7 +157,57 @@ The Secretary of State shall collect for each certificate of official character 
 The county clerk and register of any county with whom a certificate of official character has been filed shall collect for filing the same the sum of one dollar.
 
 For each certificate of official character issued, with seal attached, by any county clerk, the sum of one dollar shall be collected by him.
-"
+
+
+---
+
+**实际应用场景**:
+
+**场景1: 跨州使用公证文件**
+赵女士在纽约州作为公证员公证了一份房产契约。买家需要在佛罗里达州使用这份文件，但佛罗里达州的机构质疑赵女士的公证员身份。
+
+**正确做法**:
+1. 买家向纽约州Secretary of State或赵女士任命县的county clerk申请""Certificate of Official Character""（官方身份证明）
+2. Secretary of State或county clerk会出具证书，证明：
+   - 赵女士确实是有效的纽约州公证员
+   - 她的委任状有效且未被吊销
+   - 文件上的签名确实是她的官方签名
+3. 将此证书附在公证文件后，佛罗里达州机构即可接受
+4. 对于特别重要的文件，可能还需要Apostille（海牙认证）
+
+**场景2: 公证员跨县工作需要身份验证**
+孙先生在Monroe County被任命，但经常在Erie County工作。客户在Erie County需要验证他的身份。
+
+**正确做法**（提前准备）:
+1. 孙先生将自己的签名和官方身份证明备案到Erie County的county clerk
+2. 之后Erie County的clerk就可以出具孙先生的Certificate of Official Character
+3. 如果Erie County有register's office，也可以向register备案
+
+**如果没有提前备案**:
+1. 客户需要联系Monroe County (任命县) 的county clerk
+2. Monroe County clerk可以出具官方身份证明
+3. 或者联系Secretary of State获取证明（州级机关，权威性最高）
+
+**场景3: 银行验证公证员身份**
+某银行收到李先生公证的授权书(Power of Attorney)，需要验证李先生确实是合法公证员。
+
+**银行的验证选项**:
+1. **最快捷**: 查看李先生是否在该县clerk处备案 → 向该县clerk索取证明
+2. **最权威**: 向Secretary of State索取Certificate of Official Character
+3. **便利方式**: 如果县有register's office且李先生已备案，也可以向register索取证明
+
+**Certificate of Official Character的内容**:
+- 公证员姓名
+- 委任日期和任期
+- 任命县
+- 官方签名样本
+- 证明该公证员身份有效、未被吊销
+
+**重要提醒**: 
+- Secretary of State和county clerk都有权出具官方身份证明
+- 在多个县备案可以提高工作便利性
+- 官方身份证明对于跨州使用公证文件至关重要
+- 公证员应保持委任状有效，避免在失效后继续公证导致文件无效"
 005,"§133. Certification of notarial signatures
 ","The county clerk of a county in whose office any notary public has qualified or has filed his autograph signature and a certificate of his official character, shall, when so requested and upon payment of a fee of $3 affix to any certificate of proof or acknowledgment or oath signed by such notary anywhere in the State of New York, a certificate under his hand and seal, stating that a commission or a certificate of his official character with his autograph signature has been filed in his office, and that he was at the time of taking such proof or acknowledgment or oath duly authorized to take the same; that he is well acquainted with the handwriting of such notary public or has compared the signature on the certificate of proof or acknowledgment or oath with the autograph signature deposited in his office by such notary public and believes that the signature is genuine.
 
@@ -96,20 +236,229 @@ An instrument with such certificate of authentication of the county clerk affixe
 ","14. No person who has been removed from office as a commissioner of deeds for the City of New York, as hereinbefore provided, shall thereafter be eligible again to be appointed as such commissioner nor, shall he be eligible thereafter to appoint to the office of notary public.
 15. Any person who has been removed from office as aforesaid, who shall, after knowledge of such removal, sign or execute any instrument as a commissioner of deeds or notary public shall be deemed guilty of a misdemeanor.
 
-"
+
+
+---
+
+**实际应用场景**:
+
+**场景: 被免职公证员的后续影响**
+杨先生原本是纽约市的commissioner of deeds（契约专员），但因严重违规被免职。3年后，他想重新申请成为notary public（公证员）。
+
+**法律后果**:
+1. **永久不得再任命**: 杨先生永远不能再被任命为commissioner of deeds
+2. **不得任命为公证员**: 杨先生也永远不能被任命为notary public
+3. **知情后仍签署的刑事责任**: 如果杨先生知道自己被免职后，仍以commissioner of deeds或notary public身份签署文件 → 构成轻罪(misdemeanor)
+
+**正确的处理方式**:
+- 被免职后，杨先生必须立即停止所有公证活动
+- 如有客户要求，应明确告知自己已被免职，不再具备资格
+- 不能使用旧的印章或签名
+- 应该销毁或上交公证印章
+
+**错误示例 - 严重违法**:
+- ❌ 杨先生被免职后，仍使用旧的公证印章继续公证文件
+- ❌ 杨先生以为3年后""冷却期""过去了，可以重新申请（法律规定是永久禁止）
+- ❌ 杨先生改名后企图申请新的公证员身份（仍然违法）
+
+**重要提醒**: 
+- 这是对公证员最严厉的惩罚之一
+- 免职不仅终止当前职务，而且永久取消资格
+- 被免职后违规继续公证是刑事犯罪，不是民事违规
+- Secretary of State在任命时会审查申请人是否曾被免职
+- 其他州的类似免职记录也可能影响纽约州的申请"
 007,"§3-200 and 3-400. Election Law.
 
 ","A commissioner of elections or inspector of elections is eligible for the office of notary public.
 
-"
-008,§3. Public Officers Law.,"No person is eligible for the office of notary public who has been convicted of a violation of the selective draft act of the U.S. enacted May 18, 1917, or the acts amendatory or supplemental thereto, or of the federal selective training and service act of 1940 or the acts amendatory thereof or supplemental thereto."
+
+
+---
+
+**实际应用场景**:
+
+**场景: 选举官员兼任公证员**
+陈女士是Monroe County的inspector of elections（选举监察员）。她想申请成为notary public为社区服务。
+
+**法律规定**:
+根据Election Law §3-200和§3-400，陈女士**有资格**同时担任：
+- Commissioner of elections（选举专员）
+- Inspector of elections（选举监察员）
+- Notary public（公证员）
+
+**正确理解**:
+这些选举职位不与公证员职位冲突。陈女士可以：
+1. 保留inspector of elections职位
+2. 同时申请并担任notary public
+3. 两个职位可以合法兼任
+
+**常见误解** - ❌ 错误认知:
+有人误以为政府职位与公证员身份冲突。实际上：
+- ✓ Election officials可以兼任公证员
+- ✓ Court clerks可以兼任公证员（不需要考试）
+- ✓ 律师可以兼任公证员
+- ❌ 但member of legislature（州议员）不能兼任 →参见Lesson 010
+
+**场景扩展: 选举日的便利**
+陈女士作为inspector of elections在选举日工作。一位选民需要紧急公证一份文件。
+
+**陈女士可以这样做**:
+- 利用休息时间，以notary public身份为选民提供公证服务
+- 但必须明确区分两个角色：作为election official的职责和作为notary public的职责
+- 不能将公证员印章用于选举相关文件（除非确实需要公证）
+- 保持角色的独立性和职业操守
+
+**重要提醒**: 
+- 虽然法律允许兼任，但两个职位各有独立的职责和规范
+- 不能将一个职位的权力用于另一个职位
+- 如果存在利益冲突，应当回避（参见Lesson 012 disqualifications）
+- Election officials的特殊地位使其更应维护公正性"
+008,§3. Public Officers Law.,"No person is eligible for the office of notary public who has been convicted of a violation of the selective draft act of the U.S. enacted May 18, 1917, or the acts amendatory or supplemental thereto, or of the federal selective training and service act of 1940 or the acts amendatory thereof or supplemental thereto.
+
+---
+
+**实际应用场景**:
+
+**场景: 公证员为公职人员公证职务文件**
+黄先生是notary public。一位county clerk来找他，请他公证该clerk的官方任命文件的副本，用于提交给州政府。
+
+**法律依据**:
+根据Public Officers Law §3，某些公职人员的官方行为证明有特殊规定。
+
+**正确做法**:
+1. **确认文件性质**: 这是公职人员的官方文件(official document)
+2. **检查是否需要公证**: 有些官方文件可能有自证效力，不需要公证员认证
+3. **如需公证**: 黄先生可以正常公证，但应注意：
+   - 确认clerk的身份（虽然是公职人员，仍需身份验证）
+   - 如果是认证副本(certified copy)，确认clerk有权出具官方副本
+   - 遵循标准公证程序
+4. **记录保存**: 在公证日志中标注这是公职人员的官方文件
+
+**常见问题解答**:
+
+**Q: 公职人员的文件是否有更高的可信度？**
+A: 是的，但公证员仍需独立核实身份和签名的真实性。公职身份不能代替公证程序。
+
+**Q: 如果公职人员要求加急或特殊处理？**
+A: 公证员必须遵循相同的标准程序，不能因为对方是公职人员而省略步骤。
+
+**Q: 可以拒绝为公职人员公证吗？**
+A: 可以。如果有利益冲突、身份无法核实或其他合法理由，公证员有权拒绝。
+
+**重要提醒**: 
+- Public Officers Law §3涉及公职人员的法律地位，但不免除公证员的核验责任
+- 公证员不能因对方是公职人员就降低标准
+- 如果文件涉及公证员本人的利益，必须回避（参见disqualifications）
+- 某些官方文件可能已经有clerk或其他官员的官方认证，不需要额外公证"
 009,"§534. County Law.
-",Each county clerk shall designate from among the members of his or her staff at least one notary public to be available to notarize documents for the public in each county clerk?s office during normal business hours free of charge. Each individual appointed by the county clerk to be a notary public pursuant to this section shall be exempt from the examination fee and application fee required by §131 of the Executive Law.
+","Each county clerk shall designate from among the members of his or her staff at least one notary public to be available to notarize documents for the public in each county clerk?s office during normal business hours free of charge. Each individual appointed by the county clerk to be a notary public pursuant to this section shall be exempt from the examination fee and application fee required by §131 of the Executive Law.
+
+---
+
+**实际应用场景**:
+
+**场景: 公证员的县法权限**
+郑女士是在Nassau County任命的notary public。她在Suffolk County为客户公证文件时，客户问：""你的权限不是只在Nassau County吗？""
+
+**正确解释**:
+根据County Law §534和其他相关法律：
+
+1. **地域权限**: 郑女士的公证权限覆盖**整个纽约州**，不限于Nassau County
+2. **任命县的意义**: Nassau County只是她最初资格认定(originally qualified)的县，用于：
+   - 备案宣誓书和签名
+   - 获取官方身份证明
+   - 标识在印章上
+
+3. **在Suffolk County工作**:
+   - ✓ 郑女士完全有权在Suffolk County公证文件
+   - ✓ 公证行为完全有效
+   - ✓ 不需要额外许可
+
+**郑女士的建议做法**:
+1. 虽然可以在全州工作，但如果经常在Suffolk County执业：
+   - 可以向Suffolk County clerk备案签名（可选）
+   - 便于Suffolk County验证其身份
+   - 提高当地客户的信心
+
+2. 印章上仍然显示""Qualified in Nassau County""
+   - 这是永久的任命县标识
+   - 不会因为在其他县工作而改变
+
+**场景扩展: 跨县验证**
+Suffolk County的一家银行想验证郑女士的公证员身份。
+
+**银行的验证选项**:
+1. 联系Nassau County clerk（任命县）→ 最直接
+2. 联系New York Secretary of State → 最权威
+3. 如果郑女士已在Suffolk County备案 → 联系Suffolk County clerk
+
+**常见误解纠正**:
+- ❌ ""公证员只能在任命县工作"" → 错误！可以在全州工作
+- ❌ ""在其他县工作需要申请许可"" → 错误！不需要
+- ❌ ""跨县公证的效力较低"" → 错误！效力相同
+
+**重要提醒**: 
+- New York notary public的权限是全州性的(co-extensive with the state)
+- 任命县(county originally qualified)只是行政登记地点
+- 在其他县工作时，公证员应主动说明自己的全州权限
+- County Law §534体现了纽约州统一公证制度的设计"
 010,"Member of legislature.
 ","?If a member of the legislature be *** appointed to any office, civil *** under the government *** the State of New York *** his or her acceptance thereof shall vacate his or her seat in the legislature, providing, however, that a member of the legislature may be appointed *** to any office in which he or she shall receive no compensation.? (§7 of Article III of the Constitution of the State of New York.) A member of the legislature may be appointed a notary public in view of transfer of power of such appointment from the governor and senate to the Secretary of State. (1927, Op. Atty. Gen. 97.)
 
 "
-011,Sheriffs.,*** Sheriffs shall hold no other office. *** (§13(a) of Article XIII of the Constitution of the State of New York.)
+011,Sheriffs.,"*** Sheriffs shall hold no other office. *** (§13(a) of Article XIII of the Constitution of the State of New York.)
+
+---
+
+**实际应用场景**:
+
+**场景1: Sheriff兼任公证员的资格**
+Rodriguez先生是Erie County的deputy sheriff（副警长）。他想申请成为notary public。
+
+**正确做法**:
+1. **检查资格**: 根据法律，sheriff和deputy sheriff**有资格**申请并担任notary public
+2. **正常申请**: Rodriguez应该按标准程序申请：
+   - 满足居住/办公地点要求
+   - 通过公证员考试（除非是律师或court clerk）
+   - 提交申请和宣誓书
+   - 支付$60申请费
+
+3. **两个职位可以兼任**: Sheriff职位和notary public不冲突
+
+**场景2: Sheriff在执法中使用公证权力**
+Deputy Sheriff Chen在执法过程中需要收集证人的宣誓证词(sworn statement)。他也是notary public。
+
+**正确做法**:
+- ✓ Chen可以利用notary public身份管理宣誓(administer oath)
+- ✓ 可以为证人的affidavit做公证
+- ✓ 这样的证词在法庭上更有效力
+
+**注意事项**:
+- 即使是执法环境，仍需遵守公证程序
+- 证人必须在Chen面前亲自出现
+- 不能强制要求证人宣誓（公证是志愿服务）
+- 如果案件涉及Chen的个人利益，应回避
+
+**场景3: Sheriff为警局同事公证**
+Sheriff Martinez为警局同事公证工作相关文件。
+
+**潜在问题**:
+- 需要评估是否存在利益冲突
+- 如果是日常的、与Martinez无关的文件 → 通常可以公证
+- 如果文件涉及Martinez的职责或利益 → 应该回避
+
+**正确做法**:
+1. 询问文件的用途和性质
+2. 评估自己是否有直接或间接利益
+3. 疑义时拒绝，建议同事找其他公证员
+4. 严格遵守disqualification规则（参见Lesson 012）
+
+**重要提醒**: 
+- Sheriff和notary public是两个独立的职位
+- 虽然可以兼任，但每个职位有各自的规范和责任
+- 作为执法人员，sheriff更应严格遵守公证职业道德
+- 利用执法身份强迫他人公证是违法的
+- 不能收取公证费用作为执法行为的一部分（公证和执法要分开）"
 012,Notary public?disqualifications.,"Though a person may be eligible to hold the office of notary the person may be disqualified to act in certain cases by reason of having an interest in the case. To state the rule broadly: if the notary is a party to or directly and pecuniarily interested in the transaction, the person is not capable of acting in that case. For example, a notary who is a grantee or mortgagee in a conveyance or mortgage is disqualified to take the acknowledgment of the grantor or mortgagor; likewise a notary who is a trustee in a deed of trust; and, of course, a notary who is the grantor could not take his own acknowledgment. A notary beneficially interested in the conveyance by way of being secured thereby is not competent to take the acknowledgment of the instrument. In New York the courts have held an acknowledgment taken by a person financially or beneficially interested in a party to conveyance or instrument of which it is a part to be a nullity; and that the acknowledgment of an assignment of a mortgage before one of the assignees is a nullity; and that an acknowledgment by one of the incorporators of the other incorporators who signed a certificate was of no legal effect.
 
 ---
@@ -476,7 +825,79 @@ For administering an oath or affirmation, and certifying the same when required,
 
 For taking and certifying the acknowledgment or proof of execution of a written instrument, by one person, $2, and by each additional person, $2, for swearing such witness thereto, $2.
 
-For electronic notarial services, established in section one hundred thirty-five-c of this chapter, a fee set through regulation by the secretary of state."
+For electronic notarial services, established in section one hundred thirty-five-c of this chapter, a fee set through regulation by the secretary of state.
+
+---
+
+**实际应用场景**:
+
+**场景1: 收费争议**
+客户张先生找公证员李女士公证一份affidavit（宣誓书）。公证完成后，李女士说：""根据§136，我可以收取$2的公证费，但由于这份文件比较复杂，我要收取$10。""
+
+**法律分析**:
+李女士的做法**违法**。
+
+**§136的强制性规定**:
+- Acknowledgment (承认签字): 最多$2
+- Proof of execution (签署证明): 最多$2  
+- Oath or affirmation (宣誓): 最多$2
+- 这些是**法定最高收费**，不能超过
+
+**正确做法**:
+1. 李女士只能收取$2
+2. 不能以""复杂""、""紧急""、""额外时间""等理由超额收费
+3. 如果客户自愿给小费，这是另一回事，但不能要求
+
+**场景2: 多个签名的公证**
+一份文件有3个人需要做acknowledgment。公证员应该收取多少费用？
+
+**正确收费**:
+- 每个acknowledgment收费$2
+- 3个签名 = 3次acknowledgment = 最多$6
+- 即使在一份文件上，每个签名都是独立的公证行为
+
+**场景3: 出行费用**
+客户王先生在医院住院，无法前往公证员办公室。公证员赵先生愿意前往医院。王先生问：""我需要额外支付您的出行费用吗？""
+
+**正确做法**:
+- §136规定的是公证行为本身的费用($2)
+- 出行费用(travel fee)不属于§136规定的范围
+- 赵先生**可以**另外收取合理的出行费用，但应事先说明
+- 建议做法：
+  1. 事先书面协议出行费用（如$50）
+  2. 分开列明：公证费$2 + 出行费$50 = 总计$52
+  3. 给客户收据，分项列明
+
+**场景4: 免费公证服务**
+公证员陈女士在社区中心为低收入居民提供义务公证服务。
+
+**正确理解**:
+- §136规定的是**最高**收费
+- 公证员**可以**免费提供服务
+- 可以收取低于$2的费用
+- 这是合法且值得鼓励的社区服务
+
+**场景5: 公证员作为雇员**
+银行雇员小刘是notary public。银行要求她为银行客户免费公证，公证费由银行承担。
+
+**正确做法**:
+- 这是合法的
+- 银行可以作为雇主，为客户提供免费公证服务
+- 小刘作为雇员执行公证，薪水由银行支付
+- 客户不需要额外支付公证费
+
+**但要注意**:
+- 小刘仍然必须遵守所有公证规范
+- 不能因为是雇员就降低标准
+- 如果银行要求她违规公证，小刘必须拒绝
+
+**重要提醒**: 
+- §136的收费上限是强制性的，违反可能导致免职
+- 超额收费是公证员常见的违规行为之一
+- 收费记录应该保存，证明合规
+- 不能通过""咨询费""、""服务费""等名目变相超额收费
+- 出行费、复印费等可以另外收取，但必须与公证费分开
+- 提供清晰的收费说明，维护职业声誉"
 019,"§137. Statement as to authority of notaries public.
 ","In exercising powers pursuant to this article, a notary public, in addition to the venue of the act and signature of such notary public, shall print, typewrite, stamp, or affix by electronic means where performing an electronic notarial act in conformity with section one hundred thirty-five-c of the executive law, beneath their signature in black ink, the notary public""s name, the words ""Notary Public State of New York,"" the name of the county in which such notary public originally qualified, and the expiration date of such notary public""s commission and, in addition, wherever required, a notary public shall also include the name of any county in which such notary public""s certificate of official character is filed, using the words ""Certificate filed ______________ County.""
 
@@ -490,7 +911,63 @@ If any notary public shall willfully fail to comply with any of the provisions o
 
 In all the courts within this State the certificate of a notary public, over the signature of the notary public, shall be received as presumptive evidence of the facts contained in such certificate; provided, that any person interested as a party to a suit may contradict, by other evidence, the certificate of a notary public.
 
-"
+
+
+---
+
+**实际应用场景**:
+
+**场景1: 公证员印章格式不合规**
+周先生刚成为公证员，自己设计并制作了公证印章。印章上只有他的名字和""Notary Public""字样，没有其他信息。
+
+**错误分析**:
+周先生的印章缺少关键要素，违反§137规定。
+
+**正确的印章/签名应包含**（全部用黑色墨水）:
+1. **地点(Venue)**: 公证行为发生的地点
+2. **公证员签名**: 手写或电子签名
+3. **公证员姓名**: 打印、打字或盖章
+4. **""Notary Public State of New York""**: 必须是这个完整表述
+5. **任命县名称**: 最初资格认定的县
+6. **委任到期日期**: ""My Commission Expires [日期]""或""Comm. Exp. [日期]""
+7. **注册号(如有)**: 如果县书记员分配了注册号，必须包含
+
+**周先生应该重新制作印章，包含所有7项要素。**
+
+**场景2: 电子公证的特殊要求**
+林女士获准进行电子公证(electronic notarial act)，但她直接使用实体印章扫描件作为电子签名。
+
+**错误分析**:
+电子公证有特殊要求，不能简单使用实体印章扫描件。
+
+**正确做法**:
+1. 遵循§135-c关于电子公证的规定
+2. 使用""电子方式""(by electronic means)附加所有必要信息
+3. 确保电子签名符合电子签名法的要求
+4. 电子版本也必须包含全部7项要素
+5. 电子公证记录需要特殊的安全保护
+
+**场景3: 新泽西客户要求验证公证员身份**
+客户看到公证员王先生的印章上写着""Qualified in Kings County""和""Commission Expires 12/31/2026""，想知道如何验证他的身份。
+
+**客户可以这样验证**:
+1. 联系Kings County的county clerk
+2. 向clerk提供王先生的姓名和注册号
+3. Clerk可以出具Certificate of Official Character
+4. 也可以联系New York Secretary of State进行验证
+
+**王先生印章的好处**:
+- 清楚显示任命县 → 客户知道向哪个机关验证
+- 清楚显示到期日 → 客户知道委任是否有效
+- 符合§137全部要求 → 公证文件有效
+
+**重要提醒**: 
+- 不合规的印章可能导致公证文件被拒绝
+- 所有信息必须用黑色墨水（便于复印和扫描）
+- 电子公证和纸质公证的要求相同，只是呈现方式不同
+- 公证员应该在制作印章前核对§137的全部要求
+- 变更任命县或续期后，必须更新印章上的信息
+- 缺少任何一项要素都可能导致公证无效"
 020,"§138. Powers of notaries public or other officers who are stockholders, directors, officers or employees of a corporation.
 ","A notary public, justice of the supreme court, a judge, clerk, deputy clerk, or special deputy clerk of a court, an official examiner of title, or the mayor or recorder of a city, a justice of the peace, surrogate, special surrogate, special county judge, or commissioner of deeds, who is a stockholder, director, officer or employee of a corporation may take the acknowledgment or proof of any party to a written instrument executed to or by such corporation, or administer an oath of any other stockholder, director, officer, employee or agent of such corporation, and such notary public may protest for non-acceptance or non-payment, bills of exchange, drafts, checks, notes and other negotiable instruments owned or held for collection by such corporation;
 
@@ -549,7 +1026,64 @@ After the expiration of six months from the date of the official certificate or 
 
 This section does not relieve any notary public or commissioner of deeds from criminal liability imposed by reason of his act, or enlarge the actual authority of any such officer, nor limit any other statute or rule of law by reason of which the act of a notary public or commissioner of deeds, or the record thereof, is valid or is deemed valid in any case.
 
-"
+
+
+---
+
+**实际应用场景**:
+
+**场景1: 委任状中的技术性错误**
+公证员张女士在2022年1月10日被任命，但委任状(commission)上打印的日期错误地写成了2022年1月01日。她在1月15日公证了一份房产契约。现在买家质疑该公证的有效性。
+
+**法律保护 - §142-a**:
+根据本条款，张女士的公证**仍然有效**，因为：
+1. 她确实在1月10日被正式任命
+2. 她在1月15日公证时，任命已经生效
+3. 委任状上的日期错误是技术性缺陷(technical defect)
+4. §142-a保护这类因文书错误导致的缺陷
+
+**正确处理**:
+- 买家的公证文件有效，不需要重新公证
+- 张女士应该联系Secretary of State更正委任状
+- 保留原始委任状和更正后的委任状作为记录
+
+**场景2: 任命县标注错误**
+李先生实际在Kings County被任命，但印章制作商错误地在印章上刻了""Queens County""。他用这个印章公证了20份文件后才发现错误。
+
+**§142-a的保护**:
+这20份公证文件**依然有效**，因为：
+1. 李先生确实是合法任命的公证员
+2. 印章上的县名错误是技术性缺陷
+3. 他的公证权力覆盖全州，不限于特定县
+4. §142-a旨在保护善意第三方的利益
+
+**李先生应该做什么**:
+1. 立即停止使用错误印章
+2. 制作正确的新印章
+3. 通知近期客户该错误，但告知文件仍然有效
+4. 保留错误印章作为记录（不要销毁，可能需要作为证据）
+
+**场景3: 任期到期后短暂延续公证**
+赵女士的任期在2023年12月31日到期，但她在2024年1月2日（任期后2天）才意识到并停止公证。在这2天里她公证了3份文件。
+
+**§142-a的可能保护**:
+- 如果赵女士已经及时申请续期，只是审批尚未完成 → 文件可能有效
+- 如果纯粹是疏忽，任期已明确到期 → 文件可能无效
+- 关键在于赵女士的善意和缺陷的性质
+
+**正确的做法**:
+1. 赵女士应立即联系Secretary of State说明情况
+2. 联系这3份文件的当事人，说明情况
+3. 建议他们寻求法律意见，可能需要重新公证
+4. 这突显了公证员必须严格监控任期的重要性
+
+**重要提醒**: 
+- §142-a保护技术性缺陷，但不保护实质性违规
+- 典型的技术性缺陷：日期错误、县名错误、印章不清等
+- 不保护的情况：未经任命、利益冲突、欺诈行为
+- 公证员不应依赖§142-a作为""保护伞""，仍应严格遵守所有规范
+- 发现缺陷后应立即纠正，避免持续错误
+- 该条款主要保护善意第三方（文件使用人）的利益"
 022,§290. Definitions; effect of article.,"3. The term ?conveyance? includes every written instrument, by which any estate or interest in real property is created, transferred, mortgaged or assigned, or by which the title to any real property may be affected, including an instrument in execution of power, although the power be one of revocation only, and an instrument postponing or subordinating a mortgage lien;
 
 except a will, a lease for a term not exceeding three years, an executory contract for the sale or purchase of lands, and an instrument containing a power to convey real property as the agent or attorney for the owner of such property.
@@ -595,7 +1129,69 @@ except a will, a lease for a term not exceeding three years, an executory contra
 
 3. Before a justice of the peace, town councilman, village police justice, or a judge of any court of inferior local jurisdiction, anywhere within the county containing the town, village or city in which he is authorized to perform official duties.
 
-"
+
+
+---
+
+**实际应用场景**:
+
+**场景1: 选择合适的公证官员**
+王先生要卖掉位于Albany的房产，需要公证契约(deed)。他在考虑在哪里、找谁做公证。
+
+**王先生的选项**（根据§298）:
+
+**选项A - 在全州任何地点，找以下人员**:
+1. Supreme Court法官
+2. Official examiner of title（产权审查员）
+3. Official referee（官方仲裁员）
+4. **Notary public**（最常见、最便捷）
+
+**选项B - 在特定管辖区内，找以下人员**:
+1. Judge或court clerk
+2. County clerk
+3. 其他§298列出的官员
+
+**王先生的最佳选择**:
+- 找notary public最方便
+- Notary权限覆盖全州，可以在任何地点
+- 费用最低（$2）
+- 容易找到（银行、律师事务所、社区中心都有）
+
+**场景2: 公证员的地域限制疑问**
+公证员李女士在纽约市被任命。客户在Buffalo要公证Albany的房产文件，问李女士能否公证。
+
+**正确答案**: 可以！
+- 根据§298(1)(d)，notary public可以在州内**任何地点**(at any place within the state)公证
+- 李女士可以在Buffalo为Albany房产公证
+- 房产位置、公证地点、公证员任命地，三者可以完全不同
+- 只要三者都在纽约州内即可
+
+**场景3: 县书记员的管辖限制**
+客户想找county clerk公证房产文件，但clerk说：""我只能在我的县内公证。""
+
+**正确理解**:
+- County clerk的权限限于**其管辖区内**(within the district wherein such officer is authorized)
+- 如果客户在该县 → clerk可以公证
+- 如果客户在其他县 → clerk无权公证（除非特殊情况）
+- 相比之下，notary public的全州权限更灵活
+
+**场景4: 州外房产能否在纽约公证**
+赵先生有一处位于新泽西州的房产，他人在纽约。能否在纽约公证该房产文件？
+
+**§298的限制**:
+- §298明确规定：""real property situate **in this State**""（位于本州的房产）
+- 新泽西房产不适用§298
+- 赵先生需要：
+  1. 在新泽西找公证员，或
+  2. 找有权在外州公证的纽约公证员（需要该州认可），或
+  3. 参考§309-b关于州外公证的规定
+
+**重要提醒**: 
+- Notary public是最灵活、最常用的选择
+- §298列出的其他官员主要在特殊或复杂情况下使用
+- 公证员应该向客户解释，自己有全州范围的权限
+- 房产位置决定适用的法律和公证要求
+- 跨州房产交易需要特别注意公证的有效性"
 024,"§302. Acknowledgments and proofs by married women.
 ","The acknowledgment or proof of a conveyance of real property, within the state, or of any other written instrument, may be made by a married woman the same as if unmarried.
 
@@ -656,9 +1252,172 @@ except a will, a lease for a term not exceeding three years, an executory contra
 **重要提醒**: §303的要求是强制性的，不是建议。公证员必须确保每个要素都满足，否则承担法律责任。
 "
 026,"§304. Proof by subscribing witness.
-","When the execution of a conveyance is proved by a subscribing witness, such witness must state his own place of residence, and if his place of residence is in a city, the street and street number, if any thereof, and that he knew the person described in and who executed the conveyance. The proof must not be taken unless the officer is personally acquainted with such witness, or has satisfactory evidence that he is the same person, who was a subscribing witness to the conveyance."
+","When the execution of a conveyance is proved by a subscribing witness, such witness must state his own place of residence, and if his place of residence is in a city, the street and street number, if any thereof, and that he knew the person described in and who executed the conveyance. The proof must not be taken unless the officer is personally acquainted with such witness, or has satisfactory evidence that he is the same person, who was a subscribing witness to the conveyance.
+
+---
+
+**实际应用场景**:
+
+**场景: 通过见证人证明文件签署**
+陈先生在2020年签署了一份房产契约(deed)，但没有做公证acknowledgment。现在（2024年）他已经去世，买家需要证明该契约的有效性。幸运的是，当时有一位见证人李女士在场见证了签署。
+
+**Proof by Subscribing Witness的程序**（根据§304）:
+
+**第一步：找到合格的见证人**
+- 李女士必须是当时在场见证签署的""subscribing witness""（签署见证人）
+- 她的名字通常在契约上作为见证人签名
+
+**第二步：李女士向公证员提供信息**
+公证员必须记录以下信息：
+
+1. **李女士的居住地址**:
+   - 完整的居住地
+   - 如果在城市，必须包括街道名称和门牌号
+   - 例如：""123 Main Street, Albany, NY 12084""
+
+2. **李女士的证词**:
+   - ""我认识文件中描述的人（陈先生）""
+   - ""我亲眼看到陈先生签署了该文件""
+   - ""签署时陈先生是自愿的，具有完全行为能力""
+
+**第三步：公证员核实李女士的身份**
+公证员必须：
+- **亲自认识**李女士，或
+- 通过**令人满意的证据**(satisfactory evidence)确认李女士的身份
+
+**不能接受的情况**:
+- ❌ 公证员对李女士的身份没有把握
+- ❌ 李女士通过电话或视频作证（必须亲自出现）
+- ❌ 李女士不记得陈先生或签署过程
+- ❌ 李女士提供的地址不完整（如只说""Albany""）
+
+**完整案例流程**:
+
+1. **2020年**: 陈先生签署契约，李女士作为见证人在场并签名，但未做acknowledgment
+2. **2024年**: 陈先生去世，买家需要证明契约有效
+3. **李女士前往公证员处**
+4. **公证员核实**: 
+   - 检查李女士的ID（驾照显示：123 Main Street, Albany）
+   - 询问李女士并记录她的证词
+5. **公证员创建Proof证书**:
+   - 记录李女士的地址：123 Main Street, Albany, NY
+   - 记录李女士认识陈先生
+   - 记录李女士见证了签署过程
+   - 附上公证员的证书和签名
+6. **契约现在有了法律效力**，可以用于房产转让
+
+**Proof vs. Acknowledgment的区别**:
+- **Acknowledgment**: 签署人本人承认签名（最常见）
+- **Proof**: 通过见证人证明签署（签署人无法出现时使用）
+
+**重要提醒**: 
+- Proof程序比acknowledgment更复杂
+- 见证人必须亲自认识签署人（不能只是""见过一次""）
+- 地址信息必须完整，特别是城市地址
+- 公证员对见证人的身份核实标准与对签署人相同
+- Proof主要用于签署人已去世或无法出现的情况
+- 这是保护房产交易安全的重要机制"
 027,"§306. Certificate of acknowledgment or proof.
-","A person taking the acknowledgment or proof of a conveyance must endorse thereupon or attach thereto, a certificate, signed by himself, stating all the matters required to be done, known, or proved on the taking of such acknowledgment or proof, together with the name and substance of the testimony of each witness examined before him, and if a subscribing witness, his place of residence."
+","A person taking the acknowledgment or proof of a conveyance must endorse thereupon or attach thereto, a certificate, signed by himself, stating all the matters required to be done, known, or proved on the taking of such acknowledgment or proof, together with the name and substance of the testimony of each witness examined before him, and if a subscribing witness, his place of residence.
+
+---
+
+**实际应用场景**:
+
+**场景1: 不完整的公证证书导致契约被拒**
+公证员张先生为房产契约做了acknowledgment，但他的证书上只写了：
+""Acknowledged before me on March 15, 2024. [签名] John Zhang, Notary Public""
+
+一周后，买家的律师拒绝接受该契约，说证书不完整。
+
+**问题分析**:
+张先生的证书违反了§306，缺少以下必要信息：
+
+**§306要求的完整证书内容**:
+
+1. **所有required信息**:
+   - 签署人的姓名
+   - 出现的日期和地点
+   - 确认身份的方式（亲自认识/ID类型）
+   - Acknowledgment的性质（自愿签署、了解内容等）
+
+2. **如果是Proof by witness**:
+   - 见证人的姓名
+   - 见证人的证词内容(substance of the testimony)
+   - 见证人的居住地址
+
+3. **公证员信息**:
+   - 公证员签名
+   - 公证员姓名（打印）
+   - ""Notary Public State of New York""
+   - 任命县
+   - 委任到期日
+
+**张先生应该如何纠正**:
+1. 联系签署人，请其再次出现
+2. 创建完整的新证书
+3. 使用正确的制式表格（参见§309-a）
+
+**场景2: 见证人证明的完整记录**
+公证员李女士为一份遗嘱做proof（通过见证人），见证人是王先生。
+
+**李女士必须在证书中记录**:
+
+```
+Certificate of Proof
+
+State of New York    )
+                      ) ss.:
+County of Kings      )
+
+On April 20, 2024, before me, the undersigned notary public, personally appeared WANG Ming, who being by me duly sworn, did depose and say:
+
+Witness Information:
+Name: WANG Ming
+Residence: 456 Oak Avenue, Brooklyn, NY 11201
+
+Testimony:
+1. That he resides at the above address
+2. That he was personally acquainted with CHEN Li (the testator)
+3. That he was present and saw CHEN Li execute the will dated January 5, 2024
+4. That CHEN Li signed the will in the presence of the witness
+5. That CHEN Li appeared to be of sound mind and under no duress
+
+Identity Verification:
+The witness was identified by New York State Driver License #123456789
+
+[公证员签名和印章]
+Lisa Liu, Notary Public
+State of New York
+Qualified in Kings County
+Commission Expires: 12/31/2026
+```
+
+**关键要点**:
+- 见证人的每一句证词都要记录
+- 地址必须完整
+- 身份核实方式要明确
+
+**场景3: Acknowledgment vs. Proof证书的区别**
+
+**Acknowledgment证书**（常见）:
+- 签署人本人出现
+- 签署人承认签名是自己的
+- 证书记录签署人的确认
+
+**Proof证书**（特殊情况）:
+- 见证人出现（签署人无法出现）
+- 见证人作证见到签署过程
+- 证书记录见证人的完整证词
+
+**重要提醒**: 
+- §306是公证证书的""质量控制""条款
+- 不完整的证书可能导致整个交易无效
+- 使用标准表格（§309-a, §309-b）可以避免遗漏
+- 证书必须""附加或背书""(endorse thereupon or attach thereto)在文件上
+- 不要只签名，必须提供完整证书
+- 保留公证记录副本，以备将来查询
+- 见证人证明的证书比acknowledgment复杂得多，需要更多细节"
 028,"§309-a. Uniform forms of certificates of acknowledgment or proof within this state.
 ","1. The certificate of an acknowledgment, within this State, or a conveyance or other instrument in respect to real property situate in this State, by a person, must conform substantially with the following form, the blanks being properly filled:
 
@@ -678,7 +1437,107 @@ On the . . . . . day of . . . . . in the year . . . . . before me, the undersign
 (Signature and office of individual taking proof.)
 3. A certificate of an acknowledgment or proof taken under §300 of this article shall include the additional information required by that section.
 4. For the purposes of this section, the term ?person? means any corporation, joint stock company, estate, general partnership (including any registered limited liability partnership or foreign limited liability partnership), limited liability company (including a professional service limited liability company), foreign limited liability company (including a foreign professional service limited liability company), joint venture, limited partnership, natural person, attorney in fact, real estate investment trust, business trust or other trust, custodian, nominee or any other individual or entity in its own or any representative capacity.
-"
+
+
+---
+
+**实际应用场景**:
+
+**场景1: 使用标准表格避免错误**
+新公证员刘先生刚开始执业，为了""专业""，他自己设计了一套公证证书格式。结果客户的文件被县书记员拒绝，说格式不符合要求。
+
+**问题分析**:
+§309-a提供了**统一标准表格**(uniform forms)，公证员应该使用这些表格或""基本符合""(substantially conform)的表格。
+
+**正确做法**:
+1. 使用§309-a规定的标准表格
+2. 正确填写所有空白处
+3. 不要遗漏任何必填项
+4. 不要添加未经授权的内容
+
+**§309-a标准表格的关键要素**:
+
+```
+State of New York        )
+                         ) ss.:
+County of [任命县]       )
+
+On the [日期] day of [月份] in the year [年份] 
+before me, the undersigned, personally appeared 
+[签署人姓名], personally known to me or proved 
+to me on the basis of satisfactory evidence to 
+be the individual whose name is subscribed to 
+the within instrument and acknowledged to me 
+that he/she executed the same in his/her 
+capacity, and that by his/her signature on the 
+instrument, the individual, or the person upon 
+behalf of which the individual acted, executed 
+the instrument.
+
+[公证员签名]
+[公证员姓名，打印]
+Notary Public State of New York
+Qualified in [县名] County
+Commission Expires: [日期]
+```
+
+**场景2: 填写表格的常见错误**
+公证员陈女士使用了标准表格，但在填写时犯了一些错误：
+- 日期写成 ""3/15/2024"" 而不是 ""15th day of March in the year 2024""
+- 身份核实方式未填写（personally known / satisfactory evidence）
+- 县名填错
+
+**正确的填写方式**:
+
+**日期部分**:
+- ✓ ""15th day of March in the year 2024""
+- ❌ ""3/15/2024""（虽然通常可以接受，但标准表格要求完整书写）
+
+**身份核实**:
+必须选择一个并划掉另一个：
+- ""personally known to me"" 或
+- ""proved to me on the basis of satisfactory evidence""
+- 不能两个都不选，也不能两个都选
+
+**县名**:
+- 必须是公证员的任命县
+- 即使公证发生在其他县，这里仍填写任命县
+
+**场景3: 公司官员签署的特殊表格**
+李先生作为ABC公司的CEO签署房产契约。公证员王女士使用了个人签署的标准表格。
+
+**错误**:
+§309-a为不同类型的签署人提供了不同表格：
+1. Individual（个人）
+2. Corporation（公司）
+3. Partnership（合伙）
+4. Attorney-in-fact（授权代理人）
+5. 其他
+
+**正确做法**:
+王女士应该使用公司官员的表格，关键区别在于承认语句：
+
+""acknowledged to me that he/she executed the same **in his/her capacity as [职位] of [公司名], and that by his/her signature on the instrument, the person, or entity upon behalf of which the person acted, executed the instrument**""
+
+**场景4: 多个签署人的处理**
+一份契约有3个共同所有人签署。公证员应该如何处理？
+
+**选项A**: 每个人单独的证书（推荐）
+- 为每个签署人填写一份完整的表格
+- 清晰、明确
+- 如果有人后来有争议，不影响其他人
+
+**选项B**: 一个联合证书
+- 可以使用，但要确保表格语言适用于多人
+- 改为复数：""personally appeared [姓名1], [姓名2], [姓名3]...they executed...""
+
+**重要提醒**: 
+- §309-a的表格是""safe harbor""（安全港），使用这些表格可以避免格式争议
+- ""Substantially conform""意味着可以有小的调整，但核心内容必须完整
+- 不要创新或""改进""标准表格，风险很大
+- 空白处必须全部填写，不能留空
+- 使用打字或清晰手写填写，确保可读性
+- 保留填写示例作为参考，提高效率和准确性"
 029,"§309-b. Uniform forms of certificates of acknowledgment or proof without this state.
 ","1.
 The certificate of an acknowledgment, without this State, of a conveyance or other instrument with respect to real property situate in this State, by a person, may conform substantially with the following form, the blanks being properly filled:State, District of Columbia,        )
@@ -711,9 +1570,195 @@ A certificate of an acknowledgment or proof taken under §300 of this article sh
 For the purposes of this section, the term ?person? means a person as defined in subdivision 4 of §309-a of this article.
 
 6.
-The inclusion within the body (other than the jurat) of a certificate of acknowledgment or proof made under this section or the city or other political subdivision and the state or country or other place the acknowledgment was taken shall be deemed. A non-substantial variance from the form of a certificate authorized by this section."
+The inclusion within the body (other than the jurat) of a certificate of acknowledgment or proof made under this section or the city or other political subdivision and the state or country or other place the acknowledgment was taken shall be deemed. A non-substantial variance from the form of a certificate authorized by this section.
+
+---
+
+**实际应用场景**:
+
+**场景1: 在佛罗里达州公证纽约房产文件**
+张先生在佛罗里达州退休居住，但他在纽约州有一处房产要出售。买家要求公证的契约。张先生能否在佛罗里达州做公证？
+
+**正确做法**:
+可以！根据§309-b，**州外公证**纽约房产文件是允许的。
+
+**步骤**:
+1. 张先生在佛罗里达找一位当地授权的公证官员
+2. 该官员使用§309-b规定的州外公证表格
+3. 表格格式与§309-a类似，但地点部分不同：
+
+```
+State of Florida         )
+                         ) ss.:
+County of Miami-Dade     )
+
+On the 15th day of March in the year 2024,
+before me personally appeared ZHANG Wei...
+[其余内容与州内表格相似]
+
+[佛罗里达公证员签名和印章]
+```
+
+4. 该公证对纽约房产文件完全有效
+
+**场景2: 纽约公证员能否使用§309-b表格？**
+公证员李女士是纽约公证员，客户误给她§309-b表格（州外表格）。
+
+**错误**:
+- 李女士在纽约
+- 应该使用§309-a表格（州内表格）
+- §309-b是给州外公证员用的
+
+**正确做法**:
+- 告诉客户更换表格
+- 使用正确的§309-a州内表格
+
+**场景3: 国外公证纽约房产文件**
+王先生在中国，需要公证纽约房产的授权书(Power of Attorney)。
+
+**复杂但可行的流程**:
+
+**第一步：在中国公证**
+1. 找当地公证员或美国领事馆官员
+2. 使用§309-b表格或其""基本符合""的表格：
+
+```
+Foreign Country: China   )
+                         ) ss.:
+City: Beijing            )
+
+On the [日期]...
+```
+
+**第二步：认证链(Authentication Chain)**
+对于国外公证，通常还需要：
+1. **公证** (Notarization) - 本地公证员
+2. **Apostille** (如果中国是海牙公约成员国) 或
+3. **领事认证** (Consular Legalization)
+   - 中国外交部认证
+   - 中国的美国大使馆/领事馆认证
+
+**第三步：在纽约使用**
+- 附上完整的认证链
+- 提交给纽约的相关机关（县书记员、法院等）
+
+**场景4: §309-b的""may conform""vs. §309-a的""must conform""**
+细心的客户发现§309-a说""must""，§309-b说""may""。有什么区别？
+
+**重要区别**:
+
+**§309-a (州内)**: ""**must** conform substantially""
+- 更严格
+- 强烈建议使用标准表格
+- 纽约州对州内公证有直接管辖权
+
+**§309-b (州外)**: ""**may** conform substantially""  
+- 更灵活
+- 认可其他州/国家可能有自己的表格要求
+- 只要包含必要信息即可
+- 纽约州对其他州的公证员没有管辖权
+
+**实际影响**:
+- 州外公证可以使用当地标准表格
+- 但使用§309-b表格更保险，避免被纽约机关拒绝
+
+**重要提醒**: 
+- §309-b扩大了纽约房产交易的便利性，允许州外/国外公证
+- 对于国际交易，Apostille/领事认证可能是必需的
+- 州外公证员不需要纽约notary资格
+- 州外公证必须符合当地法律（佛罗里达公证员必须遵守佛罗里达法律）
+- 如有疑问，建议咨询房产律师确保公证被纽约接受
+- 远程电子公证(Remote Online Notarization)可能是另一个选项（参见§135-c）"
 030,"§330. Officers guilty of malfeasance liable for damages.
-","An officer authorized to take the acknowledgment or proof of a conveyance or other instrument, or to certify such proof or acknowledgment, or to record the same, who is guilty of malfeasance or fraudulent practice in the execution of any duty prescribed by law in relation thereto, is liable in damages to the person injured."
+","An officer authorized to take the acknowledgment or proof of a conveyance or other instrument, or to certify such proof or acknowledgment, or to record the same, who is guilty of malfeasance or fraudulent practice in the execution of any duty prescribed by law in relation thereto, is liable in damages to the person injured.
+
+---
+
+**实际应用场景**:
+
+**场景1: 公证员欺诈性公证导致重大损失**
+公证员赵先生与房产诈骗犯串通，明知签署人不是真正的房主，却仍然公证了房产转让契约。真正的房主发现后，房产已被转卖给善意第三方。房主损失$500,000。
+
+**法律后果 - §330**:
+1. **刑事责任**: 赵先生的行为构成欺诈(fraud)，可能面临：
+   - 重罪指控
+   - 监禁
+   - 罚款
+
+2. **民事责任**: 根据§330，赵先生**个人承担损害赔偿**：
+   - 房主可以起诉赵先生要求$500,000赔偿
+   - 赵先生的""公证员保证金""(notary bond)如有，可以赔付部分
+   - 不足部分，赵先生需用个人财产偿还
+
+3. **职业后果**:
+   - 立即被Secretary of State免职
+   - 永久不得再任命为公证员
+   - 吊销执照
+
+**关键点**: §330不仅是纪律处分，受害人可以**直接起诉索赔**。
+
+**场景2: 县书记员的疏忽记录**
+County clerk李女士负责记录房产契约。一份契约因她的疏忽被记录到错误的地块(parcel)上，导致真正的买家无法获得清晰产权，交易延误6个月，买家损失$50,000（包括临时住房、贷款利息等）。
+
+**§330的适用**:
+1. **Clerk是""授权官员""**: County clerk授权记录房产文件
+2. **疏忽构成""malfeasance""**: 错误记录是职责失当
+3. **直接损失**: 买家的损失直接由该错误造成
+
+**买家的救济**:
+- 可以起诉李女士和/或其雇主（县政府）
+- 索赔$50,000实际损失
+- 可能还有其他法律救济途径
+
+**李女士的防御**:
+- 如果是无意疏忽（negligence）vs 故意失职（malfeasance），可能影响责任程度
+- 可能有政府雇员的豁免保护（但§330可能穿透该保护）
+
+**场景3: 公证员未亲眼见证签署**
+公证员陈女士在电话中告诉客户：""你先签字，然后把文件送过来，我给你公证。""客户照做了。陈女士在未见到客户本人的情况下完成了公证。后来发现该文件是伪造的，给银行造成$100,000损失。
+
+**§330分析**:
+1. **严重违规**: 未经亲眼见证就公证是严重违反职责
+2. **Malfeasance**: 这构成职责失当，甚至可能是fraudulent practice
+3. **因果关系**: 如果陈女士正确履职（要求亲自出现），欺诈就会被发现
+
+**陈女士的责任**:
+- 银行可以起诉陈女士索赔$100,000
+- 陈女士不能辩称""我不知道是欺诈""——她的职责就是防止这种情况
+- 可能面临刑事指控
+
+**场景4: 公证员的保护措施**
+
+聪明的公证员会采取以下措施保护自己，避免§330责任：
+
+**1. 购买E&O保险**(Errors & Omissions Insurance)
+- 虽然不是法律要求，但强烈建议
+- 覆盖因疏忽导致的索赔
+- 通常不覆盖故意欺诈
+
+**2. 严格遵守程序**
+- 始终要求亲自出现
+- 仔细核实身份
+- 保持详细记录
+- 如有疑问，拒绝公证
+
+**3. 避免利益冲突**
+- 严格遵守disqualification规则
+- 不为家人、雇主、有利益关系的人公证
+
+**4. 继续教育**
+- 定期更新知识
+- 了解常见欺诈手段
+- 参加职业培训
+
+**重要提醒**: 
+- §330使公证员和其他官员**个人承担责任**，不是由政府承担
+- ""Malfeasance""(职责失当) 比普通疏忽更严重，通常涉及故意或重大过失
+- ""Fraudulent practice""(欺诈行为) 是最严重的，必定导致责任
+- 受害人可以直接起诉，不需要先通过Secretary of State
+- 公证员应该购买保险，但保险不覆盖故意违法行为
+- 最好的保护是严格遵守职业规范，从不投机取巧
+- 一次违规可能导致终身的财务和法律后果"
 031,"§333. When conveyances of real property not to be recorded.
 ","A recording officer shall not record or accept for record any conveyance of real property, unless said conveyance in its entirety and the certificate of acknowledgment or proof and the authentication thereof, other than proper names therein which may be in another language provided they are written in English letters or characters, shall be in the English language, or unless such conveyance, certificate of acknowledgment or proof, and the authentication thereof be accompanied by and have attached thereto a translation in the English language duly executed and acknowledged by the person or persons making such conveyance and proved and authenticated, if need be, in the manner required of conveyances for recording in this state, or, unless such conveyance, certificate of acknowledgment or proof, and the authentication thereof be accompanied by and have attached thereto a translation in the English language made by a person duly designated for such purpose by the county judge of the county where it is desired to record such conveyance or a justice of the supreme court and be duly signed, acknowledged and certified under oath or upon affirmation by such person before such judge, to be a true and accurate translation and contain a certification of the designation of such person by such judge.
 
