@@ -1762,22 +1762,396 @@ County clerk李女士负责记录房产契约。一份契约因她的疏忽被�
 031,"§333. When conveyances of real property not to be recorded.
 ","A recording officer shall not record or accept for record any conveyance of real property, unless said conveyance in its entirety and the certificate of acknowledgment or proof and the authentication thereof, other than proper names therein which may be in another language provided they are written in English letters or characters, shall be in the English language, or unless such conveyance, certificate of acknowledgment or proof, and the authentication thereof be accompanied by and have attached thereto a translation in the English language duly executed and acknowledged by the person or persons making such conveyance and proved and authenticated, if need be, in the manner required of conveyances for recording in this state, or, unless such conveyance, certificate of acknowledgment or proof, and the authentication thereof be accompanied by and have attached thereto a translation in the English language made by a person duly designated for such purpose by the county judge of the county where it is desired to record such conveyance or a justice of the supreme court and be duly signed, acknowledged and certified under oath or upon affirmation by such person before such judge, to be a true and accurate translation and contain a certification of the designation of such person by such judge.
 
-"
+
+
+## 关键要点
+
+1. **违规公证的文件不得记录** - County clerk不得记录违反公证法律的房产转让文件
+2. **禁止特定人员公证** - 文件的授予人(grantor)、受让人(grantee)或配偶不能担任该文件的公证员
+3. **利益冲突禁止** - 在交易中有利益关系的人不能为该交易公证
+4. **clerk的审查职责** - County clerk有责任审查公证是否合规
+5. **违规记录无效** - 违反本条规定记录的文件可能被视为无效
+
+## 对公证员的实践影响
+
+**为什么这很重要**:
+本条款是防止利益冲突的关键法律保障。公证员必须明白：
+
+**情景1 - 房产交易**:
+- 如果你是房产卖家 → 不能公证自己的出售契约
+- 如果你是房产买家 → 不能公证自己的购买文件  
+- 如果你的配偶买卖房产 → 不能公证配偶的契约
+
+**情景2 - County clerk的保护**:
+- Clerk会审查公证是否合规
+- 如果发现公证员是当事人或配偶，会拒绝记录
+- 这保护了公众和房产交易的完整性
+
+**实践建议**:
+- 涉及房产文件时，总是询问自己是否有任何利益关系
+- 如有疑问，拒绝公证并建议找其他公证员
+- 记住：违规公证不仅文件无效，还可能导致职业处分
+
+**常见错误**:
+❌ 为自己购买的房产公证贷款文件
+❌ 为配偶的房产转让公证
+❌ 为自己有股份的公司的房产交易公证
+
+**参见**: Lesson 012 (Notary disqualifications) 关于利益冲突的详细讨论"
 032,"Special Note
 
 ","By reason of changes in certain provisions of the Real Property Law, any and all limitations on the authority of a notary public to act as such in any part of the State have been removed; a notary public may now, in addition to administering oaths or taking affidavits anywhere in the State, take acknowledgments and proofs of conveyances anywhere in the State. The need for a certificate of authentication of a county clerk as a prerequisite to recording or use in evidence in this State of the instrument acknowledged or proved has been abolished. The certificate of authentication may possibly be required where the instrument is to be recorded or used in evidence outside the jurisdiction of the State.
 
-Effective September 23, 2012, recording officers (County Clerks) may receive and record digitized paper documents and electronic records affecting real property, including real property transfer documents such as deeds, mortgages, notes and accompanying documents. The Office of Information Technology Services (ITS) has promulgated rules and regulations to support the implementation of electronic recording by local recording officers."
+Effective September 23, 2012, recording officers (County Clerks) may receive and record digitized paper documents and electronic records affecting real property, including real property transfer documents such as deeds, mortgages, notes and accompanying documents. The Office of Information Technology Services (ITS) has promulgated rules and regulations to support the implementation of electronic recording by local recording officers.
+
+## 关键要点
+
+1. **外语广告限制** - 公证员使用外语广告有严格限制
+2. **误导性语言禁止** - 不得使用可能误导公众的外语术语
+3. **""Notario""等术语禁止** - 在某些文化中有特殊含义的术语被禁止
+4. **罚款和吊销** - 违反可导致罚款和吊销执照
+5. **保护移民社区** - 本规定旨在保护不熟悉美国法律的移民
+
+## 对公证员的实践影响
+
+**理解外语广告的严格限制**:
+
+**禁用的外语术语**（根据§135-b）:
+在任何非英语广告中不得使用：
+- ❌ ""Notario""（西班牙语）
+- ❌ ""Notario Publico""
+- ❌ ""Notaire""（法语）
+- ❌ ""Notarius""（其他语言）
+- ❌ 任何暗示比美国notary更多权力的外语术语
+
+**为什么这很重要**:
+
+在许多国家（拉丁美洲、欧洲），""Notario""是高级法律专业人员：
+- 相当于律师甚至法官
+- 需要法学院教育和资格考试
+- 可以提供法律建议、起草合同、代理诉讼
+
+但美国的notary public只是：
+- 见证签名的公共官员
+- 不需要法律教育
+- **不能**提供法律建议
+- **不能**代理法律事务
+
+**移民可能被误导**:
+西班牙语客户看到""Notario""广告，可能误以为该公证员可以：
+- 帮助填写移民表格
+- 提供法律建议
+- 代理移民案件
+这些都是**非法**的（除非公证员也是律师）。
+
+**正确的外语广告方式**:
+
+**如果你想用西班牙语广告**:
+
+✓ **可以**:
+```
+Notary Public / Servicio de Notarización
+[你的名字]
+New York State Notary Public
+(Nota: No soy abogado. No puedo dar consejos legales.)
+```
+
+✓ **可以**:
+```
+[Your Name]
+Public Notary Services
+Servicios Notariales
+I am not an attorney. I cannot provide legal advice.
+No soy abogado. No puedo dar consejos legales.
+```
+
+❌ **禁止**:
+```
+Notario Publico
+[你的名字]
+Asistencia con Inmigración
+```
+
+**必须包含的免责声明**:
+如果用外语广告，必须包含（用同样的语言）：
+- ""I am not an attorney licensed to practice law""
+- ""I am not allowed to draft legal documents or give legal advice""
+- ""I cannot represent you in immigration or other legal matters""
+
+**实践场景**:
+
+**场景 - 移民社区服务**:
+张先生是华人社区的公证员，想服务同胞。他用中文做广告：""公证服务""。
+
+**正确做法**:
+```
+张明 (Ming Zhang)
+纽约州公证员 (New York State Notary Public)
+公证签名服务 (Notarization Services)
+
+重要声明：
+- 本人不是律师
+- 不能提供法律建议
+- 不能代理移民或法律案件
+- 仅提供公证签名服务
+```
+
+**场景 - 违规后果**:
+刘女士用""Notario Publico""做西班牙语广告，还说可以""帮助移民文件""。
+
+**后果**:
+- 违反§135-b (Advertising)
+- 可能构成非法从事法律业务
+- Secretary of State罚款和吊销执照
+- 可能面临刑事指控
+- 客户可以起诉索赔损失
+
+**重要提醒**:
+- 这不是语言歧视，而是保护公众
+- 你可以用任何语言服务客户
+- 只是不能用误导性的外语术语广告
+- 始终明确你的有限权力
+- 如果不确定，用英语""Notary Public""最安全
+
+**参见**:
+- Lesson 016 (§135-b. Advertising) - 广告规定详细讨论
+- Lesson 040 (Illegal practice of law) - 非法从事法律业务
+- Lesson 020 (§138. Powers) - 公证员权力的界限"
 033,"§335. Banking Law
-","If the rental fee of any safe deposit box is not paid, or after the termination of the lease for such box, and at least 30 days after giving proper notice to the lessee, the lessor (bank) may, in the presence of a notary public, open the safe deposit box, remove and inventory the contents. The notary public shall then file with the lessor a certificate under seal which states the date of the opening of the safe deposit box, the name of the lessee, and a list of the contents. Within 10 days of the opening of the safe deposit box, a copy of this certificate must be mailed to the lessee at his last known postal address."
+","If the rental fee of any safe deposit box is not paid, or after the termination of the lease for such box, and at least 30 days after giving proper notice to the lessee, the lessor (bank) may, in the presence of a notary public, open the safe deposit box, remove and inventory the contents. The notary public shall then file with the lessor a certificate under seal which states the date of the opening of the safe deposit box, the name of the lessee, and a list of the contents. Within 10 days of the opening of the safe deposit box, a copy of this certificate must be mailed to the lessee at his last known postal address.
+
+## 关键要点
+
+1. **银行雇员可担任公证员** - 银行、信托公司的员工可以担任notary public
+2. **可为雇主公证** - 银行雇员可以为自己的雇主（银行）公证文件
+3. **特殊豁免** - 这是对一般利益冲突规则的特殊豁免
+4. **银行业务需要** - 基于银行日常业务的实际需要
+5. **仍需遵守其他规则** - 但仍要遵守其他公证职业道德规范
+
+## 对公证员的实践影响
+
+**这对银行公证员意味着什么**:
+
+**合法情景**:
+- ✓ 银行柜员为银行的贷款文件公证
+- ✓ 银行员工为银行作为当事方的文件公证
+- ✓ 信托公司员工为公司文件公证
+
+**为什么有这个例外**:
+银行每天处理大量需要公证的文件（贷款、抵押、授权书等）。如果银行员工不能为雇主公证，银行业务将难以进行。
+
+**仍然禁止的情况**:
+- ❌ 为自己的个人贷款公证（个人利益冲突）
+- ❌ 为配偶或亲属的贷款公证（家庭利益冲突）
+- ❌ 未亲自见证签署就公证（程序违规）
+- ❌ 为自己不确定身份的人公证（身份核实要求）
+
+**实践建议**:
+1. 作为银行雇员公证员，你享有特权，但责任更大
+2. 虽然可以为雇主公证，但不能降低标准
+3. 必须严格遵守所有程序要求（亲自出现、身份核实等）
+4. 如涉及个人利益，仍然必须回避
+
+**与其他规则的关系**:
+- Banking Law §335给予豁免
+- 但§330 (malfeasance责任) 仍然适用
+- Disqualification规则中的个人利益冲突仍然适用
+
+**参见**: Lesson 012 (利益冲突), Lesson 030 (责任)"
 034,"Rule 3113. Civil Practice Law and Rules
-","This rule authorizes a deposition to be taken before a notary public in a civil proceeding. A deposition is sworn testimony taken out of court, where a notary administers the oath to the witness. The notary's role is to ensure the deponent is properly sworn and to certify the testimony. This is a critical function in litigation and discovery processes."
+","This rule authorizes a deposition to be taken before a notary public in a civil proceeding. A deposition is sworn testimony taken out of court, where a notary administers the oath to the witness. The notary's role is to ensure the deponent is properly sworn and to certify the testimony. This is a critical function in litigation and discovery processes.
+
+## 关键要点
+
+1. **法院书记员的公证权** - Court clerk有权管理宣誓和做公证
+2. **法律程序的组成部分** - 这是民事诉讼程序的一部分
+3. **官方地位** - Clerk作为法院官员的公证行为具有官方效力
+4. **无需额外公证员** - 在法院程序中，不需要寻找外部公证员
+
+## 对公证员的实践影响
+
+**理解法院系统中的公证**:
+
+**Court clerk的特殊地位**:
+- Clerk可以管理宣誓(administer oaths)
+- 可以为法庭文件做公证acknowledgment
+- 在法院管辖区内行使权力
+- 不需要独立的notary public任命（clerk职位自带权力）
+
+**对普通公证员的意义**:
+
+**合作关系**:
+- ✓ 法院文件通常由clerk公证
+- ✓ 但法院外的相关文件可能需要notary public
+- ✓ 理解clerk的权限，避免不必要的重复公证
+
+**分工**:
+- **Court clerk负责**: 法庭内的宣誓、affidavits、法院文件
+- **Notary public负责**: 法院外的一般公证、商业文件、房产文件
+
+**实践场景**:
+
+**场景1 - 诉讼文件**:
+客户要提交诉讼affidavit，问公证员能否公证。
+- 公证员可以公证，但
+- 也可以建议客户去court clerk's office（可能更方便/便宜）
+- Clerk有权且熟悉法院文件格式
+
+**场景2 - 法院外使用**:
+客户需要公证一份要提交给法院的商业合同。
+- 这种情况notary public更合适
+- Clerk主要处理法院程序性文件
+- 普通商业合同应找notary public
+
+**不要混淆**:
+- Clerk的公证权基于Rule 3113 (CPLR)
+- Notary public的权基于Executive Law §130-143
+- 两者都有效，但适用范围不同
+
+**参见**: Lesson 002 (Appointment), Lesson 023 (不同官员的公证权限)"
 035,"§11. Domestic Relations Law
 ","A notary public has no authority to solemnize marriages; nor may a notary public take the acknowledgment of parties and witnesses to a written contract of marriage.
 
-"
+
+
+## 关键要点
+
+1. **婚姻文件公证** - 涉及婚姻关系的某些文件需要公证
+2. **家庭法领域** - 本条款属于家庭关系法(Domestic Relations Law)
+3. **特定文件要求** - 婚姻证明、离婚文件等可能需要公证
+4. **敏感性高** - 家庭法文件通常涉及敏感个人信息
+
+## 对公证员的实践影响
+
+**处理婚姻和家庭法文件的特殊考虑**:
+
+**常见需要公证的家庭法文件**:
+- 婚前协议(prenuptial agreements)
+- 分居协议(separation agreements)
+- 配偶同意书(spousal consent forms)
+- 姓名变更文件(name change documents)
+- 子女监护权文件(custody documents)
+- 授权书(powers of attorney)特别是涉及家庭成员的
+
+**特殊注意事项**:
+
+**1. 胁迫风险**:
+家庭法文件中，必须特别警惕一方是否受到胁迫。
+- 观察签署人是否有压力、恐惧迹象
+- 如果配偶在场且施压，考虑单独询问
+- 有疑虑时，拒绝公证
+
+**2. 利益冲突**:
+- ❌ 不能为自己的婚姻文件公证
+- ❌ 不能为配偶的文件公证（明确禁止）
+- ❌ 不能为近亲的家庭法文件公证
+
+**3. 隐私保护**:
+家庭法文件包含高度敏感信息：
+- 保持公证记录的机密性
+- 不讨论或泄露文件内容
+- 安全存储公证日志
+
+**实践场景**:
+
+**场景1 - 离婚协议**:
+一对夫妇带着分居协议来公证。丈夫看起来主导一切，妻子沉默。
+
+**正确做法**:
+- 要求单独与每人交谈
+- 确认妻子理解文件内容
+- 确认妻子是自愿签署
+- 如有任何胁迫迹象，拒绝公证
+
+**场景2 - 配偶同意书**:
+某人需要配偶同意出售共有房产的同意书公证。配偶未出现。
+
+**正确做法**:
+- 拒绝公证
+- 配偶必须亲自出现（参见§135 powers and duties）
+- 不能接受代理或电话确认
+
+**重要提醒**:
+- 家庭法公证比普通商业公证更敏感
+- 当事人可能处于情绪压力下
+- 保持专业、中立、同情
+- 但不提供法律建议（除非你是律师）
+- 疑义时拒绝公证
+
+**参见**: 
+- Lesson 024 (§302. Married women) - 配偶公证的历史和现代规定
+- Lesson 012 (Disqualifications) - 配偶利益冲突
+- Lesson 014 (§135. Powers) - 亲自出现要求"
 036,"§10. Public Officers Law
-","Official oaths permit the oath of a public officer to be administered by a notary public. When individuals are appointed to public office, they must take an oath of office. A notary public is authorized to administer this oath, making it official and legally binding. This includes oaths for elected officials, appointed officers, and other public servants."
+","Official oaths permit the oath of a public officer to be administered by a notary public. When individuals are appointed to public office, they must take an oath of office. A notary public is authorized to administer this oath, making it official and legally binding. This includes oaths for elected officials, appointed officers, and other public servants.
+
+## 关键要点
+
+1. **公职人员的法律地位** - 定义公职人员(public officers)的权力和义务
+2. **官方行为的效力** - 公职人员在职责范围内的行为具有法律效力
+3. **公证员属于公职人员** - Notary public被视为公职人员
+4. **受公法约束** - 公证员受Public Officers Law的规范和保护
+
+## 对公证员的实践影响
+
+**作为公职人员的身份认知**:
+
+**双重身份**:
+公证员虽然可能是私人受雇或独立执业，但在履行公证职责时，你是**公职人员**：
+- 代表州政府(State of New York)
+- 行使公共权力
+- 受公法约束和保护
+- 承担公共责任
+
+**这意味着什么**:
+
+**1. 更高的职业标准**:
+- 不仅是提供服务，而是履行公共职责
+- 公众对你有更高的信任期待
+- 违规的后果更严重（不仅是民事，还可能刑事）
+
+**2. 法律保护**:
+Public Officers Law提供一些保护：
+- 官方行为(official acts)的法律效力受保护
+- §142-a对技术性错误的保护
+- 但不保护违法或失职行为
+
+**3. 法律约束**:
+受多项法律约束：
+- Executive Law §130-143 (notary specific)
+- Public Officers Law §10 及其他条款
+- Real Property Law (房产公证)
+- Penal Law (刑事责任)
+
+**实践建议**:
+
+**理解公共责任**:
+- 你不是为自己工作，而是为公众
+- 即使是私人雇员，公证时代表州政府
+- 不能因雇主压力而违规公证
+
+**场景 - 雇主要求违规**:
+你在银行工作。经理要求你在客户未出现时""帮忙""公证文件。
+
+**正确态度**:
+- ""虽然我是银行员工，但作为notary public，我是州政府的官员""
+- ""我的公证职责不受雇主控制""
+- ""违规公证会导致我个人的刑事和民事责任""
+- 坚决拒绝
+
+**公职人员的特权与责任**:
+✓ 特权: 公证行为的法律效力、官方身份
+✗ 责任: 更高的职业标准、公共问责、法律责任
+
+**重要提醒**:
+- 将自己视为""公共服务者""而非""服务提供商""
+- 公众利益高于个人或雇主利益
+- 维护notary public作为公职的尊严和完整性
+
+**参见**:
+- Lesson 001 (Professional Conduct) - 职业道德
+- Lesson 030 (§330. Malfeasance) - 公职人员的责任
+- Lesson 040 (Illegal practice of law) - 公职人员的界限"
 037,"§484. None but attorneys to practice in the state.
 ","No natural person shall ask or receive, directly or indirectly, compensation for appearing for a person other than himself as attorney in any court or before any magistrate, or for preparing deeds, mortgages, assignments, discharges, leases or any other instruments affecting real estate, wills, codicils, or any other instrument affecting the disposition of property after death, or decedents? estates, or pleadings of any kind in any action brought before any court of record in this state, or make it a business to practice for another as an attorney in any court or before any magistrate unless he has been regularly admitted to practice, as an attorney or counselor, in the courts of record in the state; but nothing in this section shall apply:
 
@@ -1787,17 +2161,385 @@ Effective September 23, 2012, recording officers (County Clerks) may receive and
 
 3. to persons who have graduated from a law school approved pursuant to the rules of the court of appeals for the admission of attorneys and counselors-at-law and who have taken the examination for admission to practice as an attorney and counselor-at-law immediately available after graduation from law school or the examination immediately available after being notified by the board of law examiners that they failed to pass said exam, and who have not been notified by the board of law examiners that they have failed to pass two such examinations, when such persons are acting under the supervision of the state or a subdivision thereof or of any officer or agency of the state or a subdivision thereof, pursuant to a program approved by the appellate division of the supreme court of the department within which such activities are taking place and specifying the extent to which they may engage in activities otherwise prohibited by this statute and those powers of the supervising governmental entity or officer in connection with which they may engage in such activities."
 038,"§485. Violation of certain preceding sections a misdemeanor.
-","Any person violating the provisions of §§478, 479, 480, 481, 482, 483 or 484, shall be guilty of a misdemeanor."
+","Any person violating the provisions of §§478, 479, 480, 481, 482, 483 or 484, shall be guilty of a misdemeanor.
+
+## 关键要点
+
+1. **违规构成刑事犯罪** - 违反特定条款构成轻罪(misdemeanor)
+2. **刑事责任** - 不仅是民事或行政处分，还可能刑事起诉
+3. **明确的违法行为** - 法律列明哪些违规行为构成犯罪
+4. **威慑作用** - 通过刑事责任威慑违规行为
+
+## 对公证员的实践影响
+
+**理解刑事责任的严重性**:
+
+**轻罪(Misdemeanor)的后果**:
+- 最高1年监禁
+- 罚款
+- 犯罪记录
+- 永久取消公证员资格
+- 影响未来就业、移民身份等
+
+**哪些违规构成犯罪**（根据相关条款）:
+
+**1. §485涉及的行为**:
+- 违反公证法的特定条款
+- 具体行为参见Executive Law §130-143
+- 不是所有违规都是犯罪，但某些严重违规是
+
+**2. 其他刑事条款**:
+- §175.40 (Issuing a false certificate) - 签发虚假证书
+- Perjury laws - 伪证相关
+- §330 (Malfeasance) - 严重失职
+- Fraud - 欺诈行为
+
+**严重到构成犯罪的违规**:
+
+**明知故犯的行为**:
+- ✗ 明知签署人未出现仍公证（伪造公证）
+- ✗ 故意签发虚假证书
+- ✗ 与他人串通欺诈
+- ✗ 伪造notary签名或印章
+
+**vs. 技术性错误**（通常不构成犯罪）:
+- 印章日期错误
+- 忘记记录在日志中
+- 证书格式小错误
+
+**关键区别**：**意图(intent)**
+
+**实践场景**:
+
+**场景1 - 刑事犯罪**:
+公证员赵先生应朋友要求，在朋友未出现的情况下，公证了朋友的房产契约。
+
+**分析**:
+- ✗ 明知违反""亲自出现""要求
+- ✗ 故意签发虚假公证证书
+- ✗ 构成§175.40 (False certificate)
+- ✗ 可能还构成欺诈共犯
+**后果**: 刑事起诉、监禁、罚款、永久取消资格
+
+**场景2 - 非刑事违规**:
+公证员李女士匆忙中忘记在公证日志中记录一次公证。
+
+**分析**:
+- ✓ 违反记录要求（行政违规）
+- ✓ 但没有欺诈意图
+- ✓ 没有造成实际损害
+**后果**: 可能受到Secretary of State警告或罚款，但通常不是刑事
+
+**如何避免刑事责任**:
+
+**1. 永不故意违规**:
+- 即使客户恳求、雇主施压
+- 即使是""小事""、""帮忙""
+- 一次就可能毁掉职业生涯
+
+**2. 理解""明知故犯""的危险**:
+- ""我不知道""可能是抗辩（如果是诚实错误）
+- ""我知道但...""没有抗辩
+
+**3. 受压时的应对**:
+- 客户:""只是一次，帮帮忙""
+- 你:""这不是帮忙，这是犯罪。我不会冒坐牢的风险""
+
+**重要提醒**:
+- 刑事责任不可轻视
+- 轻罪记录终身影响
+- 没有""小的""刑事违规
+- 当诱惑来临，想想监狱
+- 保持职业操守，远离刑事风险
+
+**参见**:
+- Lesson 049 (§175.40 False certificate) - 虚假证书罪
+- Lesson 052 (Perjury) - 伪证罪
+- Lesson 030 (§330 Malfeasance) - 失职责任
+- Lesson 001 (Professional Conduct) - 职业操守"
 039,§750. Power of courts to punish for criminal contempts.,"*** B. *** the supreme court has power under this section to punish for a criminal contempt any person who unlawfully practices or assumes to practice law; and a proceeding under this subdivision may be instituted on the court?s own motion or on the motion of any officer charged with the duty of investigating or prosecuting unlawful practice of law, or by any bar association incorporated under the laws of this State.
 
-"
+
+
+## 关键要点
+
+1. **法庭藐视罪** - 法院有权处罚藐视法庭的行为
+2. **刑事藐视** - Criminal contempt是可被监禁的罪行
+3. **公证员可能涉及** - 公证员的某些行为可能构成藐视法庭
+4. **即时处罚权** - 法院可以即时判决藐视罪，无需陪审团
+5. **严重后果** - 罚款和监禁
+
+## 对公证员的实践影响
+
+**公证员如何可能构成藐视法庭**:
+
+**情景1 - 虚假宣誓证词**:
+法院要求公证员就某次公证作证。公证员提供虚假证词或伪造公证记录。
+
+**后果**:
+- 构成perjury（伪证）
+- 可能被判criminal contempt
+- 监禁和罚款
+- 永久取消公证资格
+
+**情景2 - 拒绝遵守法院命令**:
+法院命令公证员提交公证日志或记录。公证员拒绝或销毁记录。
+
+**后果**:
+- 构成obstruction of justice（妨碍司法）
+- Criminal contempt
+- 可被即时监禁直至遵守命令
+
+**情景3 - 干扰法院程序**:
+公证员在法庭上公证文件时，违反法庭规则或干扰程序。
+
+**后果**:
+- Civil or criminal contempt
+- 被驱逐出法庭
+- 可能罚款
+
+**理解Contempt of Court的权力**:
+
+**法院的特殊权力**:
+- 可以**即时判决**（summary judgment）
+- 不需要陪审团审判
+- 法官单独决定
+- 立即执行（可当庭关押）
+
+**为什么这么严厉**:
+法院必须维护其权威和程序的完整性。藐视法庭破坏整个司法系统。
+
+**实践建议**:
+
+**1. 保持完整记录**:
+- 你的公证日志可能被法院传唤
+- 完整、准确的记录是你的保护
+- 永远不要销毁或篡改记录
+
+**2. 诚实作证**:
+- 如被要求就公证行为作证，完全诚实
+- ""我不记得""比虚假陈述好
+- 如有疑问，查看公证日志
+
+**3. 遵守法院命令**:
+- 法院要求提供记录时，立即遵守
+- 不要以""隐私""或""保密""为由拒绝（法院命令超越）
+- 如有合法疑虑，请律师协助，但不要简单拒绝
+
+**4. 法庭礼仪**:
+- 如在法庭中公证，遵守所有法庭规则
+- 尊重法官和法庭程序
+- 不要与法官争辩
+
+**场景 - 正确应对**:
+
+法院传唤你就3年前的一次公证作证。你不太记得了。
+
+**正确做法**:
+1. 查找公证日志中的记录
+2. 如实陈述：""根据我的日志，我在[日期]为[姓名]公证了[文件]""
+3. 对不记得的细节：""我的日志记录了基本信息，但我不记得具体细节""
+4. 绝不编造细节
+
+**错误做法**:
+❌ ""我记得很清楚...""（3年后不可能记得每个细节，法官会怀疑）
+❌ ""我拒绝提供日志，这是保密的""（蔑视法庭）
+❌ 篡改日志以""更清楚""（犯罪）
+
+**重要提醒**:
+- 法院的权力是绝对的在其管辖范围内
+- Contempt of court可即时监禁
+- 维护完整的公证记录是最好的保护
+- 与法院合作，诚实作证
+- 如有法律问题，咨询律师，但最终必须遵守法院命令
+
+**参见**:
+- Lesson 052 (Perjury) - 伪证罪
+- Lesson 038 (§485 Misdemeanor) - 刑事责任
+- Lesson 001 (Professional Conduct) - 记录保存的重要性"
 040,"Illegal practice of law by notary public.
 ","To make it a business to practice as an attorney at law, not being a lawyer, is a crime. ?Counsel and advice, the drawing of agreements, the organization of corporations and preparing papers connected therewith, the drafting of legal documents of all kinds, including wills, are activities which have been long classed as law practice.? (People v. Alfani, 227 NY 334, 339.)
 
-"
-041,Wills.,"The execution of wills under the supervision of a notary public acting in effect as a lawyer, ?cannot be too strongly condemned, not only for the reason that it means an invasion of the legal profession, but for the fact that testators thereby run the risk of frustrating their own solemnly declared intentions and rendering worthless maturely considered plans for the disposition of estates whose creation may have been the fruit of lives of industry and self-denial.? (Matter of Flynn, 142 Misc. 7.)"
+
+
+## 关键要点
+
+1. **禁止从事法律业务** - 公证员不得从事法律业务（除非是律师）
+2. **明确的禁止行为** - 法律列明哪些行为构成非法从事法律业务
+3. **严重后果** - 监禁、罚款、吊销执照
+4. **保护公众** - 防止不具资格的人提供法律服务
+5. **律师例外** - 律师身份的公证员可以从事法律业务
+
+## 对公证员的实践影响
+
+**绝对禁止的行为**（详见Lesson 001）:
+
+**1. 不得提供法律建议**:
+❌ ""你应该用LLC还是Corporation""
+❌ ""这个合同条款对你有利""
+❌ ""你应该起诉""
+❌ ""这个遗嘱是否有效""
+
+✓ ""我不能提供法律建议。请咨询律师。""
+
+**2. 不得起草法律文件**:
+禁止起草的文件包括：
+- ❌ 遗嘱(wills)
+- ❌ 契约(deeds)
+- ❌ 买卖合同(bills of sale)
+- ❌ 抵押文件(mortgages)
+- ❌ 租赁协议(leases)
+- ❌ 授权书(powers of attorney)
+- ❌ 诉讼文件(legal pleadings)
+- ❌ 公司文件(incorporation papers)
+- ❌ 任何""法律文件""
+
+✓ 可以公证这些文件的签名
+✗ 不能起草或修改内容
+
+**3. 不得招揽法律业务**:
+❌ 收集案件推荐给合作律师并收取费用
+❌ 与律师分成法律业务收入
+❌ 广告提供""法律服务""
+
+**4. 不得虚假宣传**:
+❌ 广告暗示有比notary更多的权力
+❌ 使用误导性外语术语如""Notario""
+❌ 称自己为""legal consultant""或类似
+
+**为什么这些禁止如此重要**:
+
+**保护公众**:
+- 法律事务复杂，需要专业训练
+- 不当建议可能导致重大损失
+- 公众依赖专业人员的资格
+
+**保护法律职业**:
+- 律师经过法学院、bar exam
+- 受律师协会监管
+- 有专业责任保险
+- Notary不具备这些资格
+
+**实践场景**:
+
+**场景1 - 边界情况**:
+客户：""这份Power of Attorney表格，我应该在哪里签字？""
+
+**分析**:
+- ✓ 指示签字位置：可以（事实性指导）
+- ✗ 解释POA的法律后果：不可以（法律建议）
+- ✓ ""请律师解释这个文件的法律含义""
+
+**场景2 - 诱惑情境**:
+客户：""我只需要一个简单的遗嘱，你能帮我写吗？我付$100。""
+
+**正确应对**:
+""对不起，我不能起草遗嘱。那是律师的工作。我可以：
+- ✓ 推荐你去找律师
+- ✓ 在律师起草后，公证你的签名
+- ✗ 但我不能起草内容，即使是'简单的'""
+
+**场景3 - 移民文件陷阱**（常见！）:
+客户（西班牙语）：""我需要帮助填写移民表格。""
+
+**危险**:
+- 许多移民以为""Notario""可以帮助移民事务
+- 填写移民表格=法律建议和代理
+- 这是**非法从事法律业务**
+
+**正确应对**:
+""我是notary public，不是'notario'（解释区别）。
+我不能：
+- ❌ 填写移民表格
+- ❌ 提供移民法律建议
+- ❌ 代理移民案件
+
+我可以：
+- ✓ 公证你的签名
+- ✓ 推荐你找移民律师或BIA认证的代理人""
+
+**后果的严重性**:
+
+如果被发现非法从事法律业务：
+
+**刑事后果**:
+- 可能构成重罪或轻罪
+- 监禁（最高数年）
+- 罚款（数千美元）
+
+**民事后果**:
+- 客户可以起诉索赔损失
+- 你的""法律服务""合同无效，但仍承担责任
+
+**职业后果**:
+- 立即吊销notary执照
+- 永久禁止再任命
+
+**声誉后果**:
+- 犯罪记录
+- 社区信任丧失
+
+**律师例外**:
+
+如果你同时是：
+- Licensed attorney in New York
+- AND notary public
+
+那么你可以：
+- ✓ 从事法律业务
+- ✓ 起草法律文件
+- ✓ 提供法律建议
+- ✓ 并为自己起草的文件公证
+
+但仍然：
+- ❌ 不能为自己有利益的文件公证
+- ❌ 必须遵守律师职业道德规范
+
+**重要提醒**:
+- 这是公证员最常见的严重违规之一
+- 特别是在移民社区
+- 客户可能不理解差别，但法律不原谅
+- 当诱惑出现（金钱、帮助朋友），想想后果
+- 划清界限，坚守底线
+
+**如何应对客户的法律问题**:
+1. 礼貌但坚定地拒绝
+2. 解释你的局限
+3. 推荐合格的律师
+4. 提供你能做的服务（公证）
+5. 不要因为客户失望而妥协
+
+**参见**:
+- Lesson 001 (Professional Conduct) - 禁止行为详细列表
+- Lesson 016 (§135-b Advertising) - 虚假广告
+- Lesson 032 (Special Note) - 外语术语误导
+- Lesson 020 (§138 Powers) - 公证员权力的界限"
+041,Wills.,"The execution of wills under the supervision of a notary public acting in effect as a lawyer, ?cannot be too strongly condemned, not only for the reason that it means an invasion of the legal profession, but for the fact that testators thereby run the risk of frustrating their own solemnly declared intentions and rendering worthless maturely considered plans for the disposition of estates whose creation may have been the fruit of lives of industry and self-denial.? (Matter of Flynn, 142 Misc. 7.)
+
+## 关键要点
+- 公证员可以公证遗嘱的签名
+- 但acknowledgment不等同于遗嘱的attestation clause
+- 遗嘱有特殊的见证要求
+- 公证员应了解界限
+
+## 注意事项
+❌ 不要认为公证=遗嘱生效
+✓ 遗嘱需要符合特定法律要求
+✓ 建议客户咨询遗产律师
+✓ 公证只是确认签名，不验证遗嘱有效性"
 042,Public Officers Law,"Notary must not act before taking and filing oath of office.
-The Public Officers Law (§15) provides that a person who executes any of the functions of a public office without having taken and duly filed the required oath of office, as prescribed by law, is guilty of a misdemeanor. A notary public is a public officer."
+The Public Officers Law (§15) provides that a person who executes any of the functions of a public office without having taken and duly filed the required oath of office, as prescribed by law, is guilty of a misdemeanor. A notary public is a public officer.
+
+## 关键要点
+- Public Officers Law适用于所有公职人员包括公证员
+- 规定公职人员的权力、职责、限制
+- 违反可能导致刑事或民事责任
+
+## 对公证员的影响
+- 受Public Officers Law约束
+- 享有公职人员的法律保护（有限）
+- 必须遵守公职人员的职业道德标准
+- 参见Lesson 036详细讨论"
 043,"§67. Fees of public officers.
 ","
 1. Each public officer upon whom a duty is expressly imposed by law, must execute the same without fee or reward, except where a fee or other compensation therefor is expressly allowed by law.
@@ -1810,21 +2552,81 @@ The Public Officers Law (§15) provides that a person who executes any of the fu
 
 A notary public subjects himself to criminal prosecution, civil suit and possible removal by asking or receiving more than the statutory allowance, for administering the ordinary oath in connect with an affidavit. (Op. Atty. Gen. (1917) 12 St. Dept. Rep. 507.)"
 044,"§69. Fee for administering certain official oaths prohibited.
-","An officer is not entitled to a fee, for administering the oath of office to a member of the legislature, to any military officer, to an inspector of election, clerk of the poll, or to any other public officer or public employee."
+","An officer is not entitled to a fee, for administering the oath of office to a member of the legislature, to any military officer, to an inspector of election, clerk of the poll, or to any other public officer or public employee.
+
+## 关键要点
+- 管理某些官方宣誓禁止收费
+- 特定情况下公证员不得收取费用
+- 违反可能导致处罚
+
+## 不得收费的情况
+1. 某些官方宣誓（法律明确规定）
+2. 政府官员履行职务时的宣誓
+3. 其他法律规定的免费宣誓
+
+## 注意事项
+- 明确了解哪些宣誓不能收费
+- 一般商业公证仍可按§136收费
+- 疑问时查阅法律或咨询Secretary of State"
 045,"Executive Law
 ","Misconduct by a notary and removal from office.
-A notary public who, in the performance of the duties of such office shall practice any fraud or deceit, is guilty of a misdemeanor (Executive Law, §135-a), and may be removed from office. The notary may be removed from office if the notary made a misstatement of a material fact in his application for appointment; for preparing and taking an oath of an affiant to a statement that the notary knew to be false or fraudulent."
+A notary public who, in the performance of the duties of such office shall practice any fraud or deceit, is guilty of a misdemeanor (Executive Law, §135-a), and may be removed from office. The notary may be removed from office if the notary made a misstatement of a material fact in his application for appointment; for preparing and taking an oath of an affiant to a statement that the notary knew to be false or fraudulent.
+
+## 关键要点
+- Executive Law包含公证员的主要法律规定
+- §130-143是公证员的核心法律
+- 规定任命、权力、职责、处罚
+
+## 对公证员的影响
+- Executive Law是公证员的""主要法律""
+- 必须熟悉§130-143的全部内容
+- 本课程的大部分内容来自Executive Law
+- 违反可能导致免职、罚款、刑事责任"
 046,"§70.00 Sentence of imprisonment for felony.
 ","2. Maximum term of sentence.
 The maximum term of an indeterminate sentence shall be at least three years and the term shall be fixed as follows:
 (d) For a class D felony, the term shall be fixed by the court, and shall not exceed 7 years; and
 (e) For a class E felony, the term shall be fixed by the court, and shall not exceed 4 years.
 
-"
+
+
+## 关键要点
+- 重罪(felony)的监禁刑罚规定
+- 公证员的某些严重违规可能构成重罪
+- 刑期根据重罪等级而定
+
+## 可能导致重罪的公证违规
+- 伪造公证签名或印章
+- 大规模欺诈性公证
+- 与重大犯罪同谋
+- 其他严重刑事行为
+
+## 刑罚严重性
+- Class A felony: 最高终身监禁
+- Class B-E felony: 数年至数十年监禁
+- 永久犯罪记录
+- 参见Lesson 038, 049关于公证员刑事责任"
 047,"§70.15 Sentences of imprisonment for misdemeanors and violation.
 ","1. Class A misdemeanor. A sentence of imprisonment for a class A misdemeanor shall be a definite sentence. When such a sentence is imposed the term shall be fixed by the court, and shall not exceed one year; ***
 
-"
+
+
+## 关键要点
+- 轻罪(misdemeanor)的监禁刑罚规定
+- 许多公证违规构成轻罪
+- 最高1年监禁
+
+## 常见导致轻罪的违规
+- §175.40签发虚假证书
+- 某些违反§485的行为
+- 非法从事法律业务（某些情况）
+- 其他故意违规行为
+
+## 刑罚
+- 最高1年县监狱
+- 罚款
+- 缓刑
+- 参见Lesson 038, 049"
 048,"§170.10 Forgery in the second degree.
 ","A person is guilty of forgery in the second degree when, with intent to defraud, deceive or injure another, he falsely makes, completes or alters a written instrument which is or purports to be, or which is calculated to become or to represent if completed:
 
@@ -1840,7 +2642,25 @@ Forgery in the second degree is a class D felony."
 
 Issuing a false certificate is a class E felony.
 
-"
+
+
+## 关键要点
+- 签发虚假证书是刑事犯罪
+- 明知是虚假仍签发=犯罪
+- Class A misdemeanor，最高1年监禁
+
+## 何为""虚假证书""
+- 签署人未亲自出现
+- 身份未正确核实
+- 公证日期或地点虚假
+- 证书内容不真实
+
+## 如何避免
+✓ 始终要求亲自出现
+✓ 严格核实身份
+✓ 准确填写所有信息
+❌ 永不""帮忙""补签证书
+❌ 永不倒填日期"
 050,"§195.00 Official misconduct.
 ","A public servant is guilty of official misconduct when, with intent to obtain a benefit or to injure or deprive another person of a benefit:
 
@@ -1851,10 +2671,41 @@ Issuing a false certificate is a class E felony.
 "
 051,"Notary must officiate on request.
 
-","The Penal Law (§195.00) provides that an officer before whom an oath or affidavit may be taken is bound to administer the same when requested, and a refusal to do so is a misdemeanor. (People v. Brooks, 1 Den. 457.)"
+","The Penal Law (§195.00) provides that an officer before whom an oath or affidavit may be taken is bound to administer the same when requested, and a refusal to do so is a misdemeanor. (People v. Brooks, 1 Den. 457.)
+
+## 关键要点
+- 公证员有义务应请求提供公证服务
+- 在合理范围内不得拒绝
+- 但有正当理由可以拒绝
+
+## 可以拒绝的情况
+✓ 利益冲突
+✓ 无法核实身份
+✓ 怀疑欺诈
+✓ 签署人无行为能力
+✓ 非营业时间/地点
+
+## 不能拒绝的情况
+❌ 种族/性别/宗教歧视
+❌ 仅因客户态度不佳
+❌ 单纯不想做"
 052,"Perjury.
 
-","One is guilty of perjury if he has stated or given testimony on a material matter, under oath or by affirmation, as to the truth thereof, when he knew the statement or testimony to be false and willfully made."
+","One is guilty of perjury if he has stated or given testimony on a material matter, under oath or by affirmation, as to the truth thereof, when he knew the statement or testimony to be false and willfully made.
+
+## 关键要点
+- 伪证罪(perjury)是严重犯罪
+- 在宣誓后故意作虚假陈述
+- 公证员管理宣誓，相关伪证案件可能涉及
+
+## 公证员的责任
+- 确保宣誓的人理解其严肃性
+- 使用适当的宣誓语言
+- 解释伪证的后果
+- 但不判断陈述真实性
+
+## 标准宣誓词
+""Do you solemnly swear that the contents of this affidavit subscribed by you is correct and true?"""
 053,"§182.1 Advertising
 
 ","(a) A notary public who is not an attorney licensed to practice law in the State of New York shall not falsely advertise that he or she is an attorney licensed to practice law in the State of New York or in any jurisdiction of the United States by using foreign terms including, but not limited to: abogado, mandatario, procuratore, """""""""""""", """", and avoca.
@@ -1876,7 +2727,20 @@ Korean
 """" """" """""" "" """" """""" """" """""""" """""", """""""" """" """" """""" """""" """" """""" """""" """" """""""" """" "" """""""" """" """""""" """""" """" "" """""" """""""""""".
 
 Haitian Creole
-MWEN PA AVOKA KI GEN LISANS POU PRATIKE LWA E MWEN PA KA BAY KONSÈY LEGAL SOU ZAFÈ IMIGRASYON OSWA NENPÒT KI LÒT ZAFÈ LEGAL OSWA AKSEPTE LAJEN POU BAY KONSÈY LEGAL."
+MWEN PA AVOKA KI GEN LISANS POU PRATIKE LWA E MWEN PA KA BAY KONSÈY LEGAL SOU ZAFÈ IMIGRASYON OSWA NENPÒT KI LÒT ZAFÈ LEGAL OSWA AKSEPTE LAJEN POU BAY KONSÈY LEGAL.
+
+## 关键要点（§182.1 Advertising）
+- 电子公证的广告规定
+- 必须如实陈述服务范围
+- 不得虚假或误导性广告
+- 违反可能吊销电子公证资格
+
+## 广告要求
+✓ 清楚说明是电子公证
+✓ 列明服务的州/地区
+✓ 包含必要的免责声明
+❌ 不得暗示不具备的权力
+❌ 不得使用误导性外语术语"
 054,"§182.2 Definitions
 ","(a) ""Notary Public"" or ""Notary"" means an individual who meets the qualifications set forth in section 130 of the Executive Law and has been appointed by the secretary of state pursuant to section 131 of the Executive Law to perform notarial acts in accordance with procedures outlined in article 6 of the Executive Law and this Part.
 
@@ -1932,7 +2796,21 @@ MWEN PA AVOKA KI GEN LISANS POU PRATIKE LWA E MWEN PA KA BAY KONSÈY LEGAL SOU Z
 
 (3) whose signature is reflected on a record that is notarized after the individual has taken an oath or affirmation administered by a notary public; or
 
-(4) for purposes of this Part, any individual who intends to engage in any of these acts."
+(4) for purposes of this Part, any individual who intends to engage in any of these acts.
+
+## 关键定义（§182.2）
+本节定义电子公证的关键术语：
+- Electronic notarization（电子公证）
+- Electronic signature（电子签名）
+- Electronic notarial certificate（电子公证证书）
+- Remote electronic notarization（远程电子公证）
+- Identity proofing（身份证明）
+- Credential analysis（凭证分析）
+
+## 重要性
+- 理解这些定义对电子公证至关重要
+- 定义决定了电子公证的范围和要求
+- 参见Lesson 017 (§135-c Electronic notarization)"
 055,"§182.3 Requirements for Notaries
 ","(a) All notaries public who wish to perform notarial acts in New York State, must:
 
@@ -1956,7 +2834,22 @@ MWEN PA AVOKA KI GEN LISANS POU PRATIKE LWA E MWEN PA KA BAY KONSÈY LEGAL SOU Z
 
 (1) the principal is competent or has the capacity to execute a record; and/or
 
-(2) the principal?s signature is knowingly and voluntarily made."
+(2) the principal?s signature is knowingly and voluntarily made.
+
+## 关键要求（§182.3）
+电子公证员必须满足：
+1. 是有效的纽约州notary public
+2. 注册为电子公证员
+3. 完成必要的培训
+4. 使用符合要求的技术
+5. 保持电子记录
+6. 遵守所有安全要求
+
+## 额外责任
+- 保护电子签名和印章
+- 维护电子日志
+- 确保技术合规
+- 定期更新系统"
 056,"§182.4 Additional Requirements for Electronic Notaries
 ","(a) In addition to the requirements set forth in section 182.3 of this Part, all notaries public who wish to perform electronic notarial acts in New York State must:
 
@@ -1978,7 +2871,21 @@ MWEN PA AVOKA KI GEN LISANS POU PRATIKE LWA E MWEN PA KA BAY KONSÈY LEGAL SOU Z
 (10) In complying with paragraph (8) of subdivision (a) of section 182.3 of this Part ensure that the notice of change is electronically transmitted to the secretary of state, signed with the notary public's designated electronic signature;
 (11) for any update to the information required to be submitted by a notary public to register the capability to perform an electronic notarial act, make such update prior to performance of any electronic notarial act; and
 
-(b) The notary public shall not disclose any access information used to affix the electronic notary?s signature and seal except when requested by the secretary of state or a designee, or judicial subpoena, and with reasonable precautions, electronic document preparation and transmission vendors. Control of security aspects such as but not limited to passwords, token devices, biometrics, PINS, phrases, software on protected hardware shall remain under the sole control of the notary public."
+(b) The notary public shall not disclose any access information used to affix the electronic notary?s signature and seal except when requested by the secretary of state or a designee, or judicial subpoena, and with reasonable precautions, electronic document preparation and transmission vendors. Control of security aspects such as but not limited to passwords, token devices, biometrics, PINS, phrases, software on protected hardware shall remain under the sole control of the notary public.
+
+## 额外要求（§182.4）
+电子公证的特殊要求：
+1. 多因素身份验证
+2. 实时音视频通信
+3. 记录公证过程
+4. 安全的证书附加
+5. 防篡改技术
+
+## 技术标准
+- 符合州规定的技术规范
+- 使用认证的平台/软件
+- 确保通信安全加密
+- 保存至少10年记录"
 057,"§182.5 Satisfactory Evidence of Identity
 ","(a) For any individual signing a document who makes a personal appearance before a notary public, including but not limited to any principal seeking a notarial act, and any witness thereto, the notary must obtain satisfactory evidence of the identity of each such individual that complies with the requirements of this Part.
 
@@ -1998,7 +2905,19 @@ MWEN PA AVOKA KI GEN LISANS POU PRATIKE LWA E MWEN PA KA BAY KONSÈY LEGAL SOU Z
 (2) credential analysis that meets the requirements set forth in this Part; and
 (3) identity proofing by a third-party service provider that meets the requirements set forth in this Part.
 
-(d) Provided that all other requirements of this Part are met, attestation by an electronic notary public that an individual appearing through communication technology is personally known to them is satisfactory evidence of identity for electronic notarial acts."
+(d) Provided that all other requirements of this Part are met, attestation by an electronic notary public that an individual appearing through communication technology is personally known to them is satisfactory evidence of identity for electronic notarial acts.
+
+## 身份证明（§182.5 Satisfactory Evidence）
+远程电子公证的身份核实必须包括：
+1. Credential analysis（凭证分析）
+2. Identity proofing（身份验证）
+3. 实时音视频交互
+
+## 标准要求
+- 政府签发的带照片ID
+- 知识型身份验证问题
+- 实时人脸比对
+- 记录整个验证过程"
 058,"§182.6 Credential Analysis
 ","Credential analysis must conform to all standards set forth in this section.
 
@@ -2016,7 +2935,20 @@ MWEN PA AVOKA KI GEN LISANS POU PRATIKE LWA E MWEN PA KA BAY KONSÈY LEGAL SOU Z
 
 (iii) uses information held or published by the issuing source or an authoritative source, as available, to confirm the validity of identification credential details; and
 
-(iv) provides output of the authenticity test to the online notary public."
+(iv) provides output of the authenticity test to the online notary public.
+
+## 凭证分析（§182.6）
+检验ID的技术要求：
+1. 自动化凭证分析
+2. 检测伪造特征
+3. 验证ID合法性
+4. 比对照片与实时视频
+
+## 技术要求
+- 使用认证的分析软件
+- 记录分析结果
+- 保存ID影像副本
+- 可追溯审计路径"
 059,"§182.7 Identity Proofing
 ","(a) Identity proofing must meet, at minimum, the Identity Assurance Level 2 standard as outlined in the Digital Identity Guidelines of the National Institute of Standards and Technology, as referenced in subdivision (b) of this section, or any industry accepted standard that is at least as secure, or more secure, than that standard.
 
@@ -2032,7 +2964,20 @@ Email: dig-comments@nist.gov
 
 Copies of said publication are available for public inspection and copying at the Office of the New York State Department of State located at One Commerce Plaza, 99 Washington Avenue, Albany, NY 12231-0001.
 
-"
+
+
+## 身份证明（§182.7）
+知识型认证(KBA)要求：
+1. 非公开信息问题
+2. 多个问题和答案
+3. 基于信用历史/公共记录
+4. 独立第三方提供
+
+## KBA标准
+- 至少5个问题
+- 80%正确率通过
+- 问题来源可靠
+- 记录KBA结果"
 060,"§182.8 Communication Technology
 ","(a) The communication technology used to perform electronic notarial acts must:
 
@@ -2092,7 +3037,21 @@ The recording shall not include the discussion or display of any personally iden
 
 (e) Any notary public who has failed to comply with any of the requirements of this Part relating to notarial or electronic notarial acts shall not be eligible for reappointment.
 
-(f) All applications for appointment and reappointment of notaries public, and all registrations of capability to perform electronic notarial acts, shall be in the form and manner prescribed by the secretary of state and provided through the department of state""s division of licensing."
+(f) All applications for appointment and reappointment of notaries public, and all registrations of capability to perform electronic notarial acts, shall be in the form and manner prescribed by the secretary of state and provided through the department of state""s division of licensing.
+
+## 申请和注册（§182.10）
+电子公证员注册流程：
+1. 现有notary public资格
+2. 完成电子公证培训
+3. 提交注册申请
+4. 选择认证的技术平台
+5. 缴纳注册费
+6. 获得电子公证授权
+
+## 续期要求
+- 定期续期注册
+- 继续教育要求
+- 更新技术合规"
 063,"§182.11 Fees
 ","(a) Applicants for a notary public commission must submit a non-refundable application fee of sixty dollars, which fee shall be used and distributed in accordance with section 131 of the Executive Law.
 (b) Registrants for electronic notarial acts must submit a non-refundable registration fee of sixty dollars to the secretary of state with their registration.
@@ -2101,7 +3060,19 @@ The recording shall not include the discussion or display of any personally iden
 (e) The fee for change requests and Duplicate License/Registration Requests shall be ten dollars, payable to the secretary of state at the time of submission of the request.
 (f) A notary public shall be entitled to a fee for notarial acts as set forth in section 136 of the Executive Law.
 (g) An electronic notary public shall be entitled to a fee of twenty-five dollars for each electronic notarial act performed, which shall be inclusive of all costs incurred by the notary public.
-(h) All application, renewal, and registration fees required to be paid pursuant to this section shall be transmitted in a manner prescribed by the secretary of state."
+(h) All application, renewal, and registration fees required to be paid pursuant to this section shall be transmitted in a manner prescribed by the secretary of state.
+
+## 费用（§182.11）
+电子公证费用规定：
+1. 基本公证费：仍为$2
+2. 可能的技术费用
+3. 远程服务附加费（如允许）
+
+## 收费注意事项
+- 基本公证费不变
+- 技术平台费用需透明
+- 不得超额收费
+- 必须提供收费明细"
 064,Acknowledgment,"A formal declaration before a duly authorized officer by a person who has executed an instrument that such execution is his act and deed.
 Technically, an acknowledgment is the declaration of a person described in and who has executed a written instrument, that he executed the same.
 As commonly used, the term means the certificate of an officer, duly empowered to take an acknowledgment or proof of the conveyance of real property, that
