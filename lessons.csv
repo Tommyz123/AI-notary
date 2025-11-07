@@ -823,14 +823,43 @@ Taking acknowledgments over the telephone is illegal and a notary public is guil
 In the certificate of acknowledgment, a notary public declares: On this ....... day of ............ 20 ......., before me came ............ to me known, etc.
 Unless the person purporting to have made the acknowledgment actually and personally appeared before the notary on the day specified, the notarys certificate that he so came is palpably false and fraudulent. (Matter of Brooklyn Bar Assoc., 225 App. Div. 680.)"
 066,Interest as a disqualification,"A notary public should not take an acknowledgment to a legal instrument to which the notary is a party in interest.
-(Armstrong v. Combs, 15 App. Div. 246.)"
+(Armstrong v. Combs, 15 App. Div. 246.)
+
+**在公证实践中的应用**:
+利益冲突（Interest as a disqualification）是公证员必须回避公证的常见情况。公证员在以下情况有""利益""而应拒绝：
+- 公证员本人是文件的当事方
+- 配偶、子女、父母等直系亲属是当事方
+- 公证员在交易中有直接或间接财务利益
+- 为本人的行为做公证（如自己签署的文件）
+
+**实例**:
+公证员D的女儿购买首套房产。女儿请求母亲（公证员D）为抵押贷款文件做公证以节省费用。这是明确禁止的。即使公证员D完全诚实，她在女儿的交易中有直接利益（感情和财务），这破坏了公证的客观性。正确做法是让女儿找另一位公证员，即使需要支付费用。如果公证员D仍然为女儿公证，该公证无效，可能导致交易延误、贷款拒绝，以及公证员被纪律处分或吊销执照。
+
+**重要提示**:
+""利益""的定义比表面上更广泛。即使公证员认为自己能保持公正，法律也禁止有利益关系的公证。这保护了公证行为的完整性和公众信任。当有疑问时，宁可回避。公证员应诚实告知当事人利益冲突，并推荐其他公证员。
+"
 067,"Fraudulent certificates of acknowledgment
 ","A notary public who knowingly makes a false certificate that a deed or other written instrument was acknowledged by a party thereto is guilty of forgery in the second degree, which is punishable by imprisonment for a term of not exceeding 7 years (Penal Law, §§170.10 and 70.00[2][d]).
 The essence of the crime is false certification, intention to defraud. (People v. Abeel, 182 NY 415.)
 
 While the absence of guilty knowledge or criminal intent would absolve the notary from criminal liability, the conveyance, of which the false certification is an essential part, is a forgery and, therefore, invalid. (Caccioppoli v. Lemmo, 152 App. Div. 650.)"
 068,Damages recoverable from notary for false certificate,"Action for damages sustained where notary certified that mortgagor had appeared and acknowledged a mortgage.
-(Kainz v. Goldsmith, 231 App. Div. 171.)"
+(Kainz v. Goldsmith, 231 App. Div. 171.)
+
+**在公证实践中的应用**:
+公证员因虚假证明而需承担的损害赔偿是公证员职业责任的重要方面。公证员可能因以下行为面临赔偿：
+- 在签署人未到场时公证（最常见）
+- 未核实签署人身份
+- 公证空白文件
+- 在利益冲突情况下公证
+- 虚假记录公证行为
+
+**实例**:
+公证员C为朋友的便利，在朋友未到场的情况下公证了一份房产契约。后来发现该契约是伪造的，用于欺诈性地从老年人手中夺取房产。受害人起诉公证员C索赔损失。法院裁定公证员C因虚假证明负有责任，判决其赔偿受害人房产价值$250,000加律师费。公证员的过失还可能导致刑事指控和吊销执照。
+
+**重要提示**:
+这就是为什么公证员必须购买Errors & Omissions (E&O)保险。纽约州虽然不强制要求，但强烈建议。即使是善意的错误，也可能导致巨额赔偿。公证员应始终严格遵守程序：亲自见到签署人，核实身份，确保自愿签署，保持准确记录。""方便""客户的诱惑可能带来财务和职业灾难。
+"
 069,Administrator,"A person appointed by the court to manage the estate of a deceased person who left no will. The administrator has similar duties to an executor but is court-appointed rather than named in a will. Notaries may be asked to notarize documents related to estate administration, such as petitions, inventories, or accountings filed with the court."
 070,Affiant,"The person who makes and subscribes his signature to an affidavit. The affiant swears or affirms before a notary public that the statements in the affidavit are true. The notary's duty is to verify the affiant's identity, administer the oath, and certify that the affiant appeared and swore to the document's contents."
 071,Affidavit,"An affidavit is a signed statement, duly sworn to, by the maker thereof, before a notary public or other officer authorized to administer oaths. The venue, or county wherein the affidavit was sworn to should be accurately stated. But it is of far more importance that the affiant, the person making the affidavit, should have personally appeared before the notary and have made oath to the statements contained in the affidavit as required by law.
@@ -845,15 +874,73 @@ An affidavit differs from a deposition in that an affidavit is an ex parte state
 (See definition of Deposition.)"
 072,Affirmation,"A solemn declaration made by persons who conscientiously decline taking an oath; it is equivalent to an oath and is just as binding; if a person has religious or conscientious scruples against taking an oath, the notary public should have the person affirm.
 The following is a form of affirmation: Do you solemnly, sincerely, and truly, declare and affirm that the statements made by you are true and correct."
-073,Apostile,Department of State authentication attached to a notarized and county-certified document for possible international use.
-074,Attest,"To witness the execution of a written instrument, at the request of the person who makes it, and subscribe the same as a witness."
+073,Apostile,"Department of State authentication attached to a notarized and county-certified document for possible international use.
+
+**在公证实践中的应用**:
+Apostille（海牙认证）是一种国际认证形式，用于证明文件在国外的合法性。虽然apostille由州务卿办公室签发（纽约州），公证员在此过程中扮演重要角色：
+- 首先由公证员公证文件
+- 然后提交给县书记官认证公证员签名
+- 最后提交给州务卿获得apostille
+
+**实例**:
+纽约居民计划移民到西班牙，需要其出生证明在西班牙被认可。流程如下：
+1. 出生证明副本由公证员认证
+2. 提交给纽约县书记官办公室，认证公证员的签名和印章
+3. 提交给纽约州务卿办公室，签发apostille
+西班牙作为《海牙公约》签约国，将接受带有apostille的文件，无需进一步认证。
+
+**重要提示**:
+公证员不能签发apostille（只有州务卿可以），但公证是获得apostille的第一步。公证员应熟悉此流程，以便为客户提供正确指导。常见用途包括：国际收养、海外就业、移民、国际商业交易等。
+"
+074,Attest,"To witness the execution of a written instrument, at the request of the person who makes it, and subscribe the same as a witness.
+
+**在公证实践中的应用**:
+Attest（作证、证明）是指见证某个行为或签名的真实性。在公证实践中：
+- 公证员""attests""（证明）签署人在其面前签署
+- 见证人""attest""遗嘱的签署
+- 公司秘书""attests""公司决议的真实性
+
+**实例**:
+遗嘱的执行通常需要两名见证人attest（作证）。见证人在遗嘱人签署遗嘱时在场，然后在遗嘱上签字，证明：(1)遗嘱人在他们面前签署，(2)遗嘱人当时神志清醒，(3)遗嘱人是自愿签署。重要的是，公证员通常不应为遗嘱做""公证""（acknowledgment），因为遗嘱需要的是见证人的attestation，而非公证。
+
+**重要提示**:
+Attest和Acknowledge（公证确认）是不同的法律行为。Attest侧重于""我看到此人签署""，Acknowledge侧重于""此人向我确认这是其签名""。公证员必须理解这一区别，避免在应该attestation的文件上做acknowledgment，反之亦然。
+"
 075,"Attestation Clause
 ","That clause (e.g., at the end of a will) wherein the witnesses certify that the instrument has been executed before them, and the manner of the execution of the same.
 
+
+
+**在公证实践中的应用**:
+Attestation Clause（证明条款）是文件中要求见证人或公证员签字的特定语言。常见于：
+- 遗嘱（""Signed, sealed and delivered in the presence of...""）
+- 公司决议（""Attested by the Secretary of the Corporation""）
+- 某些房地产文件
+- 法院命令的副本
+
+**实例**:
+公司章程修正案需要董事会批准。会议记录包含attestation clause：""I hereby attest that the foregoing is a true and correct copy of the resolution adopted by the Board of Directors on [date]""（我在此证明，前述内容是董事会于[日期]通过的决议的真实准确副本）。公司秘书在此条款下签字。如果需要，此签字可能由公证员公证，但attestation本身是秘书的行为，而非公证员的行为。
+
+**重要提示**:
+公证员必须区分：(1)Attestation - 见证行为的真实性，(2)Acknowledgment - 确认签署人的身份和签署意愿，(3)Jurat - 管理宣誓并见证签署。不同类型的证明条款需要不同的公证行为。公证员应仔细阅读文件中的具体语言，确定需要何种公证服务。错误的公证类型可能导致文件被拒绝或无效。
 "
 076,"Authentication (Notarial)
 ","A certificate subjoined by a county clerk to any certificate of proof or acknowledgment or oath signed by a notary; this county clerks certificate authenticates or verifies the authority of the notary public to act as such.
-(See §133, Executive Law.)"
+(See §133, Executive Law.)
+
+**在公证实践中的应用**:
+Authentication（Notarial）（公证认证）是一个多层认证过程，用于使文件在外州或外国被接受。流程通常包括：
+1. 公证员公证文件
+2. 县书记官认证公证员的签名和印章
+3. 州务卿认证县书记官的签名
+4. （对于外国使用）可能需要领事认证或apostille
+
+**实例**:
+纽约居民P需要在德克萨斯州使用一份授权书。P在纽约公证员处公证授权书。为了在德克萨斯州被接受，需要authentication：(1)公证员公证P的签名，(2)纽约县书记官签发证书，认证公证员Q的签名和印章是真实的（证书基于县书记官办公室的公证员记录），(3)如果需要，纽约州务卿进一步认证县书记官的签名。这个authentication chain证明文件的公证是合法有效的。
+
+**重要提示**:
+Authentication是建立信任链的过程。每一层认证都证明上一层的真实性。公证员是链条的第一环，必须确保其公证准确无误。县书记官和州务卿不验证文件内容或签署人身份（这是公证员的工作），他们只验证公证员的资格和签名。如果原始公证有缺陷，整个authentication链都会失效。
+"
 077,Bill of Sale,"A written instrument given to pass title of personal property from vendor to vendee. Unlike a deed for real property, a bill of sale transfers ownership of movable items such as vehicles, equipment, or goods. Notaries may be asked to acknowledge bills of sale, though notarization is not always required unless specified by law or the parties."
 078,"Certified Copy
 ","A copy of a public record signed and certified as a true copy by the public official having custody of the original. A notary public has no authority to issue certified copies. Notaries must not certify to the authenticity of legal documents and other papers required to be filed with foreign consular officers. Within this prohibition are certificates of the following type:United States of America     )
@@ -867,30 +954,176 @@ County of New York           )
 079,Chattel,"Personal property, such as household goods or fixtures. Chattel refers to any movable property as opposed to real property (land and buildings). This distinction is important in notarial practice when dealing with mortgages, liens, or security interests. A chattel mortgage creates a lien on personal property rather than real estate."
 080,Chattel Paper,"A writing or writings which evidence both an obligation to pay money and a security interest in a lease or specific goods. The agreement which creates or provides for the security interest is known as a security agreement.
 
+
+
+**在公证实践中的应用**:
+Chattel Paper（动产担保文件）是涉及动产（非房地产）的担保协议，常见于：
+- 汽车贷款和租赁
+- 设备融资
+- 船只、飞机贷款
+- 商业设备租赁
+
+**实例**:
+公司M购买价值$80,000的建筑设备，通过融资公司N贷款。融资协议（chattel paper）赋予N对设备的担保权益。如果M违约，N可以收回设备。公证员公证M代表的签名。与房地产抵押不同，chattel paper通常在州务卿办公室或DMV（车辆）登记UCC financing statement，而非县书记官办公室。
+
+**重要提示**:
+Chattel paper与real property mortgage的主要区别在于担保物：chattel paper担保动产，mortgage担保不动产。公证员应了解这一区别，因为登记要求和优先权规则不同。动产具有流动性，可能跨州转移，这使chattel paper的执行复杂化。公证员不需要成为UCC专家，但应认识到chattel paper的独特性质。
 "
 081,Codicil,"An instrument made subsequent to a will and modifying it in some respects. A codicil amends, adds to, or partially revokes provisions in an existing will without replacing the entire document. Like a will, a codicil must be properly executed with witnesses. Notaries should not take acknowledgments on wills or codicils, as they require attestation by witnesses, not notarization."
-082,Consideration,"Anything of value given to induce entering into a contract; it may be money, personal services, or even love and affection."
+082,Consideration,"Anything of value given to induce entering into a contract; it may be money, personal services, or even love and affection.
+
+**在公证实践中的应用**:
+对价(Consideration)是合同法中的核心概念，指一方为换取另一方承诺而给予的有价值的东西。公证员在公证各类合同时会遇到：
+- 买卖合同(sales contracts)
+- 租赁协议(lease agreements)  
+- 雇佣合同(employment contracts)
+- 和解协议(settlement agreements)
+
+**实例**:
+在房地产买卖中，买方的对价是支付的购买价格（如$400,000），卖方的对价是转让房产所有权。公证员公证契约(deed)时，契约上通常会注明对价（""for Ten Dollars and other valuable consideration""）。实际支付的金额可能远高于象征性的""Ten Dollars""，但出于隐私和税务原因，通常使用名义金额。
+
+**重要提示**:
+公证员不需要验证对价的充分性或公平性。只要双方同意，即使对价看似不平等，合同仍可能有效（除非涉及欺诈或胁迫）。公证员的职责是确认签署人身份和自愿签署，不涉及合同条款的公平性判断。
+"
 083,Contempt of Court,"Behavior disrespectful of the authority of a court which disrupts the execution of court orders. Contempt can be civil or criminal. A notary who fails to obey a court order, such as refusing to produce records when subpoenaed, could be held in contempt. It is important for notaries to understand their obligations when served with legal process."
-084,Contract,"An agreement between competent parties to do or not to do certain things for a legal consideration, whereby each party acquires a right to what the other possesses."
+084,Contract,"An agreement between competent parties to do or not to do certain things for a legal consideration, whereby each party acquires a right to what the other possesses.
+
+**在公证实践中的应用**:
+Contract（合同）是公证员最常处理的文件类型之一。几乎所有公证文件都涉及某种合同关系：
+- 雇佣合同
+- 买卖合同
+- 租赁协议
+- 贷款协议
+- 服务合同
+
+**实例**:
+小企业主F与供应商签订长期供货合同，价值$100,000。供应商要求合同经过公证以增加其可执行性。公证员的角色是：(1)确认小企业主F的身份，(2)确认F已阅读并理解合同（公证员不需要解释合同，但应确保F声称已理解），(3)确认F自愿签署，(4)完成公证程序。重要的是，公证员不评估合同条款的公平性或合法性，这需要律师的专业意见。
+
+**重要提示**:
+公证员经常被问：""这份合同公平吗？""或""我应该签这个吗？""公证员必须避免提供法律建议。正确回答是：""我不能提供法律建议。我的角色仅是核实您的身份和您自愿签署。如果您对合同条款有疑问，建议您咨询律师。""即使公证员本人是律师，如果作为公证员身份行事，也不应提供法律意见。
+"
 085,"Conveyance (Deed)
-","Every instrument, in writing, except a will, by which any estate or interest in real property is created, transferred, assigned or surrendered."
+","Every instrument, in writing, except a will, by which any estate or interest in real property is created, transferred, assigned or surrendered.
+
+**在公证实践中的应用**:
+Conveyance（产权转让契约）是房地产交易中最常见的公证文件之一。公证员处理的conveyances包括：
+- Warranty Deed（保证契约）- 卖方保证产权清晰
+- Quitclaim Deed（放弃契约）- 仅转让卖方拥有的权益
+- Gift Deed（赠与契约）- 无偿转让财产
+- Deed in Lieu of Foreclosure（代替止赎契约）
+
+**实例**:
+房主A决定将其房产出售给买家B。在closing（成交）时，律师准备warranty deed。公证员的角色：(1)核实房主A的身份（驾照、护照等），(2)确认A理解其正在转让房产所有权，(3)确认A自愿签署，无胁迫，(4)A在公证员面前签署契约，(5)公证员完成acknowledgment证书，签字盖章。契约随后被记录在县书记官办公室，成为公共记录。
+
+**重要提示**:
+Conveyance是重大法律行为，可能涉及数十万甚至数百万美元的财产。公证员必须格外谨慎：确保签署人在场（不能电话公证），充分理解文件性质，没有受到不当影响。如果公证员怀疑胁迫、欺诈或签署人缺乏行为能力，应拒绝公证并建议当事人寻求法律顾问。
+"
 086,County Clerks Certificate,"A certificate subjoined by a county clerk to any certificate of proof or acknowledgment or oath signed by a notary; this county clerks certificate authenticates or verifies the authority of the notary public to act as such.
-(See §133, Executive Law.)"
-087,Deponent,"One who makes oath to a written statement. Technically, a person subscribing a deposition but used interchangeably with Affiant."
+(See §133, Executive Law.)
+
+**在公证实践中的应用**:
+County Clerk's Certificate（县书记官证书）是county clerk签发的官方证书，用于：
+- 认证公证员的签名和印章
+- 认证公共记录的副本
+- 认证法院文件的副本
+- 作为authentication chain的一部分
+
+**实例**:
+纽约公证员R为客户公证一份委托书，客户将在加州使用。加州机构要求证明公证员R的资格。客户将公证后的文件提交给纽约县书记官办公室，请求县书记官证书。县书记官查阅其记录，确认公证员R确实在该县注册，其签名和印章与存档样本一致。县书记官签发证书，附在公证文件上。这使加州机构能够信任该公证的真实性。
+
+**重要提示**:
+县书记官证书不验证签署人的身份或文件内容（这是公证员的工作），只验证公证员的资格和公证行为的真实性。这就是为什么公证员必须在县书记官办公室存档其签名和印章样本。如果公证员的记录不是最新的（如地址变更、印章更换未通知），可能导致证书被拒绝。公证员应确保其county clerk records始终准确。
+"
+087,Deponent,"One who makes oath to a written statement. Technically, a person subscribing a deposition but used interchangeably with Affiant.
+
+**在公证实践中的应用**:
+Deponent（宣誓人）是指在宣誓书(affidavit)或口头证词(deposition)中作出宣誓陈述的人。公证员与deponents的互动包括：
+- 为affidavits管理宣誓
+- 确认deponent理解宣誓的严肃性
+- 验证deponent的身份
+- 见证deponent的签名
+
+**实例**:
+在民事诉讼中，律师需要一份宣誓书来支持动议。证人（deponent）起草一份声明，描述其所见所闻。证人前往公证员处。公证员：
+1. 核实证人的身份（查看驾照）
+2. 询问：""您是否庄严宣誓，此宣誓书中的陈述是真实正确的？""
+3. 证人回答""是""
+4. 证人在公证员面前签署宣誓书
+5. 公证员完成jurat（誓言证书），签字并盖章
+
+**重要提示**:
+公证员必须亲自管理宣誓，不能通过电话或电子邮件进行（除非使用符合法律要求的远程公证技术）。Deponent必须在公证员面前口头宣誓，简单点头或默认不足够。宣誓书中的虚假陈述可能构成伪证罪，公证员应确保deponent理解其法律责任。
+"
 088,Deposition,"The testimony of a witness taken out of court or other hearing proceeding, under oath or by affirmation, before a notary public or other person, officer or commissioner before whom such testimony is authorized by law to be taken, which is intended to be used at the trial or hearing.
 
+
+
+**在公证实践中的应用**:
+Deposition（口头证词）是在法庭外进行的宣誓证词，通常在诉讼discovery（证据开示）阶段。公证员或法院书记员的角色包括：
+- 管理宣誓
+- 记录证词（如果是court reporter）
+- 见证签名
+- 签发证书
+
+**实例**:
+在人身伤害案件中，原告的律师要求depose（询问）被告的医学专家。Deposition在律师办公室进行。公证员S（或court reporter）：(1)要求专家宣誓说实话，(2)专家回答律师的问题（可能数小时），(3)证词被录音和/或记录，(4)制作书面transcript（记录），(5)专家签署transcript确认准确性，(6)公证员S完成证书，确认证词在宣誓下作出。这个deposition可以在审判中使用，如同法庭证词。
+
+**重要提示**:
+Deposition证词具有与法庭证词同等的法律效力，作伪证可能面临刑事指控。公证员必须确保：(1)宣誓清晰明确，(2)证人理解宣誓的严肃性，(3)准确记录（如果担任reporter），(4)妥善保存记录。许多专业court reporters也是公证员，这使他们能够执行deposition的所有功能。普通公证员如果被要求主持deposition，应确保自己理解程序要求，必要时拒绝超出其能力的请求。
 "
 089,Duress,"Unlawful constraint exercised upon a person whereby he is forced to do some act against his will. In notarial practice, a notary must refuse to perform a notarial act if there are signs that a person is acting under duress. The notary should ensure that all parties are acting voluntarily and with full understanding of the documents they are signing."
 090,Escrow,"The placing of an instrument in the hands of a person as a depository who on the happening of a designated event, is to deliver the instrument to a third person. This agreement, once established, should be unalterable.
 
+
+
+**在公证实践中的应用**:
+Escrow（托管）安排在房地产交易和商业交易中很常见。公证员可能公证涉及escrow的文件：
+- Escrow agreements（托管协议）
+- Escrow instructions（托管指示）
+- Release of escrow（托管释放）
+- Escrow amendments（托管修正）
+
+**实例**:
+买家I和卖家J使用escrow agent（托管代理，通常是title company或律师）进行房产交易。买家I将$50,000定金存入escrow账户。托管协议规定：如果交易成功完成，定金转给卖家；如果交易失败（如房屋检查发现重大问题），定金退还买家。双方签署托管协议，公证员公证双方签名。这确保托管条款明确、具有约束力，保护双方利益。
+
+**重要提示**:
+Escrow安排涉及资金或财产由第三方持有，直到满足特定条件。公证员应确保签署人理解：(1)什么将被托管，(2)谁是托管代理，(3)释放托管的条件，(4)如果条件未满足会发生什么。虽然公证员不解释具体条款，但应确认签署人声称已理解这些关键要素。
 "
 091,Executor,"One named in a will to carry out the provisions of the will. The executor has a fiduciary duty to manage the deceased's estate, pay debts, and distribute assets to beneficiaries according to the will's terms. Notaries may notarize various estate documents signed by executors, such as deeds transferring property or affidavits in probate proceedings."
 092,"Ex Parte (From One Side Only)
-","A hearing or examination in the presence of, or on papers filed by, one party and in the absence of the other."
+","A hearing or examination in the presence of, or on papers filed by, one party and in the absence of the other.
+
+**在公证实践中的应用**:
+Ex Parte是指法律程序中只有一方当事人参与，无需另一方在场或通知。公证员可能遇到：
+- Ex Parte申请或动议
+- 紧急保护令(emergency protective orders)
+- 临时限制令(temporary restraining orders)
+- 单方面宣誓书(ex parte affidavits)
+
+**实例**:
+在家庭暴力案件中，受害者可能通过ex parte程序申请紧急保护令。法官在只听取受害者陈述的情况下做出裁决，无需通知施暴者（以保护受害者安全）。公证员可能需要为受害者的宣誓书做公证，但公证员不应询问案件细节或提供法律建议。
+
+**重要提示**:
+当公证员处理标有""Ex Parte""的文件时，应理解这是正常的法律程序，并非表示文件有问题。公证员的职责仍然是核实签署人身份和自愿签署，不涉及案件的是非曲直。
+"
 093,Felony,A crime punishable by death or imprisonment in a state prison. Felonies are more serious than misdemeanors. Examples relevant to notaries include forgery in the second degree (a class D felony) and issuing a false certificate (a class E felony). A notary convicted of a felony may be ineligible for appointment or subject to removal from office.
 094,Guardian,"A person in charge of a minor's person or property. A guardian is appointed by a court to care for someone who cannot care for themselves, typically a child or incapacitated adult. Notaries may encounter guardianship documents, such as petitions for guardianship, accountings, or deeds signed by guardians on behalf of their wards."
 095,Judgment,"Decree of a court declaring that one individual is indebted to another and fixing the amount of such indebtedness.
 
+
+
+**在公证实践中的应用**:
+判决(Judgment)是法院对案件的正式裁决。公证员可能需要公证涉及判决的各类文件：
+- 判决副本的认证(certified copies)
+- 判决满足书(satisfaction of judgment)
+- 判决执行文件(execution documents)
+- 判决留置权(judgment liens)
+
+**实例**:
+原告在诉讼中获胜，法院判决被告支付$50,000。被告最终支付了判决金额。原告的律师准备""满足判决""文件，声明判决已全额支付。公证员为律师的签名做公证。此文件将提交给法院记录在案，解除对被告财产的留置权。
+
+**重要提示**:
+公证员可能遇到各种判决相关文件，从小额法庭判决到重大商业诉讼裁决。公证员的角色是核实签署人身份，而非评估判决的合法性或公平性。对于判决满足书，公证员应确认签署人（通常是债权人或其代理人）自愿签署。
 "
 096,Jurat,"A jurat is that part of an affidavit where the officer (notary public) certifies that it was sworn to before him. It is not the affidavit.
 
@@ -902,11 +1135,53 @@ Those words placed directly after the signature in the affidavit stating that th
 097,Laches,"The delay or negligence in asserting one's legal rights. Laches is an equitable doctrine that can bar a claim if the delay in asserting it has prejudiced the opposing party. While primarily a legal concept, notaries should be aware that untimely action in their duties could potentially affect their clients' rights or their own liability."
 098,Lease,"A contract whereby, for a consideration, usually termed rent, one who is entitled to the possession of real property transfers such right to another for life, for a term of years or at will.
 
+
+
+**在公证实践中的应用**:
+租约（Lease）是公证员常见的文件，特别是长期租约或商业租约。需要公证的租约包括：
+- 商业地产租约（通常要求公证）
+- 超过一年的住宅租约（某些州要求）
+- 转租协议（sublease agreements）
+- 租约修正案（lease amendments）
+
+**实例**:
+餐厅老板H签订5年商业租约，租用零售空间。房东要求租约经过公证。公证员确认：(1) H的身份（驾照），(2) H已阅读租约并理解条款（月租、期限、责任等），(3) H自愿签署，无胁迫。公证后，租约在县书记官办公室记录，成为公共记录，对房产的后续所有者具有约束力。这保护了租户H的权益，即使房产被出售。
+
+**重要提示**:
+长期或商业租约往往涉及复杂条款：租金增长、维修责任、提前终止权等。公证员不应尝试解释这些条款。如果签署人询问：""这个条款是什么意思？""，公证员应回答：""我不能提供法律建议。我建议您在签署前咨询律师。""公证员的职责是确认签署人身份和自愿签署，而非作为法律顾问。
 "
-099,Lien,A legal right or claim upon a specific property which attaches to the property until a debt is satisfied.
+099,Lien,"A legal right or claim upon a specific property which attaches to the property until a debt is satisfied.
+
+**在公证实践中的应用**:
+公证员在以下情况会遇到留置权(Lien):
+- 公证带有现有留置权的房产契约
+- 处理创建留置权的抵押文件  
+- 认证承包商提交的机械留置权(mechanic's lien)
+- 核实留置权解除文件(lien release)
+
+**实例**:
+房主为房屋再融资。旧抵押贷款在房产上创建了留置权。公证员必须确保在记录新抵押留置权之前，有适当的文件来解除旧留置权。留置权的顺序和优先级对产权清晰至关重要。银行通常要求第一留置权位置，这意味着在破产或止赎时，他们优先获得偿付。
+
+**重要提示**:
+公证员虽然不决定留置权的有效性，但必须准确记录和认证涉及留置权的文件。不当处理可能导致产权纠纷。公证员应验证签署人的身份和签署意愿，但不应就留置权的法律效力提供建议。
+"
 100,Litigation,"The act of carrying on a lawsuit. Litigation refers to the process of taking legal action through the courts. Notaries play a supporting role in litigation by notarizing affidavits, verifications, and other court documents. Understanding the litigation process helps notaries appreciate the importance of their careful and accurate work."
 101,Misdemeanor,"Any crime other than a felony. Misdemeanors are less serious offenses, typically punishable by fines or imprisonment of less than one year. For notaries, relevant misdemeanors include acting without proper appointment (Executive Law §135-a), violating advertising rules, or practicing law without a license. Such violations can result in removal from office."
-102,Mortgage On Real Property,"An instrument in writing, duly executed and delivered that creates a lien upon real estate as security for the payment of a specified debt, which is usually in the form of a bond."
+102,Mortgage On Real Property,"An instrument in writing, duly executed and delivered that creates a lien upon real estate as security for the payment of a specified debt, which is usually in the form of a bond.
+
+**在公证实践中的应用**:
+房地产抵押贷款（Mortgage on Real Property）是公证员最常见的工作之一。抵押贷款文件包括：
+- Mortgage deed（抵押契约）
+- Note（本票）
+- Mortgage satisfaction（抵押清偿）
+- Subordination agreement（从属协议）
+
+**实例**:
+首次购房者G获批$300,000抵押贷款。在closing时，G需要签署多份文件，包括抵押契约。公证员的职责：(1)核实G的身份，(2)确认G理解抵押贷款意味着银行在房产上有留置权，(3)确认G理解如果不按时还款，银行可以止赎房产，(4)确认G自愿签署，(5)完成acknowledgment。这个公证至关重要，因为抵押契约必须经过公证才能在县书记官办公室记录，未记录的抵押贷款无法对抗后续的购买者或债权人。
+
+**重要提示**:
+抵押贷款公证通常涉及大额资金和长期承诺（15-30年）。公证员应确保签署人理解文件的性质和后果。如果签署人表现出困惑、被迫或不情愿，公证员应暂停并建议签署人寻求法律顾问。虽然公证员不能提供法律建议，但可以询问：""您是否完全理解这份文件？""、""您是自愿签署的吗？""如果答案不令人满意，应拒绝公证。
+"
 103,"Notary Public
 ","A public officer who executes acknowledgments of deeds or writings in order to render them available as evidence of the facts therein contained; administers oaths and affirmation as to the truth of statements contained in papers or documents requiring the administration of an oath.
 The notarys general authority is defined in §135 of the Executive Law; the notary has certain other powers which can be found in the various provisions of law set forth earlier in this publication.
@@ -944,8 +1219,36 @@ The privileges and rights of a notary public are personal and cannot be delegate
 106,Power of Attorney,"A written statement by an individual giving another person the power to act for him. A power of attorney authorizes an agent (attorney-in-fact) to act on behalf of the principal in legal or financial matters. Notaries frequently notarize powers of attorney, and must ensure the principal appears personally, understands the document, and signs voluntarily."
 107,Proof,"The formal declaration made by a subscribing witness to the execution of an instrument setting forth his place of residence, that he knew the person described in and who executed the instrument and that he saw such person execute such instrument.
 
+
+
+**在公证实践中的应用**:
+Proof（证明）在公证实践中有特定含义，指通过subscribing witness（订立见证人）来证明文件的真实性，当签署人无法亲自到场时使用：
+- 签署人已故
+- 签署人身在外地无法回来
+- 签署人丧失行为能力
+- 签署人拒绝出现
+
+**实例**:
+遗嘱人O在2020年签署遗嘱，有两名见证人在场。2023年O去世。遗嘱需要在遗嘱认证法庭（Probate Court）认证。由于O已故，无法亲自acknowledgment。两名见证人之一前往公证员处，作出proof宣誓：(1)我看到O签署遗嘱，(2)O当时神志清醒，(3)O是自愿签署的。公证员为见证人的陈述做jurat。这个proof使遗嘱可以被法庭接受。
+
+**重要提示**:
+Proof by subscribing witness是acknowledgment的替代方式，仅在特殊情况下使用。见证人必须：(1)亲眼看到原始签署，(2)认识签署人或能识别其签名，(3)能够宣誓证明签署的真实性。公证员必须为见证人管理宣誓（jurat），而非仅仅acknowledgment。这是相对罕见的程序，公证员应参考法规确保正确执行。
 "
-108,Protest,"A formal statement in writing by a notary public, under seal, that a certain bill of exchange or promissory note was on a certain day presented for payment, or acceptance, and that such payment or acceptance was refused."
+108,Protest,"A formal statement in writing by a notary public, under seal, that a certain bill of exchange or promissory note was on a certain day presented for payment, or acceptance, and that such payment or acceptance was refused.
+
+**在公证实践中的应用**:
+Protest（拒付证书）是商业法中的正式文件，用于通知票据被拒付。虽然在现代商业实践中不如以前常见，公证员可能仍会遇到：
+- 支票拒付通知（check protest）
+- 本票拒付（promissory note protest）
+- 汇票拒付（bill of exchange protest）
+- 国际贸易中的拒付（international commerce protests）
+
+**实例**:
+公司K收到客户L开具的$10,000支票作为货款。K将支票存入银行，但支票被退回标注""资金不足""（NSF）。K的律师准备protest，正式通知L支票已被拒付，要求付款。公证员为protest做公证，确认K的代表签署并宣誓protest中的陈述真实。Protest可以作为后续法律诉讼的证据，证明K已尽力收款。
+
+**重要提示**:
+Protest通常涉及jurat（誓言证书）而非acknowledgment（确认），因为它包含宣誓陈述。公证员必须亲自管理宣誓：""您是否庄严宣誓，此protest中的陈述是真实正确的？""签署人必须口头回答""是""或""我宣誓""。在某些司法管辖区，及时的protest对保留追索权很重要，因此时效性至关重要。
+"
 109,Seal,"The laws of the State of New York do not require the use of seals by notaries public. If a seal is used, it should sufficiently identify the notary public, his authority and jurisdiction.
 It is the opinion of the Department of State that the only inscription required is the name of the notary and the words Notary Public for the State of New York."
 110,Signature of Notary Public,"A notary public must sign the name under which he was appointed and no other. In addition to his signature and venue, the notary public shall print, typewrite or stamp beneath his signature in black ink, his name, the words Notary Public State of New York, the name of the county in which he is qualified, and the date upon which his commission expires (§137, Executive Law).
@@ -959,12 +1262,54 @@ He/she must then perform all his/her notarial functions under the name selected.
 A member of a religious order, known therein by a name other than his secular cognomen, may be appointed and may officiate as a notary public under the name by which he is known in religious circles. (Op. Atty. Gen., Mar. 20, 1930.)"
 111,Statute,"A law established by an act of the Legislature. Statutes are written laws passed by legislative bodies, as opposed to common law developed through court decisions. For notaries, key statutes include Article 6 of the Executive Law (governing notaries public) and Article 3 of the Real Property Law (governing acknowledgments and proofs)."
 112,"Statute of Frauds
-","State law which provides that certain contracts must be in writing or partially complied with, in order to be enforceable at law."
+","State law which provides that certain contracts must be in writing or partially complied with, in order to be enforceable at law.
+
+**在公证实践中的应用**:
+诉讼时效法(Statute of Frauds)要求某些类型的合同必须以书面形式订立才能强制执行。公证员经常处理这些需要书面记录的合同：
+- 房地产买卖合同
+- 超过一年的租约
+- 价值$500以上的货物销售
+- 担保债务的承诺
+
+**实例**:
+甲和乙口头同意甲将其房产卖给乙，价格$300,000。几周后，甲改变主意，拒绝出售。乙不能强制执行这个口头协议，因为诉讼时效法要求房地产合同必须是书面的。如果当时有书面买卖合同，并且由双方签字（理想情况下由公证员公证），乙就可以寻求法律救济。
+
+**重要提示**:
+虽然诉讼时效法本身不要求公证，但许多受其约束的文件（如契约、抵押贷款）同时也需要公证。公证员应理解，其工作不仅是验证身份，还提供了重要的法律保护，使合同在法庭上更容易执行。公证的时间戳记录特别重要，可以证明文件何时签署。
+"
 113,"Statute of Limitations
 ","A law that limits the time within which a criminal prosecution or a civil action must be started. Statutes of limitations vary by type of claim. While notaries are not legal advisors, awareness of these time limits underscores the importance of prompt and accurate notarial work, as delays in executing documents could affect parties' ability to pursue remedies."
-114,Subordination Clause,A clause which permits the placing of a mortgage at a later date which takes priority over an existing mortgage.
+114,Subordination Clause,"A clause which permits the placing of a mortgage at a later date which takes priority over an existing mortgage.
+
+**在公证实践中的应用**:
+从属条款(Subordination Clause)常见于房地产融资文件中。当房产上有多个留置权时，此条款确定优先顺序。公证员在处理以下文件时会遇到：
+- 再融资抵押贷款(refinance mortgages)
+- 房屋净值贷款(home equity loans)
+- 商业地产融资
+- 建筑贷款转永久贷款
+
+**实例**:
+房主已有第一抵押贷款（主贷款）和第二抵押贷款（房屋净值信贷额度）。房主想为主贷款再融资以获得更低利率。新贷款人要求第一留置权位置。第二抵押贷款人必须签署从属协议，同意其留置权""从属于""新的第一抵押贷款。公证员公证此从属协议，确认第二贷款人的签署。
+
+**重要提示**:
+从属条款涉及复杂的优先权问题，可能影响各方的财务利益。公证员不应解释条款内容或建议当事人是否应该签署。公证员只需确认签署人的身份、理解并自愿签署文件。
+"
 115,Sunday,"A notary public may administer an oath or take an affidavit or acknowledgment on Sunday.
-However, a deposition cannot be taken on Sunday in a civil proceeding."
+However, a deposition cannot be taken on Sunday in a civil proceeding.
+
+**在公证实践中的应用**:
+纽约州法律规定，星期日（Sunday）不得进行某些法律行为，但公证服务通常被允许。公证员应了解：
+- 公证行为本身不受星期日禁令限制
+- 但某些需要公证的商业交易可能受限
+- 紧急情况（如医疗授权书）不受限制
+- 不同县可能有不同的地方规定
+
+**实例**:
+星期日下午，一位客户联系公证员E，需要紧急公证一份医疗授权书（Medical Power of Attorney），因其父亲住院需要手术，需要授权书做医疗决定。公证员E可以合法地在星期日提供此服务。但是，如果客户要求公证一份普通商业合同或房地产契约，公证员应谨慎，确认该交易本身在星期日执行是否合法，尽管公证行为本身通常被允许。
+
+**重要提示**:
+虽然公证服务通常允许在星期日进行，但公证员应了解可能存在的限制。如果不确定，应建议客户咨询律师。实践中，许多公证员选择不在星期日工作，但这是个人选择而非法律要求。紧急情况（医疗文件、旅行文件）通常证明星期日公证的合理性。
+"
 116,Swear,"This term includes every mode authorized by law for administering an oath. To swear means to take an oath invoking a Supreme Being as witness to the truth of one's statements. The notary must administer oaths in proper form, asking the affiant if they swear (or affirm) that their statements are true, and the affiant must express assent."
 117,Taking an Acknowledgment,"The act of the person named in an instrument telling the notary public that he is the person named in the instrument and acknowledging that he executed such instrument;
 also includes the act of the notary public in obtaining satisfactory evidence of the identity of the person whose acknowledgment is taken.
@@ -1008,4 +1353,14 @@ Proof of Execution (each person): $2.00
 Swearing Witness: $2.00
 
 "
-121,Note,"Where gender pronouns appear in this booklet, they are meant to refer to both male and female persons."
+121,Note,"Where gender pronouns appear in this booklet, they are meant to refer to both male and female persons.
+
+**在公证实践中的应用**:
+此注释提醒公证员，手册中使用的性别代词（he, his, him等）指代所有性别的人员。这是法律文件中的标准语言惯例。
+
+**实例**:
+当手册说""notary shall affix his seal""（公证员应加盖其印章）时，这适用于所有性别的公证员。现代法律实践中，许多文件已改用性别中立语言（如""their""），但旧法规仍使用传统代词。
+
+**重要提示**:
+公证员应理解法律语言中的性别代词是通用的，不构成性别歧视。在实际工作中，公证员应平等对待所有当事人，无论其性别、性别认同或性别表达如何。
+"
