@@ -1,16 +1,6 @@
 import streamlit as st
 import pandas as pd
 import re
-<<<<<<< HEAD
-from deepseek_api import call_openai
-from progress import load_progress, save_progress
-from dynamic_quiz_generator import generate_dynamic_quiz
-from completed_tracker import load_completed, mark_completed, unmark_completed
-from vector_utils import build_lesson_vectors, search_lessons
-
-# Markdown cleaning function
-def clean_markdown(md_text: str) -> str:
-=======
 import json
 import html
 import time
@@ -33,13 +23,13 @@ def sanitize_input(text: str, max_length: int = 500) -> str:
     """Sanitize user input to prevent XSS and limit length."""
     if not text:
         return ""
-    
+
     # Limit length
     text = text[:max_length]
-    
+
     # HTML escape
     text = html.escape(text)
-    
+
     # Remove potential script tags and dangerous patterns
     dangerous_patterns = [
         r'<script.*?</script>',
@@ -47,49 +37,37 @@ def sanitize_input(text: str, max_length: int = 500) -> str:
         r'on\w+\s*=',
         r'data:text/html'
     ]
-    
+
     for pattern in dangerous_patterns:
         text = re.sub(pattern, '', text, flags=re.IGNORECASE)
-    
+
     return text.strip()
 
 def validate_lesson_content(content: str) -> str:
     """Validate and limit lesson content length."""
     if not content:
         return ""
-    
+
     max_length = config.MAX_CONTENT_LENGTH
     if len(content) > max_length:
         st.warning(f"⚠️ Content truncated to {max_length} characters for processing.")
         return content[:max_length]
-    
+
     return content
 
 # ---------- Markdown Cleaning (for speech) ----------
 def clean_markdown(md_text: str) -> str:
     if not md_text:
         return ""
-    
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
+
     text = re.sub(r'#* ?', '', md_text)
     text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
     text = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', text)
     text = re.sub(r'[`*_>]', '', text)
-<<<<<<< HEAD
-    return text
 
-# Load lesson data
-@st.cache_data
-def load_lessons():
-    df = pd.read_csv("lessons.csv", encoding="ISO-8859-1")
-    return df.to_dict(orient="records")
-
-# Load explanation template
-=======
-    
     # Additional security: remove any remaining HTML tags
     text = re.sub(r'<[^>]*>', '', text)
-    
+
     return text
 
 # ---------- Load Data from Database ----------
@@ -102,12 +80,12 @@ def load_lessons():
                 SELECT lesson_no as 'No', title as 'Title', content as 'Content'
                 FROM lessons ORDER BY CAST(lesson_no AS INTEGER)
             """).fetchall()
-            
+
             if lessons:
                 return [dict(lesson) for lesson in lessons]
     except Exception:
         pass
-    
+
     # Fallback to CSV
     try:
         df = pd.read_csv("lessons.csv", encoding="ISO-8859-1")
@@ -115,24 +93,11 @@ def load_lessons():
     except Exception:
         return []
 
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 @st.cache_data
 def load_template():
     with open("prompt_template.txt", "r", encoding="ISO-8859-1") as f:
         return f.read()
 
-<<<<<<< HEAD
-lessons = load_lessons()
-lesson_vectors = build_lesson_vectors(lessons)
-template = load_template()
-
-if "current_index" not in st.session_state:
-    st.session_state.current_index = load_progress()
-
-# Sidebar navigation
-st.sidebar.title("📚 Course Outline")
-completed_list = load_completed()
-=======
 def get_user_progress(user_id: int):
     """Get user progress from database."""
     return db.get_user_progress(user_id)
@@ -207,12 +172,12 @@ if "current_index" not in st.session_state:
     # Try to get from database first
     user_progress = get_user_progress(USER_ID)
     current_index = 0
-    
+
     # Find the highest current_index from user progress
     for lesson_no, progress in user_progress.items():
         if progress.get('current_index', 0) > current_index:
             current_index = progress['current_index']
-    
+
     st.session_state.current_index = current_index
 
 # ---------- Sidebar: Course Outline & Detail Level ----------
@@ -221,21 +186,11 @@ st.sidebar.title("📚 Course Outline")
 # Get completed lessons from database
 completed_list = get_completed_lessons(USER_ID)
 
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 for i, l in enumerate(lessons):
     label = f"✅ {i+1}. {l['Title']}" if l['No'] in completed_list else f"{i+1}. {l['Title']}"
     if st.sidebar.button(label, key=f"jump_{i}"):
         st.session_state.current_index = i
         st.session_state["final_test_mode"] = False
-<<<<<<< HEAD
-        save_progress(i)
-
-# Final Test button
-if st.sidebar.button("🏁 Final Test", key="final_test"):
-    st.session_state["final_test_mode"] = True
-
-# Final test logic
-=======
         # Save progress to database
         db.update_user_progress(USER_ID, l['No'], current_index=i)
 
@@ -263,15 +218,14 @@ if provider_info['caching_enabled']:
 if st.session_state.get("analytics_mode", False):
     from analytics import show_analytics_page
     show_analytics_page()
-    
+
     if st.button("🔙 Back to Lessons"):
         st.session_state["analytics_mode"] = False
         st.rerun()
-    
+
     st.stop()
 
 # ---------- Final Test Logic ----------
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 if st.session_state.get("final_test_mode", False):
     st.title("🏁 Final Test: Comprehensive Assessment")
     all_content = "\n\n".join([f"Lesson {l['No']}: {l['Content']}" for l in lessons])
@@ -305,19 +259,11 @@ if st.session_state.get("final_test_mode", False):
         if score >= 40:
             st.success("🎉 Excellent! You passed the course!")
         else:
-<<<<<<< HEAD
-            st.warning("📘 Review the lessons and try again.")
-
-    st.stop()
-
-# Current lesson
-=======
             st.warning("📘 Please review the lessons and try again.")
 
     st.stop()
 
 # ---------- Current Lesson ----------
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 idx = st.session_state.current_index
 lesson = lessons[idx]
 st.title(f"Lesson {lesson['No']}: {lesson['Title']}")
@@ -326,34 +272,6 @@ completed = lesson["No"] in completed_list
 col1, col2 = st.columns(2)
 if completed:
     if col1.button("✅ Completed (Click to Unmark)"):
-<<<<<<< HEAD
-        unmark_completed(lesson["No"])
-        st.rerun()
-else:
-    if col1.button("📘 Mark as Completed"):
-        mark_completed(lesson["No"])
-        st.rerun()
-
-# GPT Explanation
-if f"explanation_{idx}" not in st.session_state:
-    prompt = template.format(
-        id=lesson["No"],
-        title=lesson["Title"],
-        content=lesson["Content"]
-    )
-    messages = [
-        {"role": "system", "content": "You are a professional and structured AI teacher."},
-        {"role": "user", "content": prompt}
-    ]
-    with st.spinner("Generating explanation…"):
-        output = call_openai(messages)
-        st.session_state[f"explanation_{idx}"] = output
-
-st.markdown(st.session_state[f"explanation_{idx}"])
-
-# 🔈 Speech buttons
-clean_text = clean_markdown(st.session_state[f"explanation_{idx}"])
-=======
         db.update_user_progress(USER_ID, lesson["No"], is_completed=False)
         st.rerun()
 else:
@@ -396,7 +314,6 @@ else:
 
 # ---------- Text-to-Speech Controls ----------
 clean_text = clean_markdown(output)
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 escaped_text = clean_text.replace('"', '\\"').replace("\n", " ")
 speech_html = f"""
     <script>
@@ -409,10 +326,6 @@ speech_html = f"""
         utterance.lang = "en-US";
         speechSynthesis.speak(utterance);
     }}
-<<<<<<< HEAD
-
-=======
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
     function stopSpeech() {{
         if (speechSynthesis.speaking) {{
             speechSynthesis.cancel();
@@ -424,37 +337,6 @@ speech_html = f"""
 """
 st.components.v1.html(speech_html, height=80)
 
-<<<<<<< HEAD
-# Question input
-st.subheader("💬 Ask a Question (Optional)")
-question = st.text_input("Enter your question:", key="qa_input")
-
-if st.button("Submit Question"):
-    if question.strip() == "":
-        st.warning("Please enter a question.")
-    else:
-        related = search_lessons(question, lessons, lesson_vectors)
-        context = "\n\n".join(l["Content"] for l in related) or lesson["Content"]
-        qa_prompt = f"""Lesson content:
-{context}
-
-Please answer the student's question based on the lesson content above:
-Question: {question}
-"""
-        messages = [
-            {"role": "system", "content": "You are a helpful AI teaching assistant."},
-            {"role": "user", "content": qa_prompt}
-        ]
-        with st.spinner("Thinking..."):
-            answer = call_openai(messages)
-            st.markdown(f"📘 Answer:\n\n{answer}")
-        if related:
-            st.markdown("### 🔍 Related Lessons")
-            for l in related:
-                st.markdown(f"- {l['No']}: {l['Title']}")
-
-# Quiz generation
-=======
 # ---------- Student Q&A (adaptive length based on detail level) ----------
 st.subheader("💬 Ask a Question (Optional)")
 question = st.text_input("Enter your question:", key="qa_input", max_chars=500)
@@ -484,7 +366,7 @@ Question: {sanitized_question}
             try:
                 answer = call_deepseek(messages)
                 st.markdown(f"📘 Answer:\n\n{answer}")
-                
+
                 # Save Q&A interaction to database
                 db.save_qa_interaction(USER_ID, lesson["No"], sanitized_question, answer, detail)
             except Exception as e:
@@ -492,7 +374,6 @@ Question: {sanitized_question}
                 st.exception(e)
 
 # ---------- Lesson Quiz ----------
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 if f"quiz_{idx}" not in st.session_state:
     with st.spinner("Generating quiz…"):
         st.session_state[f"quiz_{idx}"] = generate_dynamic_quiz(
@@ -512,14 +393,11 @@ quizzes = st.session_state[f"quiz_{idx}"]
 st.markdown("### 🧪 Quiz for This Lesson")
 
 score = 0
-<<<<<<< HEAD
-=======
 user_answers = {}
 start_time = time.time() if f"quiz_start_time_{idx}" not in st.session_state else st.session_state[f"quiz_start_time_{idx}"]
 if f"quiz_start_time_{idx}" not in st.session_state:
     st.session_state[f"quiz_start_time_{idx}"] = start_time
 
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 submitted = st.button("✅ Submit All Quiz Questions")
 
 for i, item in enumerate(quizzes):
@@ -531,9 +409,7 @@ for i, item in enumerate(quizzes):
     )
     user_letter = user_choice[0] if user_choice else None
     correct_letter = item["answer"]
-<<<<<<< HEAD
-=======
-    
+
     # Store user answer
     user_answers[i] = {
         "question": item["question"],
@@ -541,7 +417,6 @@ for i, item in enumerate(quizzes):
         "correct_answer": correct_letter,
         "is_correct": user_letter == correct_letter
     }
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 
     if submitted:
         if user_letter == correct_letter:
@@ -551,9 +426,6 @@ for i, item in enumerate(quizzes):
             st.error(f"❌ Incorrect. Correct answer: {correct_letter}")
         st.caption(f"📘 Explanation: {item['explanation']}")
 
-<<<<<<< HEAD
-# Next lesson
-=======
 # Save quiz results to database when submitted
 if submitted and user_answers:
     time_taken = int(time.time() - start_time)
@@ -561,20 +433,15 @@ if submitted and user_answers:
     st.info(f"📊 Quiz completed! Score: {score}/{len(quizzes)} ({score/len(quizzes)*100:.1f}%)")
 
 # ---------- Next Lesson ----------
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
 if st.button("▶ Next Lesson"):
     if idx + 1 < len(lessons):
         st.session_state.current_index += 1
         st.session_state["final_test_mode"] = False
-<<<<<<< HEAD
-        save_progress(st.session_state.current_index)
-=======
-        
+
         # Save progress to database
         next_lesson = lessons[st.session_state.current_index]
         db.update_user_progress(USER_ID, next_lesson["No"], current_index=st.session_state.current_index)
-        
->>>>>>> c865a80 (更新说明，例如：fix bug / 添加功能)
+
         st.rerun()
     else:
         st.success("🎉 Congratulations! All lessons completed!")
