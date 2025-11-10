@@ -1,0 +1,2137 @@
+{
+  "analysis_date": "2025-11-06",
+  "total_lessons": 123,
+  "statistics": {
+    "avg_score": 4.260162601626016,
+    "avg_length": 970.7967479674796,
+    "quality_distribution": {
+      "excellent": 6,
+      "good": 41,
+      "fair": 21,
+      "poor": 55
+    }
+  },
+  "lessons": [
+    {
+      "lesson_no": "\n071,Affidavit,An affidavit is a signed statement",
+      "title": " duly sworn to",
+      "analysis": {
+        "score": 1,
+        "max_score": 10,
+        "length": 21,
+        "length_score": 0,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (21 chars) / Content too short",
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "001",
+      "title": "Professional Conduct",
+      "analysis": {
+        "score": 9,
+        "max_score": 10,
+        "length": 6293,
+        "length_score": 3,
+        "structure_score": 2,
+        "definition_score": 1,
+        "testability_score": 3,
+        "sentence_count": 52,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "002",
+      "title": "§130. Appointment of Notaries Public",
+      "analysis": {
+        "score": 8,
+        "max_score": 10,
+        "length": 5347,
+        "length_score": 3,
+        "structure_score": 2,
+        "definition_score": 0,
+        "testability_score": 3,
+        "sentence_count": 30,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "003",
+      "title": "ï¿½131. Procedure of appointment; fees and commissions",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 3155,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 18,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "004",
+      "title": "ï¿½132. Certificates of official character of notaries public",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 906,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 5,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "005",
+      "title": "ï¿½133. Certification of notarial signatures\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1158,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "006",
+      "title": "ï¿½140. Executive Law.\n\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 501,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "007",
+      "title": "ï¿½3-200 and 3-400. Election Law.\n\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 100,
+        "length_score": 1,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "008",
+      "title": "ï¿½3. Public Officers Law.",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 317,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "009",
+      "title": "ï¿½534. County Law.\n",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 426,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "010",
+      "title": "Member of legislature.\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 605,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "011",
+      "title": "Sheriffs.",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 117,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "012",
+      "title": "Notary public?disqualifications.",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1178,
+        "length_score": 3,
+        "structure_score": 0,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 5,
+        "issues": [
+          "缺少结构化元素 / Lacks structure"
+        ]
+      }
+    },
+    {
+      "lesson_no": "013",
+      "title": "ï¿½134. Signature and seal of county clerk.",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 316,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "014",
+      "title": "ï¿½135. Powers and duties; in general; of notaries public who are attorneys at law.",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1854,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 5,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "015",
+      "title": "ï¿½135-a. Notary public or commissioner of deeds; acting without appointment; fraud in office.",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 693,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "016",
+      "title": "ï¿½135-b. Advertising by notaries public.\n\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 2242,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 12,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "017",
+      "title": "ï¿½135-c. Electronic notarization",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 11803,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 75,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "018",
+      "title": "ï¿½136. Notarial fees.",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 549,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "019",
+      "title": "ï¿½137. Statement as to authority of notaries public.\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 2403,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 17,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "020",
+      "title": "ï¿½138. Powers of notaries public or other officers who are stockholders, directors, officers or employees of a corporation.\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1580,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "021",
+      "title": "ï¿½142-a. Validity of acts of notaries public and commissioners of deeds notwithstanding certain defects.\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 2287,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 5,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "022",
+      "title": "ï¿½290. Definitions; effect of article.",
+      "analysis": {
+        "score": 5,
+        "max_score": 10,
+        "length": 609,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "023",
+      "title": "ï¿½298. Acknowledgments and proofs within the state.\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1002,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 4,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "024",
+      "title": "ï¿½302. Acknowledgments and proofs by married women.\n",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 172,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "025",
+      "title": "ï¿½303. Requisites of acknowledgments.\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 185,
+        "length_score": 1,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "026",
+      "title": "ï¿½304. Proof by subscribing witness.\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 483,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "027",
+      "title": "ï¿½306. Certificate of acknowledgment or proof.\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 389,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "028",
+      "title": "ï¿½309-a. Uniform forms of certificates of acknowledgment or proof within this state.\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 2789,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 18,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "029",
+      "title": "ï¿½309-b. Uniform forms of certificates of acknowledgment or proof without this state.\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 3431,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 21,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "030",
+      "title": "ï¿½330. Officers guilty of malfeasance liable for damages.\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 325,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "031",
+      "title": "ï¿½333. When conveyances of real property not to be recorded.\n",
+      "analysis": {
+        "score": 5,
+        "max_score": 10,
+        "length": 1309,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "032",
+      "title": "Special Note\n\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 1145,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 5,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "033",
+      "title": "ï¿½335. Banking Law\n",
+      "analysis": {
+        "score": 5,
+        "max_score": 10,
+        "length": 624,
+        "length_score": 3,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "034",
+      "title": "Rule 3113. Civil Practice Law and Rules\n",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 93,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (93 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "035",
+      "title": "ï¿½11. Domestic Relations Law\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 166,
+        "length_score": 1,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "036",
+      "title": "ï¿½10. Public Officers Law\n",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 93,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (93 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "037",
+      "title": "ï¿½484. None but attorneys to practice in the state.\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 2921,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 5,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "038",
+      "title": "ï¿½485. Violation of certain preceding sections a misdemeanor.\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 115,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "039",
+      "title": "ï¿½750. Power of courts to punish for criminal contempts.",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 422,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "040",
+      "title": "Illegal practice of law by notary public.\n",
+      "analysis": {
+        "score": 5,
+        "max_score": 10,
+        "length": 375,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "041",
+      "title": "Wills.",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 501,
+        "length_score": 3,
+        "structure_score": 0,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少结构化元素 / Lacks structure"
+        ]
+      }
+    },
+    {
+      "lesson_no": "042",
+      "title": "Public Officers Law",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 320,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "043",
+      "title": "ï¿½67. Fees of public officers.\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1277,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 6,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "044",
+      "title": "ï¿½69. Fee for administering certain official oaths prohibited.\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 229,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "045",
+      "title": "Executive Law\n",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 475,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "046",
+      "title": "ï¿½70.00 Sentence of imprisonment for felony.\n",
+      "analysis": {
+        "score": 5,
+        "max_score": 10,
+        "length": 338,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "047",
+      "title": "ï¿½70.15 Sentences of imprisonment for misdemeanors and violation.\n",
+      "analysis": {
+        "score": 5,
+        "max_score": 10,
+        "length": 213,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "048",
+      "title": "ï¿½170.10 Forgery in the second degree.\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 786,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 5,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "049",
+      "title": "ï¿½175.40 Issuing a false certificate.\n",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 432,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "050",
+      "title": "ï¿½195.00 Official misconduct.\n",
+      "analysis": {
+        "score": 5,
+        "max_score": 10,
+        "length": 432,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "051",
+      "title": "Notary must officiate on request.\n\n",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 217,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "052",
+      "title": "Perjury.\n\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 209,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "053",
+      "title": "ï¿½182.1 Advertising\n\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1625,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 9,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "054",
+      "title": "ï¿½182.2 Definitions\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 4432,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 31,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "055",
+      "title": "ï¿½182.3 Requirements for Notaries\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1818,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 5,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "056",
+      "title": "ï¿½182.4 Additional Requirements for Electronic Notaries\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 3733,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 6,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "057",
+      "title": "ï¿½182.5 Satisfactory Evidence of Identity\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 2177,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 4,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "058",
+      "title": "ï¿½182.6 Credential Analysis\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1251,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 4,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "059",
+      "title": "ï¿½182.7 Identity Proofing\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1276,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 6,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "060",
+      "title": "ï¿½182.8 Communication Technology\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 1864,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 14,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "061",
+      "title": "ï¿½182.9 Recordkeeping and Reporting\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 1740,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 13,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "062",
+      "title": "ï¿½182.10 Applications, Registrations and Renewals\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 2585,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 16,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "063",
+      "title": "ï¿½182.11 Fees\n",
+      "analysis": {
+        "score": 5,
+        "max_score": 10,
+        "length": 1385,
+        "length_score": 3,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 8,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "064",
+      "title": "Acknowledgment",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1008,
+        "length_score": 3,
+        "structure_score": 0,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 7,
+        "issues": [
+          "缺少结构化元素 / Lacks structure"
+        ]
+      }
+    },
+    {
+      "lesson_no": "065",
+      "title": "The Real Property Law prescribes:",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1325,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 14,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "066",
+      "title": "Interest as a disqualification",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 155,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "067",
+      "title": "Fraudulent certificates of acknowledgment\n",
+      "analysis": {
+        "score": 7,
+        "max_score": 10,
+        "length": 651,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 6,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "068",
+      "title": "Damages recoverable from notary for false certificate",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 149,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "069",
+      "title": "Administrator",
+      "analysis": {
+        "score": 9,
+        "max_score": 10,
+        "length": 3977,
+        "length_score": 3,
+        "structure_score": 2,
+        "definition_score": 1,
+        "testability_score": 3,
+        "sentence_count": 28,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "070",
+      "title": "Affiant",
+      "analysis": {
+        "score": 9,
+        "max_score": 10,
+        "length": 3863,
+        "length_score": 3,
+        "structure_score": 2,
+        "definition_score": 1,
+        "testability_score": 3,
+        "sentence_count": 18,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "072",
+      "title": "Affirmation",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 415,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "073",
+      "title": "Apostile",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 120,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "074",
+      "title": "Attest",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 129,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "075",
+      "title": "Attestation Clause\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 168,
+        "length_score": 1,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "076",
+      "title": "Authentication (Notarial)\n",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 255,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "077",
+      "title": "Bill of Sale",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 86,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (86 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "078",
+      "title": "Certified Copy\n",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1341,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 12,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "079",
+      "title": "Chattel",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 55,
+        "length_score": 0,
+        "structure_score": 0,
+        "definition_score": 1,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (55 chars) / Content too short",
+          "缺少结构化元素 / Lacks structure"
+        ]
+      }
+    },
+    {
+      "lesson_no": "080",
+      "title": "Chattel Paper",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 224,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "081",
+      "title": "Codicil",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 76,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (76 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "082",
+      "title": "Consideration",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 123,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "083",
+      "title": "Contempt of Court",
+      "analysis": {
+        "score": 1,
+        "max_score": 10,
+        "length": 96,
+        "length_score": 0,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (96 chars) / Content too short",
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "084",
+      "title": "Contract",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 164,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "085",
+      "title": "Conveyance (Deed)\n",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 143,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "086",
+      "title": "County Clerkï¿½s Certificate",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 255,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "087",
+      "title": "Deponent",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 134,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "088",
+      "title": "Deposition",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 285,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "089",
+      "title": "Duress",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 99,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (99 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "090",
+      "title": "Escrow",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 220,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "091",
+      "title": "Executor",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 62,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (62 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "092",
+      "title": "Ex Parte (From One Side Only)\n",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 110,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "093",
+      "title": "Felony",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 64,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (64 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "094",
+      "title": "Guardian",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 55,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (55 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "095",
+      "title": "Judgment",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 116,
+        "length_score": 1,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "096",
+      "title": "Jurat",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 531,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 4,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "097",
+      "title": "Laches",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 60,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (60 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "098",
+      "title": "Lease",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 192,
+        "length_score": 1,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "099",
+      "title": "Lien",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 105,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "100",
+      "title": "Litigation",
+      "analysis": {
+        "score": 8,
+        "max_score": 10,
+        "length": 3237,
+        "length_score": 3,
+        "structure_score": 2,
+        "definition_score": 1,
+        "testability_score": 2,
+        "sentence_count": 13,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "101",
+      "title": "Misdemeanor",
+      "analysis": {
+        "score": 9,
+        "max_score": 10,
+        "length": 2264,
+        "length_score": 3,
+        "structure_score": 2,
+        "definition_score": 1,
+        "testability_score": 3,
+        "sentence_count": 11,
+        "issues": []
+      }
+    },
+    {
+      "lesson_no": "102",
+      "title": "Mortgage On Real Property",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 179,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "103",
+      "title": "Notary Public\n",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 487,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "104",
+      "title": "Oath",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1842,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 14,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "105",
+      "title": "Plaintiff",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 65,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (65 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "106",
+      "title": "Power of Attorney",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 86,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (86 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "107",
+      "title": "Proof",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 248,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "108",
+      "title": "Protest",
+      "analysis": {
+        "score": 3,
+        "max_score": 10,
+        "length": 220,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "109",
+      "title": "Seal",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 354,
+        "length_score": 2,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 3,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "110",
+      "title": "Signature of Notary Public",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 1352,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 7,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "111",
+      "title": "Statute",
+      "analysis": {
+        "score": 1,
+        "max_score": 10,
+        "length": 47,
+        "length_score": 0,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (47 chars) / Content too short",
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "112",
+      "title": "Statute of Frauds\n",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 129,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "113",
+      "title": "Statute of Limitations\n",
+      "analysis": {
+        "score": 1,
+        "max_score": 10,
+        "length": 97,
+        "length_score": 0,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (97 chars) / Content too short",
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "114",
+      "title": "Subordination Clause",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 112,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "115",
+      "title": "Sunday",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 159,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "116",
+      "title": "Swear",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 76,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (76 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "117",
+      "title": "Taking an Acknowledgment",
+      "analysis": {
+        "score": 4,
+        "max_score": 10,
+        "length": 495,
+        "length_score": 2,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 2,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "118",
+      "title": "Venue",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 550,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 4,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "119",
+      "title": "Wills",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 65,
+        "length_score": 0,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (65 chars) / Content too short",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "120",
+      "title": "Schedule of Fees",
+      "analysis": {
+        "score": 6,
+        "max_score": 10,
+        "length": 573,
+        "length_score": 3,
+        "structure_score": 1,
+        "definition_score": 0,
+        "testability_score": 2,
+        "sentence_count": 12,
+        "issues": [
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "121",
+      "title": "Note",
+      "analysis": {
+        "score": 2,
+        "max_score": 10,
+        "length": 102,
+        "length_score": 1,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "A notary public will be removed from office for preparing and taking the oath of an affiant to a statement that the notary knew to be false. (Matter of Senft",
+      "title": " August 8",
+      "analysis": {
+        "score": 1,
+        "max_score": 10,
+        "length": 23,
+        "length_score": 0,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (23 chars) / Content too short",
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    },
+    {
+      "lesson_no": "Under the Penal Law (ï¿½210.00) the wilful making of a false affidavit is perjury",
+      "title": " but to sustain an indictment therefor",
+      "analysis": {
+        "score": 1,
+        "max_score": 10,
+        "length": 21,
+        "length_score": 0,
+        "structure_score": 0,
+        "definition_score": 0,
+        "testability_score": 1,
+        "sentence_count": 1,
+        "issues": [
+          "内容过短 (21 chars) / Content too short",
+          "缺少结构化元素 / Lacks structure",
+          "缺少清晰定义和解释 / Lacks clear definition"
+        ]
+      }
+    }
+  ]
+}
