@@ -228,56 +228,212 @@ if st.session_state.get("analytics_mode", False):
 # ---------- Final Test Logic ----------
 if st.session_state.get("final_test_mode", False):
     st.title("🏁 Final Test: Comprehensive Assessment")
-    all_content = "\n\n".join([f"Lesson {l['No']}: {l['Content']}" for l in lessons])
 
-    with st.spinner("Generating 50 questions..."):
-        quizzes = generate_dynamic_quiz(
-            lesson_title="Final Assessment",
-            lesson_content=all_content,
-            num_questions=50
-        )
+    # Generate questions if not already generated
+    if "final_test_questions" not in st.session_state:
+        all_content = "\n\n".join([f"Lesson {l['No']}: {l['Content']}" for l in lessons])
+        with st.spinner("Generating 50 questions... This may take a minute."):
+            st.session_state["final_test_questions"] = generate_dynamic_quiz(
+                lesson_title="Final Assessment",
+                lesson_content=all_content,
+                num_questions=50
+            )
 
-    score = 0
-    submitted = st.button("✅ Submit Final Test")
+    quizzes = st.session_state["final_test_questions"]
 
-    for i, item in enumerate(quizzes):
+    # ========== OPTIMIZATION: Final Test Pagination ==========
+    FINAL_TEST_PER_PAGE = 10
+
+    # Initialize page state
+    if "final_test_page" not in st.session_state:
+        st.session_state["final_test_page"] = 0
+
+    current_page = st.session_state["final_test_page"]
+    total_pages = (len(quizzes) - 1) // FINAL_TEST_PER_PAGE + 1
+
+    # Calculate indices
+    start_idx = current_page * FINAL_TEST_PER_PAGE
+    end_idx = min(start_idx + FINAL_TEST_PER_PAGE, len(quizzes))
+
+    # Show page info
+    st.info(f"📄 Page {current_page + 1} of {total_pages} | Questions {start_idx + 1}-{end_idx} of {len(quizzes)}")
+
+    # Show progress
+    total_answered = sum(1 for i in range(len(quizzes)) if f"final_q{i}" in st.session_state)
+    st.caption(f"✍️ Progress: {total_answered}/{len(quizzes)} questions answered")
+
+    # Display questions for current page
+    for i in range(start_idx, end_idx):
+        item = quizzes[i]
         st.markdown(f"**{i+1}. {item['question']}**")
         choice = st.radio("Select:", item["options"], key=f"final_q{i}")
-        user_letter = choice[0] if choice else None
-        correct_letter = item["answer"]
 
-        if submitted:
-            if user_letter == correct_letter:
-                st.success("✅ Correct")
-                score += 1
-            else:
-                st.error(f"❌ Incorrect. Correct answer: {correct_letter}")
-            st.caption(f"📘 Explanation: {item['explanation']}")
+    # Pagination controls
+    st.markdown("---")
+    page_col1, page_col2, page_col3, page_col4 = st.columns([1, 2, 2, 1])
 
+    with page_col1:
+        if st.button("⬅️ Prev", disabled=(current_page == 0), key="final_prev"):
+            st.session_state["final_test_page"] = current_page - 1
+            st.rerun()
+
+    with page_col2:
+        st.markdown(f"<center>Page {current_page + 1} / {total_pages}</center>", unsafe_allow_html=True)
+
+    with page_col3:
+        # Check unanswered on current page
+        unanswered_current = sum(1 for i in range(start_idx, end_idx) if f"final_q{i}" not in st.session_state or not st.session_state[f"final_q{i}"])
+        if unanswered_current > 0:
+            st.warning(f"⚠️ {unanswered_current} unanswered on this page")
+
+    with page_col4:
+        if st.button("Next ➡️", disabled=(current_page >= total_pages - 1), key="final_next"):
+            st.session_state["final_test_page"] = current_page + 1
+            st.rerun()
+
+    st.markdown("---")
+
+    # Submit button logic
+    show_submit = (current_page == total_pages - 1) or (total_answered == len(quizzes))
+
+    if show_submit:
+        if total_answered < len(quizzes):
+            st.warning(f"⚠️ {len(quizzes) - total_answered} questions not answered yet. Unanswered questions will be marked as incorrect.")
+
+        submitted = st.button("✅ Submit Final Test", type="primary", use_container_width=True)
+    else:
+        st.info("💡 Navigate to the last page or answer all questions to submit the test.")
+        submitted = False
+
+    # Process submission
     if submitted:
-        st.markdown(f"### 🧾 Final Score: {score} / {len(quizzes)}")
+        score = 0
+        results = []
+
+        for i, item in enumerate(quizzes):
+            if f"final_q{i}" in st.session_state:
+                choice = st.session_state[f"final_q{i}"]
+                user_letter = choice[0] if choice else None
+            else:
+                user_letter = None
+
+            correct_letter = item["answer"]
+            is_correct = user_letter == correct_letter
+
+            if is_correct:
+                score += 1
+
+            results.append({
+                "question": item["question"],
+                "user_answer": user_letter,
+                "correct_answer": correct_letter,
+                "is_correct": is_correct,
+                "explanation": item["explanation"]
+            })
+
+        # Show results
+        st.success(f"🎉 Final Test Completed!")
+        st.markdown(f"### 🧾 Final Score: **{score} / {len(quizzes)}** ({score/len(quizzes)*100:.1f}%)")
+
         if score >= 40:
             st.success("🎉 Excellent! You passed the course!")
         else:
             st.warning("📘 Please review the lessons and try again.")
+
+        # Detailed results
+        with st.expander("📋 View Detailed Results"):
+            for i, res in enumerate(results):
+                if res['is_correct']:
+                    st.success(f"**Q{i+1}**: ✅ Correct")
+                else:
+                    st.error(f"**Q{i+1}**: ❌ Wrong - Your answer: {res['user_answer']}, Correct: {res['correct_answer']}")
+                    st.caption(f"💡 {res['explanation']}")
+
+    # Back button
+    if st.button("🔙 Back to Lessons"):
+        st.session_state["final_test_mode"] = False
+        if "final_test_questions" in st.session_state:
+            del st.session_state["final_test_questions"]
+        if "final_test_page" in st.session_state:
+            del st.session_state["final_test_page"]
+        st.rerun()
 
     st.stop()
 
 # ---------- Current Lesson ----------
 idx = st.session_state.current_index
 lesson = lessons[idx]
+
+# ========== OPTIMIZATION 1: Quick Navigation Bar + Progress Bar ==========
+st.markdown("---")
+
+# Progress bar at the top
+progress_percent = (idx + 1) / len(lessons)
+st.progress(progress_percent)
+st.caption(f"📚 Overall Progress: {idx + 1}/{len(lessons)} lessons ({progress_percent*100:.1f}% complete)")
+
+# Quick navigation row
+nav_col1, nav_col2, nav_col3 = st.columns([1, 8, 1])
+
+with nav_col1:
+    if st.button("⬅️ Previous", disabled=(idx == 0), use_container_width=True):
+        st.session_state.current_index = idx - 1
+        st.session_state["final_test_mode"] = False
+        st.rerun()
+
+with nav_col2:
+    # Dropdown selector for quick jump
+    selected_idx = st.selectbox(
+        "📖 Jump to Lesson:",
+        options=range(len(lessons)),
+        format_func=lambda x: f"{'✅ ' if lessons[x]['No'] in completed_list else ''}Lesson {lessons[x]['No']}: {lessons[x]['Title'][:40]}{'...' if len(lessons[x]['Title']) > 40 else ''}",
+        index=idx,
+        key="lesson_quick_selector"
+    )
+    if selected_idx != idx:
+        st.session_state.current_index = selected_idx
+        st.session_state["final_test_mode"] = False
+        st.rerun()
+
+with nav_col3:
+    if st.button("Next ➡️", disabled=(idx >= len(lessons) - 1), use_container_width=True):
+        st.session_state.current_index = idx + 1
+        st.session_state["final_test_mode"] = False
+        st.rerun()
+
+st.markdown("---")
+
+# Lesson title
 st.title(f"Lesson {lesson['No']}: {lesson['Title']}")
 completed = lesson["No"] in completed_list
+
+# ========== OPTIMIZATION 2: Real-time Save Notification ==========
+def show_save_notification(message, icon="✅"):
+    """Show temporary notification message"""
+    notification_placeholder = st.empty()
+    notification_placeholder.success(f"{icon} {message}")
+    return notification_placeholder
 
 col1, col2 = st.columns(2)
 if completed:
     if col1.button("✅ Completed (Click to Unmark)"):
         db.update_user_progress(USER_ID, lesson["No"], is_completed=False)
+        st.session_state['show_notification'] = ("unmarked", lesson['Title'])
         st.rerun()
 else:
     if col1.button("📘 Mark as Completed"):
         db.update_user_progress(USER_ID, lesson["No"], is_completed=True)
+        st.session_state['show_notification'] = ("completed", lesson['Title'])
         st.rerun()
+
+# Show notification if exists
+if 'show_notification' in st.session_state:
+    notif_type, lesson_title = st.session_state['show_notification']
+    if notif_type == "completed":
+        st.success(f"✅ Lesson '{lesson_title}' marked as completed and saved!")
+    elif notif_type == "unmarked":
+        st.info(f"ℹ️ Lesson '{lesson_title}' unmarked and saved!")
+    del st.session_state['show_notification']
 
 content_raw = validate_lesson_content(lesson["Content"])
 
@@ -392,15 +548,37 @@ if st.button("🔄 Regenerate Quiz"):
 quizzes = st.session_state[f"quiz_{idx}"]
 st.markdown("### 🧪 Quiz for This Lesson")
 
+# ========== OPTIMIZATION 3: Quiz Pagination ==========
+QUESTIONS_PER_PAGE = 10
+
+# Initialize quiz page state
+if f"quiz_page_{idx}" not in st.session_state:
+    st.session_state[f"quiz_page_{idx}"] = 0
+
+current_page = st.session_state[f"quiz_page_{idx}"]
+total_pages = (len(quizzes) - 1) // QUESTIONS_PER_PAGE + 1
+
+# Calculate start and end indices for current page
+start_idx = current_page * QUESTIONS_PER_PAGE
+end_idx = min(start_idx + QUESTIONS_PER_PAGE, len(quizzes))
+
+# Show page info and navigation at top
+if len(quizzes) > QUESTIONS_PER_PAGE:
+    st.info(f"📄 Page {current_page + 1} of {total_pages} | Questions {start_idx + 1}-{end_idx} of {len(quizzes)}")
+
 score = 0
 user_answers = {}
 start_time = time.time() if f"quiz_start_time_{idx}" not in st.session_state else st.session_state[f"quiz_start_time_{idx}"]
 if f"quiz_start_time_{idx}" not in st.session_state:
     st.session_state[f"quiz_start_time_{idx}"] = start_time
 
-submitted = st.button("✅ Submit All Quiz Questions")
+# Show answered progress
+total_answered = sum(1 for i in range(len(quizzes)) if f"quiz_{idx}_{i}" in st.session_state)
+st.caption(f"✍️ Progress: {total_answered}/{len(quizzes)} questions answered")
 
-for i, item in enumerate(quizzes):
+# Display questions for current page only
+for i in range(start_idx, end_idx):
+    item = quizzes[i]
     st.markdown(f"**{i+1}. {item['question']}**")
     user_choice = st.radio(
         label="Please select an answer:",
@@ -418,19 +596,92 @@ for i, item in enumerate(quizzes):
         "is_correct": user_letter == correct_letter
     }
 
-    if submitted:
-        if user_letter == correct_letter:
-            st.success("✅ Correct")
-            score += 1
-        else:
-            st.error(f"❌ Incorrect. Correct answer: {correct_letter}")
-        st.caption(f"📘 Explanation: {item['explanation']}")
+# Pagination controls
+if len(quizzes) > QUESTIONS_PER_PAGE:
+    st.markdown("---")
+    page_col1, page_col2, page_col3, page_col4 = st.columns([1, 2, 2, 1])
 
-# Save quiz results to database when submitted
-if submitted and user_answers:
+    with page_col1:
+        if st.button("⬅️ Prev Page", disabled=(current_page == 0), key=f"quiz_prev_{idx}"):
+            st.session_state[f"quiz_page_{idx}"] = current_page - 1
+            st.rerun()
+
+    with page_col2:
+        st.markdown(f"<center>Page {current_page + 1} / {total_pages}</center>", unsafe_allow_html=True)
+
+    with page_col3:
+        # Check if there are unanswered questions on current page
+        unanswered_current = sum(1 for i in range(start_idx, end_idx) if f"quiz_{idx}_{i}" not in st.session_state or not st.session_state[f"quiz_{idx}_{i}"])
+        if unanswered_current > 0:
+            st.warning(f"⚠️ {unanswered_current} unanswered on this page")
+
+    with page_col4:
+        if st.button("Next Page ➡️", disabled=(current_page >= total_pages - 1), key=f"quiz_next_{idx}"):
+            st.session_state[f"quiz_page_{idx}"] = current_page + 1
+            st.rerun()
+
+    st.markdown("---")
+
+# Submit button - only show on last page or if all questions answered
+show_submit = (current_page == total_pages - 1) or (total_answered == len(quizzes))
+
+if show_submit:
+    # Warning if not all questions answered
+    if total_answered < len(quizzes):
+        st.warning(f"⚠️ {len(quizzes) - total_answered} questions not answered yet. You can still submit, but unanswered questions will be marked as incorrect.")
+
+    submitted = st.button("✅ Submit Quiz", type="primary", use_container_width=True)
+else:
+    st.info("💡 Navigate to the last page to submit the quiz, or answer all questions to submit from any page.")
+    submitted = False
+
+# Process submission
+if submitted:
+    # Collect all answers
+    for i in range(len(quizzes)):
+        item = quizzes[i]
+        user_choice_key = f"quiz_{idx}_{i}"
+
+        if user_choice_key in st.session_state:
+            user_choice = st.session_state[user_choice_key]
+            user_letter = user_choice[0] if user_choice else None
+        else:
+            user_letter = None
+
+        correct_letter = item["answer"]
+
+        user_answers[i] = {
+            "question": item["question"],
+            "user_answer": user_letter,
+            "correct_answer": correct_letter,
+            "is_correct": user_letter == correct_letter
+        }
+
+        if user_letter == correct_letter:
+            score += 1
+
+    # Save to database
     time_taken = int(time.time() - start_time)
     db.save_quiz_attempt(USER_ID, lesson["No"], score, len(quizzes), time_taken, user_answers)
-    st.info(f"📊 Quiz completed! Score: {score}/{len(quizzes)} ({score/len(quizzes)*100:.1f}%)")
+
+    # Show results
+    st.success(f"🎉 Quiz Submitted!")
+    st.info(f"📊 Your Score: **{score}/{len(quizzes)}** ({score/len(quizzes)*100:.1f}%)")
+
+    # Show detailed results
+    with st.expander("📋 View Detailed Results"):
+        for i in range(len(quizzes)):
+            item = quizzes[i]
+            ans = user_answers[i]
+
+            if ans['is_correct']:
+                st.success(f"**Q{i+1}**: ✅ Correct")
+            else:
+                st.error(f"**Q{i+1}**: ❌ Wrong - Your answer: {ans['user_answer']}, Correct: {ans['correct_answer']}")
+                st.caption(f"💡 {item['explanation']}")
+else:
+    # Show answers for current page if not submitted
+    pass
 
 # ---------- Next Lesson ----------
 if st.button("▶ Next Lesson"):
