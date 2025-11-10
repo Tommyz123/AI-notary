@@ -1,0 +1,23 @@
+{
+  "total_modules": 10,
+  "total_lessons": 121,
+  "lessons_by_module": {
+    "Module 0": 4,
+    "Module 1": 5,
+    "Module 2": 3,
+    "Module 3": 20,
+    "Module 4": 6,
+    "Module 5": 29,
+    "Module 6": 5,
+    "Module 7": 6,
+    "Module 8": 6,
+    "Module 9": 37
+  },
+  "difficulty_distribution": {
+    "⭐": 10,
+    "⭐⭐": 20,
+    "⭐⭐⭐": 40,
+    "⭐⭐⭐⭐": 30,
+    "⭐⭐⭐⭐⭐": 21
+  }
+}
